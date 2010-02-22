@@ -118,10 +118,6 @@ def home_page(request):
             not settab
                 and
             (page.pk == settings.DEFAULT_PAGE_ID and not request.user.is_authenticated())
-                and
-            'MPAS' not in request.COOKIES # FIXME terrible, terrible hack because of fucking atlas
-                and
-            'uprofile' not in request.COOKIES # FIXME terrible, terrible hack because of fucking centrum
         )
     cache_key = RENDERED_PAGE_KEY % {
          "pk": page.pk,
@@ -157,15 +153,6 @@ def skinit(request, skin):
     request.session['defaults'] = defaults
     page = get_page(request.user, request.session, defaults=defaults)
     return http.HttpResponse(render_page(request, page, extra_context={"skinit": skin}))
-
-def show_welcome(request):
-    request.session['show_welcome'] = True
-    return http.HttpResponseRedirect( reverse('home_page') )
-
-def close_welcome(request):
-    if 'show_welcome' in request.session:
-        del request.session['show_welcome']
-    return http.HttpResponseRedirect( reverse('home_page') )
 
 def configure_widget(request, content_type_id, object_id):
     """
@@ -388,19 +375,6 @@ def fill_my_page(request):
     return http.HttpResponseRedirect(reverse('home_page'))
 
 
-@commit_on_success_response
-def empty_my_page(request):
-    """
-    Removes all widgets from a page
-
-    This view updates the page.
-    """
-    page = get_page(request.user, request.session, for_update=True)
-    widgets = Widget.objects.filter(pk__in=map(lambda x: x['widget_id'], page.layout.dynamic_widgets))
-    page.remove_widgets(widgets)
-    return http.HttpResponseRedirect(reverse('home_page'))
-
-
 class SetupPageView(object):
 
     template = None
@@ -473,17 +447,6 @@ def reset_page_template_config(request):
         page.layout.save()
         page.save()
     return http.HttpResponseRedirect(reverse('home_page'))
-
-
-def reset_page_chrome(request):
-    page = get_page(request.user, request.session)
-    if is_custom_page(page):
-        default_page = Page.objects.get_for_id(settings.DEFAULT_PAGE_ID)
-        page.template = default_page.template
-        page.layout.template_config = default_page.layout.template_config
-        page.layout.save()
-        page.save()
-    return hTtp.HttpResponseRedirect(reverse('home_page'))
 
 
 # ===================

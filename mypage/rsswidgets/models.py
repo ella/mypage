@@ -52,48 +52,8 @@ class RSSWidget(Widget):
         return data
 
     def modify_data(self, data=None, config={}):
-
         item_count = config.get('item_count', settings.DEFAULT_ITEM_COUNT)
-
         data['entries'] = data['entries'][:int(item_count)]
-        data['entries_type_1'] = {'full': [], 'multiswitch': [], 'bullet': []}
-        data['entries_type_2'] = {'full': [], 'multiswitch': [], 'bullet': []}
-        data['entries_type_3'] = {'full': [], 'multiswitch': [], 'bullet': []}
-        data['entries_type_4'] = {'full': [], 'multiswitch': [], 'bullet': []}
-
-        c = 0
-        for item in data['entries']:
-            c = c +1
-            if c == 1:
-                data['entries_type_1']['full'].append(item)
-                data['entries_type_2']['full'].append(item)
-                data['entries_type_3']['multiswitch'].append(item)
-                data['entries_type_4']['bullet'].append(item)
-
-            elif c == 2:
-                data['entries_type_1']['multiswitch'].append(item)
-                data['entries_type_2']['bullet'].append(item)
-                data['entries_type_3']['multiswitch'].append(item)
-                data['entries_type_4']['bullet'].append(item)
-
-            elif c == 3:
-                data['entries_type_1']['multiswitch'].append(item)
-                data['entries_type_2']['bullet'].append(item)
-                data['entries_type_3']['multiswitch'].append(item)
-                data['entries_type_4']['bullet'].append(item)
-
-            elif c == 4:
-                data['entries_type_1']['multiswitch'].append(item)
-                data['entries_type_2']['bullet'].append(item)
-                data['entries_type_3']['bullet'].append(item)
-                data['entries_type_4']['bullet'].append(item)
-
-            else:
-                data['entries_type_1']['bullet'].append(item)
-                data['entries_type_2']['bullet'].append(item)
-                data['entries_type_3']['bullet'].append(item)
-                data['entries_type_4']['bullet'].append(item)
-
         return data
 
 class MultiRSSWidget(Widget):

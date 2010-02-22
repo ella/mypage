@@ -1,7 +1,5 @@
 from django.db import models
 from django import forms
-from django.template import loader
-from django import template
 from django.template import RequestContext
 from django.utils.translation import ugettext_lazy as _
 from django.utils.http import urlquote

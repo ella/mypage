@@ -2,9 +2,6 @@ import urllib
 import logging
 from cStringIO import StringIO
 
-from django.db import models
-from django.utils.translation import ugettext_lazy as _
-
 from mypage.widgets.models import Widget, WidgetFetchDataFailedException
 
 
