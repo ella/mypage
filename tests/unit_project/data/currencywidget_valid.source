@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<listek>
+<spolecnost>
+<id>1</id>
+<nazev>Komerční banka</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.2650</hodnota><hodnota mena="BGN">13.0380</hodnota><hodnota mena="CAD">15.5720</hodnota><hodnota mena="CHF">17.1180</hodnota><hodnota mena="DKK">3.4390</hodnota><hodnota mena="EUR">25.6330</hodnota><hodnota mena="GBP">28.3710</hodnota><hodnota mena="HUF">9.4369</hodnota><hodnota mena="JPY">20.0490</hodnota><hodnota mena="NOK">2.7199</hodnota><hodnota mena="PLN">6.3729</hodnota><hodnota mena="RON">6.1999</hodnota><hodnota mena="RUB">64.0700</hodnota><hodnota mena="SEK">2.4219</hodnota><hodnota mena="TRY">11.9150</hodnota><hodnota mena="USD">18.6800</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.6510</hodnota><hodnota mena="BGN">13.3450</hodnota><hodnota mena="CAD">16.0260</hodnota><hodnota mena="CHF">17.4350</hodnota><hodnota mena="DKK">3.5027</hodnota><hodnota mena="EUR">26.1000</hodnota><hodnota mena="GBP">28.8970</hodnota><hodnota mena="HUF">9.7288</hodnota><hodnota mena="JPY">20.6330</hodnota><hodnota mena="NOK">2.7703</hodnota><hodnota mena="PLN">6.5156</hodnota><hodnota mena="RON">6.3459</hodnota><hodnota mena="RUB">65.5780</hodnota><hodnota mena="SEK">2.4660</hodnota><hodnota mena="SKK">86.6361</hodnota><hodnota mena="TRY">12.4430</hodnota><hodnota mena="USD">19.1240</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">14.0370</hodnota><hodnota mena="BGN">13.6520</hodnota><hodnota mena="CAD">16.4800</hodnota><hodnota mena="CHF">17.7520</hodnota><hodnota mena="DKK">3.5664</hodnota><hodnota mena="EUR">26.5670</hodnota><hodnota mena="GBP">29.4230</hodnota><hodnota mena="HUF">10.0210</hodnota><hodnota mena="JPY">21.2170</hodnota><hodnota mena="NOK">2.8207</hodnota><hodnota mena="PLN">6.6583</hodnota><hodnota mena="RON">6.4919</hodnota><hodnota mena="RUB">67.0860</hodnota><hodnota mena="SEK">2.5101</hodnota><hodnota mena="TRY">12.9710</hodnota><hodnota mena="USD">19.5680</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.2300</hodnota><hodnota mena="CAD">15.4800</hodnota><hodnota mena="CHF">17.0000</hodnota><hodnota mena="DKK">3.4110</hodnota><hodnota mena="EUR">25.4700</hodnota><hodnota mena="GBP">28.1900</hodnota><hodnota mena="JPY">19.9500</hodnota><hodnota mena="NOK">2.7020</hodnota><hodnota mena="PLN">6.3250</hodnota><hodnota mena="SEK">2.4050</hodnota><hodnota mena="SKK">84.5449</hodnota><hodnota mena="USD">18.6400</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.0700</hodnota><hodnota mena="CAD">16.5200</hodnota><hodnota mena="CHF">17.8600</hodnota><hodnota mena="DKK">3.5880</hodnota><hodnota mena="EUR">26.7300</hodnota><hodnota mena="GBP">29.6000</hodnota><hodnota mena="JPY">21.2700</hodnota><hodnota mena="NOK">2.8380</hodnota><hodnota mena="PLN">6.7060</hodnota><hodnota mena="SEK">2.5250</hodnota><hodnota mena="USD">19.6000</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>2</id>
+<nazev>ČSOB</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.2160</hodnota><hodnota mena="DKK">3.4290</hodnota><hodnota mena="EUR">25.5520</hodnota><hodnota mena="HRK">3.4990</hodnota><hodnota mena="JPY">20.2470</hodnota><hodnota mena="CAD">15.6810</hodnota><hodnota mena="HUF">9.5030</hodnota><hodnota mena="XDR">28.6210</hodnota><hodnota mena="NOK">2.7100</hodnota><hodnota mena="PLN">6.3500</hodnota><hodnota mena="RON">6.1980</hodnota><hodnota mena="RUB">64.3160</hodnota><hodnota mena="SEK">2.3820</hodnota><hodnota mena="CHF">17.0120</hodnota><hodnota mena="TRY">12.0730</hodnota><hodnota mena="USD">18.7300</hodnota><hodnota mena="GBP">28.2060</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.4990</hodnota><hodnota mena="DKK">3.5030</hodnota><hodnota mena="EUR">26.1000</hodnota><hodnota mena="HRK">3.5740</hodnota><hodnota mena="JPY">20.7020</hodnota><hodnota mena="CAD">16.0170</hodnota><hodnota mena="HUF">9.7170</hodnota><hodnota mena="XDR">29.2350</hodnota><hodnota mena="NOK">2.7680</hodnota><hodnota mena="PLN">6.4930</hodnota><hodnota mena="RON">6.3370</hodnota><hodnota mena="RUB">65.6960</hodnota><hodnota mena="SEK">2.4330</hodnota><hodnota mena="CHF">17.3770</hodnota><hodnota mena="TRY">12.3320</hodnota><hodnota mena="USD">19.1510</hodnota><hodnota mena="GBP">28.8400</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.7820</hodnota><hodnota mena="DKK">3.5770</hodnota><hodnota mena="EUR">26.6480</hodnota><hodnota mena="HRK">3.6490</hodnota><hodnota mena="JPY">21.1570</hodnota><hodnota mena="CAD">16.3530</hodnota><hodnota mena="HUF">9.9310</hodnota><hodnota mena="XDR">29.8490</hodnota><hodnota mena="NOK">2.8260</hodnota><hodnota mena="PLN">6.6360</hodnota><hodnota mena="RON">6.4760</hodnota><hodnota mena="RUB">67.0760</hodnota><hodnota mena="SEK">2.4840</hodnota><hodnota mena="CHF">17.7420</hodnota><hodnota mena="TRY">12.5910</hodnota><hodnota mena="USD">19.5720</hodnota><hodnota mena="GBP">29.4740</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="DKK">3.4200</hodnota><hodnota mena="EUR">25.5000</hodnota><hodnota mena="NOK">2.7100</hodnota><hodnota mena="SEK">2.3700</hodnota><hodnota mena="CHF">16.9800</hodnota><hodnota mena="USD">18.6900</hodnota><hodnota mena="GBP">28.1500</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="DKK">3.5800</hodnota><hodnota mena="EUR">26.7000</hodnota><hodnota mena="NOK">2.8300</hodnota><hodnota mena="SEK">2.4900</hodnota><hodnota mena="CHF">17.7800</hodnota><hodnota mena="USD">19.6100</hodnota><hodnota mena="GBP">29.5300</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>4</id>
+<nazev>Česká spořitelna</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.3140</hodnota><hodnota mena="DKK">3.4740</hodnota><hodnota mena="EUR">25.8860</hodnota><hodnota mena="HKD">2.4570</hodnota><hodnota mena="HRK">3.5450</hodnota><hodnota mena="ISK">15.3830</hodnota><hodnota mena="JPY">20.7770</hodnota><hodnota mena="ZAR">1.9640</hodnota><hodnota mena="CAD">15.8480</hodnota><hodnota mena="LTL">7.4970</hodnota><hodnota mena="HUF">9.5860</hodnota><hodnota mena="XDR">29.2010</hodnota><hodnota mena="NOK">2.7130</hodnota><hodnota mena="NZD">11.0890</hodnota><hodnota mena="PLN">6.3970</hodnota><hodnota mena="RON">6.2650</hodnota><hodnota mena="RUB">65.3520</hodnota><hodnota mena="SEK">2.4060</hodnota><hodnota mena="CHF">17.2880</hodnota><hodnota mena="TRY">12.2780</hodnota><hodnota mena="GBP">28.6130</hodnota><hodnota mena="USD">19.0550</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.5170</hodnota><hodnota mena="DKK">3.5270</hodnota><hodnota mena="EUR">26.2800</hodnota><hodnota mena="HKD">2.4950</hodnota><hodnota mena="HRK">3.5990</hodnota><hodnota mena="ISK">15.6180</hodnota><hodnota mena="JPY">21.0930</hodnota><hodnota mena="ZAR">1.9940</hodnota><hodnota mena="CAD">16.0890</hodnota><hodnota mena="LTL">7.6110</hodnota><hodnota mena="HUF">9.7320</hodnota><hodnota mena="XDR">29.6460</hodnota><hodnota mena="NOK">2.7550</hodnota><hodnota mena="NZD">11.2580</hodnota><hodnota mena="PLN">6.4950</hodnota><hodnota mena="RON">6.3600</hodnota><hodnota mena="RUB">66.3470</hodnota><hodnota mena="SEK">2.4430</hodnota><hodnota mena="CHF">17.5510</hodnota><hodnota mena="TRY">12.4650</hodnota><hodnota mena="GBP">29.0480</hodnota><hodnota mena="USD">19.3460</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.7200</hodnota><hodnota mena="DKK">3.5800</hodnota><hodnota mena="EUR">26.6740</hodnota><hodnota mena="HKD">2.5320</hodnota><hodnota mena="HRK">3.6530</hodnota><hodnota mena="ISK">15.8520</hodnota><hodnota mena="JPY">21.4100</hodnota><hodnota mena="ZAR">2.0240</hodnota><hodnota mena="CAD">16.3300</hodnota><hodnota mena="LTL">7.7250</hodnota><hodnota mena="HUF">9.8780</hodnota><hodnota mena="XDR">30.0900</hodnota><hodnota mena="NOK">2.7960</hodnota><hodnota mena="NZD">11.4270</hodnota><hodnota mena="PLN">6.5920</hodnota><hodnota mena="RON">6.4560</hodnota><hodnota mena="RUB">67.3430</hodnota><hodnota mena="SEK">2.4790</hodnota><hodnota mena="CHF">17.8140</hodnota><hodnota mena="TRY">12.6520</hodnota><hodnota mena="GBP">29.4840</hodnota><hodnota mena="USD">19.6360</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.1800</hodnota><hodnota mena="DKK">3.4400</hodnota><hodnota mena="EUR">25.6200</hodnota><hodnota mena="HRK">3.5100</hodnota><hodnota mena="JPY">20.5700</hodnota><hodnota mena="CAD">15.6900</hodnota><hodnota mena="HUF">9.4900</hodnota><hodnota mena="NOK">2.6900</hodnota><hodnota mena="NZD">10.9800</hodnota><hodnota mena="PLN">6.3300</hodnota><hodnota mena="SKK">85.0500</hodnota><hodnota mena="SEK">2.3800</hodnota><hodnota mena="CHF">17.1100</hodnota><hodnota mena="GBP">28.3200</hodnota><hodnota mena="USD">18.8600</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">13.8500</hodnota><hodnota mena="DKK">3.6100</hodnota><hodnota mena="EUR">26.9400</hodnota><hodnota mena="HRK">3.6900</hodnota><hodnota mena="JPY">21.6200</hodnota><hodnota mena="CAD">16.4900</hodnota><hodnota mena="HUF">9.9800</hodnota><hodnota mena="NOK">2.8200</hodnota><hodnota mena="NZD">11.5400</hodnota><hodnota mena="PLN">6.6600</hodnota><hodnota mena="SEK">2.5000</hodnota><hodnota mena="CHF">17.9900</hodnota><hodnota mena="GBP">29.7700</hodnota><hodnota mena="USD">19.8300</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>6</id>
+<nazev>Česká národní banka</nazev>
+<datum>2009-01-07</datum>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.8540</hodnota><hodnota mena="BRL">8.6970</hodnota><hodnota mena="BGN">13.3370</hodnota><hodnota mena="CNY">2.8080</hodnota><hodnota mena="DKK">3.5050</hodnota><hodnota mena="EUR">26.1200</hodnota><hodnota mena="EEK">1.6690</hodnota><hodnota mena="PHP">41.3020</hodnota><hodnota mena="HKD">2.4750</hodnota><hodnota mena="HRK">3.5770</hodnota><hodnota mena="INR">39.4540</hodnota><hodnota mena="IDR">1.7850</hodnota><hodnota mena="ISK">15.6090</hodnota><hodnota mena="JPY">20.5790</hodnota><hodnota mena="ZAR">2.0500</hodnota><hodnota mena="KRW">1.4840</hodnota><hodnota mena="CAD">16.2360</hodnota><hodnota mena="LTL">7.5650</hodnota><hodnota mena="LVL">36.9610</hodnota><hodnota mena="HUF">9.8140</hodnota><hodnota mena="MYR">5.4810</hodnota><hodnota mena="MXN">1.4270</hodnota><hodnota mena="XDR">28.8910</hodnota><hodnota mena="NOK">2.7810</hodnota><hodnota mena="NZD">11.4810</hodnota><hodnota mena="PLN">6.5720</hodnota><hodnota mena="RON">6.3670</hodnota><hodnota mena="RUB">65.8900</hodnota><hodnota mena="SGD">13.0480</hodnota><hodnota mena="SEK">2.4700</hodnota><hodnota mena="CHF">17.3700</hodnota><hodnota mena="THB">55.0810</hodnota><hodnota mena="TRY">12.6220</hodnota><hodnota mena="USD">19.1850</hodnota><hodnota mena="GBP">28.8610</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>8</id>
+<nazev>LBBW Bank</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.3880</hodnota><hodnota mena="GBP">28.7270</hodnota><hodnota mena="DKK">3.4780</hodnota><hodnota mena="EUR">26.0520</hodnota><hodnota mena="JPY">20.7280</hodnota><hodnota mena="CAD">15.8580</hodnota><hodnota mena="HUF">9.6070</hodnota><hodnota mena="NOK">2.7340</hodnota><hodnota mena="NZD">11.2180</hodnota><hodnota mena="PLN">6.4570</hodnota><hodnota mena="SEK">2.4260</hodnota><hodnota mena="CHF">17.3190</hodnota><hodnota mena="USD">19.1650</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.7960</hodnota><hodnota mena="GBP">29.6010</hodnota><hodnota mena="DKK">3.5840</hodnota><hodnota mena="EUR">26.5780</hodnota><hodnota mena="JPY">21.3600</hodnota><hodnota mena="CAD">16.3400</hodnota><hodnota mena="HUF">9.8990</hodnota><hodnota mena="NOK">2.8180</hodnota><hodnota mena="NZD">11.5600</hodnota><hodnota mena="PLN">6.6530</hodnota><hodnota mena="SEK">2.5000</hodnota><hodnota mena="CHF">17.8470</hodnota><hodnota mena="USD">19.5530</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.1310</hodnota><hodnota mena="GBP">28.3860</hodnota><hodnota mena="DKK">3.4490</hodnota><hodnota mena="EUR">25.6950</hodnota><hodnota mena="JPY">20.3110</hodnota><hodnota mena="CAD">15.5170</hodnota><hodnota mena="NOK">2.6950</hodnota><hodnota mena="PLN">6.2510</hodnota><hodnota mena="SEK">2.3930</hodnota><hodnota mena="CHF">17.1640</hodnota><hodnota mena="USD">18.8760</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.0830</hodnota><hodnota mena="GBP">29.7220</hodnota><hodnota mena="DKK">3.6110</hodnota><hodnota mena="EUR">26.9050</hodnota><hodnota mena="JPY">21.7850</hodnota><hodnota mena="CAD">16.6430</hodnota><hodnota mena="NOK">2.8210</hodnota><hodnota mena="PLN">6.7050</hodnota><hodnota mena="SEK">2.5050</hodnota><hodnota mena="CHF">17.9720</hodnota><hodnota mena="USD">19.7640</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>10</id>
+<nazev>GE Money Bank</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.5170</hodnota><hodnota mena="CAD">15.7790</hodnota><hodnota mena="CHF">17.0830</hodnota><hodnota mena="DKK">3.4320</hodnota><hodnota mena="EUR">25.5070</hodnota><hodnota mena="GBP">28.0630</hodnota><hodnota mena="JPY">20.0580</hodnota><hodnota mena="NOK">2.7150</hodnota><hodnota mena="SEK">2.4070</hodnota><hodnota mena="USD">18.5090</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.7230</hodnota><hodnota mena="CAD">16.0600</hodnota><hodnota mena="CHF">17.3430</hodnota><hodnota mena="DKK">3.4840</hodnota><hodnota mena="EUR">25.9610</hodnota><hodnota mena="GBP">28.5630</hodnota><hodnota mena="JPY">20.4150</hodnota><hodnota mena="NOK">2.7560</hodnota><hodnota mena="SEK">2.4440</hodnota><hodnota mena="USD">18.9350</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.9290</hodnota><hodnota mena="CAD">16.3410</hodnota><hodnota mena="CHF">17.6030</hodnota><hodnota mena="DKK">3.5360</hodnota><hodnota mena="EUR">26.4150</hodnota><hodnota mena="GBP">29.0630</hodnota><hodnota mena="JPY">20.7720</hodnota><hodnota mena="NOK">2.7970</hodnota><hodnota mena="SEK">2.4810</hodnota><hodnota mena="USD">19.3610</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="CHF">16.8900</hodnota><hodnota mena="EUR">25.2900</hodnota><hodnota mena="GBP">27.7000</hodnota><hodnota mena="USD">18.4500</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="CHF">17.7900</hodnota><hodnota mena="EUR">26.6300</hodnota><hodnota mena="GBP">29.4200</hodnota><hodnota mena="USD">19.4300</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>13</id>
+<nazev>Exchange</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="USD">19.3000</hodnota><hodnota mena="EUR">26.2000</hodnota><hodnota mena="GBP">28.8000</hodnota><hodnota mena="CHF">17.4000</hodnota><hodnota mena="JPY">20.7000</hodnota><hodnota mena="DKK">3.4800</hodnota><hodnota mena="NOK">2.7200</hodnota><hodnota mena="SEK">2.4100</hodnota><hodnota mena="CAD">16.0000</hodnota><hodnota mena="AUD">13.5000</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="USD">19.4000</hodnota><hodnota mena="EUR">26.3000</hodnota><hodnota mena="GBP">29.0000</hodnota><hodnota mena="CHF">17.5000</hodnota><hodnota mena="JPY">20.9000</hodnota><hodnota mena="DKK">3.5100</hodnota><hodnota mena="NOK">2.7500</hodnota><hodnota mena="SEK">2.4400</hodnota><hodnota mena="CAD">16.1000</hodnota><hodnota mena="AUD">13.6000</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="USD">19.1000</hodnota><hodnota mena="EUR">26.0000</hodnota><hodnota mena="GBP">28.4000</hodnota><hodnota mena="CHF">17.2000</hodnota><hodnota mena="JPY">20.5000</hodnota><hodnota mena="DKK">3.4600</hodnota><hodnota mena="NOK">2.7000</hodnota><hodnota mena="SEK">2.3900</hodnota><hodnota mena="CAD">15.8000</hodnota><hodnota mena="AUD">13.3000</hodnota><hodnota mena="PLN">6.4000</hodnota><hodnota mena="HUF">9.5000</hodnota><hodnota mena="HRK">3.5000</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="USD">19.6000</hodnota><hodnota mena="EUR">26.6000</hodnota><hodnota mena="GBP">29.2000</hodnota><hodnota mena="CHF">17.7000</hodnota><hodnota mena="JPY">21.1000</hodnota><hodnota mena="DKK">3.5300</hodnota><hodnota mena="NOK">2.7700</hodnota><hodnota mena="SEK">2.4600</hodnota><hodnota mena="CAD">16.3000</hodnota><hodnota mena="AUD">13.8000</hodnota><hodnota mena="PLN">6.7000</hodnota><hodnota mena="HUF">10.0000</hodnota><hodnota mena="HRK">3.7000</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>15</id>
+<nazev>Raiffeisenbank</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.3504</hodnota><hodnota mena="HRK">3.5447</hodnota><hodnota mena="DKK">3.4835</hodnota><hodnota mena="EUR">25.9613</hodnota><hodnota mena="JPY">20.7848</hodnota><hodnota mena="CAD">15.8548</hodnota><hodnota mena="HUF">9.5354</hodnota><hodnota mena="NOK">2.7637</hodnota><hodnota mena="NZD">11.1418</hodnota><hodnota mena="PLN">6.3926</hodnota><hodnota mena="RON">6.2896</hodnota><hodnota mena="RUB">65.0906</hodnota><hodnota mena="USD">19.0890</hodnota><hodnota mena="TRY">12.4685</hodnota><hodnota mena="GBP">28.6857</hodnota><hodnota mena="SEK">2.4551</hodnota><hodnota mena="CHF">17.3141</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.5400</hodnota><hodnota mena="HRK">3.6060</hodnota><hodnota mena="DKK">3.5330</hodnota><hodnota mena="EUR">26.3300</hodnota><hodnota mena="JPY">21.0800</hodnota><hodnota mena="CAD">16.0800</hodnota><hodnota mena="HUF">9.7300</hodnota><hodnota mena="NOK">2.8030</hodnota><hodnota mena="NZD">11.3000</hodnota><hodnota mena="PLN">6.4900</hodnota><hodnota mena="RON">6.4180</hodnota><hodnota mena="RUB">66.4190</hodnota><hodnota mena="USD">19.3600</hodnota><hodnota mena="TRY">12.7230</hodnota><hodnota mena="GBP">29.0930</hodnota><hodnota mena="SEK">2.4900</hodnota><hodnota mena="CHF">17.5600</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.7296</hodnota><hodnota mena="HRK">3.6673</hodnota><hodnota mena="DKK">3.5825</hodnota><hodnota mena="EUR">26.6986</hodnota><hodnota mena="JPY">21.3751</hodnota><hodnota mena="CAD">16.3051</hodnota><hodnota mena="HUF">9.9246</hodnota><hodnota mena="NOK">2.8422</hodnota><hodnota mena="NZD">11.4582</hodnota><hodnota mena="PLN">6.5874</hodnota><hodnota mena="RON">6.5464</hodnota><hodnota mena="RUB">67.7474</hodnota><hodnota mena="USD">19.6310</hodnota><hodnota mena="TRY">12.9775</hodnota><hodnota mena="GBP">29.5003</hodnota><hodnota mena="SEK">2.5249</hodnota><hodnota mena="CHF">17.8058</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">12.9984</hodnota><hodnota mena="HRK">3.3896</hodnota><hodnota mena="DKK">3.3917</hodnota><hodnota mena="EUR">25.4085</hodnota><hodnota mena="JPY">20.2368</hodnota><hodnota mena="CAD">15.4368</hodnota><hodnota mena="HUF">9.2435</hodnota><hodnota mena="NOK">2.6909</hodnota><hodnota mena="NZD">10.8480</hodnota><hodnota mena="PLN">6.1655</hodnota><hodnota mena="RON">6.2255</hodnota><hodnota mena="RUB">62.4339</hodnota><hodnota mena="USD">18.7792</hodnota><hodnota mena="TRY">11.9596</hodnota><hodnota mena="GBP">28.2202</hodnota><hodnota mena="SEK">2.3904</hodnota><hodnota mena="CHF">17.0332</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.0139</hodnota><hodnota mena="HRK">3.6781</hodnota><hodnota mena="DKK">3.6567</hodnota><hodnota mena="EUR">27.1199</hodnota><hodnota mena="JPY">21.8178</hodnota><hodnota mena="CAD">16.6428</hodnota><hodnota mena="HUF">9.9441</hodnota><hodnota mena="NOK">2.9011</hodnota><hodnota mena="NZD">11.6955</hodnota><hodnota mena="PLN">6.6198</hodnota><hodnota mena="RON">6.6105</hodnota><hodnota mena="RUB">70.4041</hodnota><hodnota mena="USD">19.9408</hodnota><hodnota mena="TRY">13.4864</hodnota><hodnota mena="GBP">29.9658</hodnota><hodnota mena="SEK">2.5772</hodnota><hodnota mena="CHF">18.0868</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>17</id>
+<nazev>Volksbank</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.5640</hodnota><hodnota mena="CAD">15.8720</hodnota><hodnota mena="DKK">3.4630</hodnota><hodnota mena="EUR">25.8050</hodnota><hodnota mena="GBP">28.7270</hodnota><hodnota mena="HUF">9.6090</hodnota><hodnota mena="CHF">17.1860</hodnota><hodnota mena="JPY">20.3620</hodnota><hodnota mena="NOK">2.7430</hodnota><hodnota mena="PLN">6.4250</hodnota><hodnota mena="SEK">2.4330</hodnota><hodnota mena="USD">18.8800</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.7710</hodnota><hodnota mena="CAD">16.1140</hodnota><hodnota mena="DKK">3.5160</hodnota><hodnota mena="EUR">26.1980</hodnota><hodnota mena="GBP">29.1640</hodnota><hodnota mena="HUF">9.7550</hodnota><hodnota mena="CHF">17.4480</hodnota><hodnota mena="JPY">20.6720</hodnota><hodnota mena="NOK">2.7850</hodnota><hodnota mena="PLN">6.5230</hodnota><hodnota mena="SEK">2.4700</hodnota><hodnota mena="USD">19.1680</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.9780</hodnota><hodnota mena="CAD">16.3560</hodnota><hodnota mena="DKK">3.5690</hodnota><hodnota mena="EUR">26.5910</hodnota><hodnota mena="GBP">29.6010</hodnota><hodnota mena="HUF">9.9010</hodnota><hodnota mena="CHF">17.7100</hodnota><hodnota mena="JPY">20.9820</hodnota><hodnota mena="NOK">2.8270</hodnota><hodnota mena="PLN">6.6210</hodnota><hodnota mena="SEK">2.5070</hodnota><hodnota mena="USD">19.4560</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.1500</hodnota><hodnota mena="CAD">15.3900</hodnota><hodnota mena="DKK">3.3600</hodnota><hodnota mena="EUR">25.4100</hodnota><hodnota mena="GBP">27.8500</hodnota><hodnota mena="HRK">3.4300</hodnota><hodnota mena="HUF">9.3200</hodnota><hodnota mena="CHF">16.6600</hodnota><hodnota mena="JPY">19.7400</hodnota><hodnota mena="NOK">2.6600</hodnota><hodnota mena="PLN">6.2300</hodnota><hodnota mena="SEK">2.3600</hodnota><hodnota mena="USD">18.5900</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.3900</hodnota><hodnota mena="CAD">16.8400</hodnota><hodnota mena="DKK">3.6700</hodnota><hodnota mena="EUR">26.9800</hodnota><hodnota mena="GBP">30.4800</hodnota><hodnota mena="HRK">3.7500</hodnota><hodnota mena="HUF">10.1900</hodnota><hodnota mena="CHF">18.2300</hodnota><hodnota mena="JPY">21.6000</hodnota><hodnota mena="NOK">2.9100</hodnota><hodnota mena="PLN">6.8200</hodnota><hodnota mena="SEK">2.5800</hodnota><hodnota mena="USD">19.7400</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>20</id>
+<nazev>Všeobecná úverová banka</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="USD">19.0260</hodnota><hodnota mena="EUR">25.8780</hodnota><hodnota mena="CAD">15.6760</hodnota><hodnota mena="CHF">17.1870</hodnota><hodnota mena="DKK">3.4409</hodnota><hodnota mena="GBP">28.5560</hodnota><hodnota mena="JPY">20.5480</hodnota><hodnota mena="NOK">2.6926</hodnota><hodnota mena="SEK">2.3908</hodnota><hodnota mena="HUF">9.6912</hodnota><hodnota mena="PLN">6.3366</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="USD">19.3160</hodnota><hodnota mena="EUR">26.2450</hodnota><hodnota mena="CAD">16.0450</hodnota><hodnota mena="CHF">17.5200</hodnota><hodnota mena="DKK">3.5219</hodnota><hodnota mena="GBP">29.1090</hodnota><hodnota mena="JPY">21.0320</hodnota><hodnota mena="NOK">2.7560</hodnota><hodnota mena="SEK">2.4471</hodnota><hodnota mena="HUF">9.7017</hodnota><hodnota mena="PLN">6.4858</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="USD">19.6060</hodnota><hodnota mena="EUR">26.6120</hodnota><hodnota mena="CAD">16.4140</hodnota><hodnota mena="CHF">17.8530</hodnota><hodnota mena="DKK">3.6029</hodnota><hodnota mena="GBP">29.6620</hodnota><hodnota mena="JPY">21.5160</hodnota><hodnota mena="NOK">2.8194</hodnota><hodnota mena="SEK">2.5034</hodnota><hodnota mena="HUF">10.1470</hodnota><hodnota mena="PLN">6.6350</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="USD">18.8720</hodnota><hodnota mena="EUR">25.6410</hodnota><hodnota mena="CHF">16.9070</hodnota><hodnota mena="GBP">28.0900</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="USD">19.7600</hodnota><hodnota mena="EUR">26.8490</hodnota><hodnota mena="CHF">18.1330</hodnota><hodnota mena="GBP">30.1280</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>25</id>
+<nazev>Oberbank</nazev>
+<datum>2009-01-06</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.7230</hodnota><hodnota mena="CAD">15.9270</hodnota><hodnota mena="DKK">3.5440</hodnota><hodnota mena="EUR">26.3760</hodnota><hodnota mena="GBP">28.0300</hodnota><hodnota mena="HRK">3.6220</hodnota><hodnota mena="HUF">9.9090</hodnota><hodnota mena="CHF">17.5290</hodnota><hodnota mena="JPY">20.7520</hodnota><hodnota mena="NOK">2.7920</hodnota><hodnota mena="NZD">11.2860</hodnota><hodnota mena="PLN">6.3820</hodnota><hodnota mena="SEK">2.4650</hodnota><hodnota mena="SGD">13.1420</hodnota><hodnota mena="USD">19.3370</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.8970</hodnota><hodnota mena="CAD">16.1290</hodnota><hodnota mena="DKK">3.5890</hodnota><hodnota mena="EUR">26.7100</hodnota><hodnota mena="GBP">28.3850</hodnota><hodnota mena="HRK">3.6680</hodnota><hodnota mena="HUF">10.0340</hodnota><hodnota mena="CHF">17.7510</hodnota><hodnota mena="JPY">21.0150</hodnota><hodnota mena="NOK">2.8270</hodnota><hodnota mena="NZD">11.4290</hodnota><hodnota mena="PLN">6.4630</hodnota><hodnota mena="SEK">2.4960</hodnota><hodnota mena="SGD">13.3080</hodnota><hodnota mena="USD">19.5820</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">14.0710</hodnota><hodnota mena="CAD">16.3310</hodnota><hodnota mena="DKK">3.6340</hodnota><hodnota mena="EUR">27.0440</hodnota><hodnota mena="GBP">28.7400</hodnota><hodnota mena="HRK">3.7140</hodnota><hodnota mena="HUF">10.1590</hodnota><hodnota mena="CHF">17.9730</hodnota><hodnota mena="JPY">21.2780</hodnota><hodnota mena="NOK">2.8620</hodnota><hodnota mena="NZD">11.5720</hodnota><hodnota mena="PLN">6.5440</hodnota><hodnota mena="SEK">2.5270</hodnota><hodnota mena="SGD">13.4740</hodnota><hodnota mena="USD">19.8270</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.3400</hodnota><hodnota mena="CAD">15.4800</hodnota><hodnota mena="DKK">3.4500</hodnota><hodnota mena="EUR">26.0400</hodnota><hodnota mena="GBP">27.2500</hodnota><hodnota mena="HRK">3.5200</hodnota><hodnota mena="HUF">9.6300</hodnota><hodnota mena="CHF">17.0400</hodnota><hodnota mena="JPY">20.1800</hodnota><hodnota mena="NOK">2.7200</hodnota><hodnota mena="NZD">10.9700</hodnota><hodnota mena="PLN">6.2000</hodnota><hodnota mena="SEK">2.4000</hodnota><hodnota mena="USD">19.0900</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.4600</hodnota><hodnota mena="CAD">16.7800</hodnota><hodnota mena="DKK">3.7300</hodnota><hodnota mena="EUR">27.3800</hodnota><hodnota mena="GBP">29.5300</hodnota><hodnota mena="HRK">3.8200</hodnota><hodnota mena="HUF">10.4300</hodnota><hodnota mena="CHF">18.4600</hodnota><hodnota mena="JPY">21.8600</hodnota><hodnota mena="NOK">2.9400</hodnota><hodnota mena="NZD">11.8900</hodnota><hodnota mena="PLN">6.7200</hodnota><hodnota mena="SEK">2.6000</hodnota><hodnota mena="USD">20.0700</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>26</id>
+<nazev>Národná banka Slovenska</nazev>
+<datum>2008-12-31</datum>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">14.7520</hodnota><hodnota mena="BGN">15.4070</hodnota><hodnota mena="CAD">17.3910</hodnota><hodnota mena="CZK">1.1310</hodnota><hodnota mena="DKK">4.0440</hodnota><hodnota mena="EEK">1.9260</hodnota><hodnota mena="EUR">30.1260</hodnota><hodnota mena="GBP">30.9260</hodnota><hodnota mena="HUF">11.3160</hodnota><hodnota mena="CHF">20.1340</hodnota><hodnota mena="JPY">23.6520</hodnota><hodnota mena="LTL">8.7280</hodnota><hodnota mena="LVL">42.6410</hodnota><hodnota mena="NOK">3.0630</hodnota><hodnota mena="PLN">7.2660</hodnota><hodnota mena="RON">7.4990</hodnota><hodnota mena="SEK">2.7520</hodnota><hodnota mena="USD">21.3850</hodnota><hodnota mena="XDR">33.0140</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>28</id>
+<nazev>Exchange VIP</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="valuty_nakup">
+<hodnota mena="USD">19.2000</hodnota><hodnota mena="EUR">26.1500</hodnota><hodnota mena="GBP">28.6000</hodnota><hodnota mena="CHF">17.3000</hodnota><hodnota mena="JPY">20.6000</hodnota><hodnota mena="DKK">3.4700</hodnota><hodnota mena="NOK">2.7100</hodnota><hodnota mena="SEK">2.4000</hodnota><hodnota mena="CAD">15.9000</hodnota><hodnota mena="AUD">13.4000</hodnota><hodnota mena="PLN">6.4500</hodnota><hodnota mena="HUF">9.6000</hodnota><hodnota mena="HRK">3.5500</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="USD">19.5000</hodnota><hodnota mena="EUR">26.4500</hodnota><hodnota mena="GBP">29.1000</hodnota><hodnota mena="CHF">17.6000</hodnota><hodnota mena="JPY">21.0000</hodnota><hodnota mena="DKK">3.5200</hodnota><hodnota mena="NOK">2.7600</hodnota><hodnota mena="SEK">2.4500</hodnota><hodnota mena="CAD">16.2000</hodnota><hodnota mena="AUD">13.7000</hodnota><hodnota mena="PLN">6.6500</hodnota><hodnota mena="HUF">9.9000</hodnota><hodnota mena="HRK">3.6500</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>29</id>
+<nazev>UniCredit Bank</nazev>
+<datum>2009-01-08</datum>
+<kurzy id="devizy_nakup">
+<hodnota mena="AUD">13.5182</hodnota><hodnota mena="BAM">13.1262</hodnota><hodnota mena="BGN">13.1262</hodnota><hodnota mena="CAD">15.8516</hodnota><hodnota mena="DKK">3.4456</hodnota><hodnota mena="EUR">25.7119</hodnota><hodnota mena="GBP">28.4197</hodnota><hodnota mena="HKD">2.4238</hodnota><hodnota mena="HRK">3.5144</hodnota><hodnota mena="HUF">9.5646</hodnota><hodnota mena="CHF">17.1475</hodnota><hodnota mena="JPY">20.2434</hodnota><hodnota mena="NOK">2.7244</hodnota><hodnota mena="NZD">11.2732</hodnota><hodnota mena="PLN">6.4098</hodnota><hodnota mena="RON">6.2339</hodnota><hodnota mena="RUB">64.4520</hodnota><hodnota mena="SEK">2.4189</hodnota><hodnota mena="SGD">12.7754</hodnota><hodnota mena="TRY">12.2714</hodnota><hodnota mena="USD">18.8229</hodnota></kurzy>
+<kurzy id="devizy_stred">
+<hodnota mena="AUD">13.7590</hodnota><hodnota mena="BAM">13.3600</hodnota><hodnota mena="BGN">13.3600</hodnota><hodnota mena="CAD">16.1340</hodnota><hodnota mena="DKK">3.5070</hodnota><hodnota mena="EUR">26.1300</hodnota><hodnota mena="GBP">28.9260</hodnota><hodnota mena="HKD">2.4670</hodnota><hodnota mena="HRK">3.5770</hodnota><hodnota mena="HUF">9.7350</hodnota><hodnota mena="CHF">17.4530</hodnota><hodnota mena="JPY">20.6040</hodnota><hodnota mena="NOK">2.7730</hodnota><hodnota mena="NZD">11.4740</hodnota><hodnota mena="PLN">6.5240</hodnota><hodnota mena="RON">6.3450</hodnota><hodnota mena="RUB">65.6000</hodnota><hodnota mena="SEK">2.4620</hodnota><hodnota mena="SGD">13.0030</hodnota><hodnota mena="TRY">12.4900</hodnota><hodnota mena="USD">19.1290</hodnota></kurzy>
+<kurzy id="devizy_prodej">
+<hodnota mena="AUD">13.9997</hodnota><hodnota mena="BAM">13.5938</hodnota><hodnota mena="BGN">13.5938</hodnota><hodnota mena="CAD">16.4163</hodnota><hodnota mena="DKK">3.5683</hodnota><hodnota mena="EUR">26.5480</hodnota><hodnota mena="GBP">29.4322</hodnota><hodnota mena="HKD">2.5101</hodnota><hodnota mena="HRK">3.6395</hodnota><hodnota mena="HUF">9.9054</hodnota><hodnota mena="CHF">17.7584</hodnota><hodnota mena="JPY">20.9646</hodnota><hodnota mena="NOK">2.8215</hodnota><hodnota mena="NZD">11.6747</hodnota><hodnota mena="PLN">6.6381</hodnota><hodnota mena="RON">6.4560</hodnota><hodnota mena="RUB">66.7480</hodnota><hodnota mena="SEK">2.5050</hodnota><hodnota mena="SGD">13.2305</hodnota><hodnota mena="TRY">12.7085</hodnota><hodnota mena="USD">19.4350</hodnota></kurzy>
+<kurzy id="valuty_nakup">
+<hodnota mena="AUD">13.1123</hodnota><hodnota mena="BAM">12.6252</hodnota><hodnota mena="CAD">15.3757</hodnota><hodnota mena="DKK">3.3562</hodnota><hodnota mena="EUR">25.0325</hodnota><hodnota mena="GBP">27.7111</hodnota><hodnota mena="HRK">3.3802</hodnota><hodnota mena="CHF">16.7199</hodnota><hodnota mena="JPY">19.6356</hodnota><hodnota mena="NOK">2.6565</hodnota><hodnota mena="NZD">10.9347</hodnota><hodnota mena="SEK">2.3585</hodnota><hodnota mena="USD">18.3255</hodnota></kurzy>
+<kurzy id="valuty_prodej">
+<hodnota mena="AUD">14.2543</hodnota><hodnota mena="BAM">13.9611</hodnota><hodnota mena="CAD">16.7148</hodnota><hodnota mena="DKK">3.6332</hodnota><hodnota mena="EUR">26.9139</hodnota><hodnota mena="GBP">29.9673</hodnota><hodnota mena="HRK">3.7379</hodnota><hodnota mena="CHF">18.0464</hodnota><hodnota mena="JPY">21.3457</hodnota><hodnota mena="NOK">2.8756</hodnota><hodnota mena="NZD">11.8870</hodnota><hodnota mena="SEK">2.5530</hodnota><hodnota mena="USD">19.7028</hodnota></kurzy>
+</spolecnost>
+<spolecnost>
+<id>31</id>
+<nazev>Evropská centrální banka</nazev>
+<datum>2009-01-07</datum>
+<kurzy id="devizy_stred">
+<hodnota mena="USD">1.3595</hodnota><hodnota mena="JPY">126.7700</hodnota><hodnota mena="BGN">1.9558</hodnota><hodnota mena="CZK">26.1170</hodnota><hodnota mena="DKK">7.4522</hodnota><hodnota mena="EEK">15.6466</hodnota><hodnota mena="GBP">0.9043</hodnota><hodnota mena="HUF">266.1400</hodnota><hodnota mena="LTL">3.4528</hodnota><hodnota mena="LVL">0.7069</hodnota><hodnota mena="PLN">3.9747</hodnota><hodnota mena="RON">4.0995</hodnota><hodnota mena="SEK">10.5763</hodnota><hodnota mena="CHF">1.5006</hodnota><hodnota mena="NOK">9.3915</hodnota><hodnota mena="HRK">7.3019</hodnota><hodnota mena="RUB">39.9068</hodnota><hodnota mena="TRY">2.0672</hodnota><hodnota mena="AUD">1.8831</hodnota><hodnota mena="BRL">2.9977</hodnota><hodnota mena="CAD">1.6061</hodnota><hodnota mena="CNY">9.2908</hodnota><hodnota mena="HKD">10.5398</hodnota><hodnota mena="IDR">14750.5800</hodnota><hodnota mena="INR">66.3640</hodnota><hodnota mena="KRW">1780.1300</hodnota><hodnota mena="MXN">18.2717</hodnota><hodnota mena="MYR">4.7589</hodnota><hodnota mena="NZD">2.2717</hodnota><hodnota mena="PHP">63.1500</hodnota><hodnota mena="SGD">1.9990</hodnota><hodnota mena="THB">47.3510</hodnota><hodnota mena="ZAR">12.7150</hodnota></kurzy>
+</spolecnost>
+</listek>

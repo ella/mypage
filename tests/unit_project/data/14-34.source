@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+      <title>RESPEKT.CZ - Vše v jednom</title>
+      <description>Internetová verze časopisu Respekt</description>
+      <link>http://www.respekt.cz/</link>
+      <language>cs</language>
+      <webMaster>frelich@netservis.cz (Martin Frelich)</webMaster>
+      <image>
+        <title>RESPEKT</title>
+        <url>http://www.respekt.cz/img/respekt-logo.png</url>
+        <link>http://www.respekt.cz/</link>
+        <width>231</width>
+        <height>60</height>
+        <description />
+      </image>
+      <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2006 Martin Frelich &amp;amp; NETservis s.r.o.</copyright>
+      <item>
+        <title>Americký Fed: Je to ještě horší, než jsme čekali</title>
+        <link>http://Fokus.respekt.cz/Americky-Fed-Je-to-jeste-horsi-nez-jsme-cekali-3496.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3496-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Američtí centrální bankéři odkryli karty. V letošním roce bude americká ekonomika v mínusu, a další rok bude ještě pokračovat zvyšování nezaměstnanosti.&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 12:31:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Naše další loňské omyly</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3495</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 11:02:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Ivo Mathé o směřování médií i vzdělávání</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=180</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/180-mobr-mathe.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 11:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nejtěžší hřích lidovců</title>
+        <link>http://Podcast.respekt.cz/Nejtezsi-hrich-lidovcu-3494.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3494-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;Lidovečtí politici už nezvládají svoji někdejší vyhlášenou disciplínu – mocenské přemety.&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 10:17:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3493.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3493-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Gazprom cut off all deliveries of natural gas to Europe through Ukraine yesterday. Gas companies in the CR are now
+receiving 20% of the country’s supplies from Germany and 80% from reserves, according to the energy regulator.&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 09:27:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zdálky jsou každá šedesátá zlatá</title>
+        <link>http://Glosy.respekt.cz/Zdalky-jsou-kazda-sedesata-zlata-3492.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3492-mobr-forman.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Nebylo by krásné  žít v šedesátých letech, kdy o něco šlo a kdy měli lidí od Košic po San Francisco dojem, že mohou na světě něco změnit, nemluvě o té senzační hudbě a filmech?&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 07:14:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Lidovecké řezání větví</title>
+        <link>http://Fokus.respekt.cz/Lidovecke-rezani-vetvi-3491.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3491-mobr-cunek-jiri-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Boj o ministerská křesla v KDU-ČSL mezi Čunkem a Kalouskem v mediálním přímém přenosu hodně napovídá o stavu strany. &lt;/div&gt;</description>
+        <pubDate>Thu, 08 Jan 2009 00:01:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Provedou nás krizí: Topolánek, Rusnok, Weigl, Švejnar, ...</title>
+        <link>http://Fokus.respekt.cz/Provedou-nas-krizi-Topolanek-Rusnok-Weigl-Svejnar-3490.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3490-mobr-topolanek-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Národní ekonomická rada začíná dostávat své obrysy. Co bude její úlohou a neskončí její výsledky v šuplíku?&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 14:26:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Rusové, Evropa a plynová válka</title>
+        <link>http://Audit-Jana-Machacka.respekt.cz/Rusove-Evropa-a-plynova-valka-3489.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3489-mobr-machacek-jan-kresba-reisenauer.gif&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Audit Jana Macháčka - Každodenní glosa o politice a ekonomice&lt;br /&gt;Není pochyb o tom, že plyn z Ruska začne zase během několika dnů (či týdnů) řádně proudit. Během současné ekonomické krize, která dopadá právě na Rusko velice tvrdě, jsou příjmy z plynu pro ruský stát stejně životně důležité jako pro Evropany dobře vyhřáté byty a domy během kruté zimy. &lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 13:21:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Naše loňské omyly</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3487</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 11:02:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S Karlem Cudlínem o zaslíbení fotce</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=181</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/181-mobr-cudlin.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 11:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Církevní restituce u ledu</title>
+        <link>http://Fokus.respekt.cz/Cirkevni-restituce-u-ledu-3486.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3486-mobr-vlk-mse-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Majetkové vyrovnání se 17 církvemi je stále v nedohlednu. Zákon je „zaparkován“ ve sněmovně. &lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 09:37:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3485.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3485-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Gazprom cut natural-gas deliveries to the CR by 80% yesterday as a result of the dispute with Ukraine. Supplies to eight countries in Central Europe and the Balkans, including Slovakia, were completely severed.&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 08:59:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Stíhám!</title>
+        <link>http://Glosy.respekt.cz/Stiham-3488.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3488-mobr-spech.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Skutečně úspěšní lidé nejsou už uspěchaní a neříkají nestíhám. Protože dnes už patří k dobrému tónu zvládat nejen sebe, ale i svůj čas.&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 08:45:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Co si přečtete v Respektu č.2</title>
+        <link>http://Podcast.respekt.cz/Co-si-prectete-v-Respektu-c2-3483.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3483-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;O tom co najdete v Respektu 02/09 hovořil na Rádiu 1 redaktor Tomáš Sachr.&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 08:12:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nadělení pro EU</title>
+        <link>http://Video.respekt.cz/Nadeleni-pro-EU-3482.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3482-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br /&gt;&lt;embed src=&quot;http://www.respekt.cz/downloads/flash/flvplayer.swf&quot; width=&quot;234&quot; height=&quot;152&quot; bgcolor=&quot;#FFFFFF&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;flashvars=&quot;file=http://www.respekt.cz/downloads/kestazeni/file/2009-file-VladaEU1.flv&amp;image=http://www.respekt.cz/downloads/kestazeni/img/2009-mobr-VladaEU1_obr.jpg&quot; /&gt;&lt;br&gt;Vláda vysvětluje své priority pro evropské předsednictví. &lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 00:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S Václavem Pačesem o současné vědě</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=182</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/182-mobr-paces.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Jan 2009 00:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Japonská ekonomika může oslabit až o 12 procent</title>
+        <link>http://Fokus.respekt.cz/Japonska-ekonomika-muze-oslabit-az-o-12-procent-3481.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3481-mobr-japonci-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Japonsko se vyhnulo finanční krizi, přesto je jednou z největších obětí. Silná měna a pokles zahraniční poptávky dostaly zemi vycházejícího slunce na lopatky.&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 15:11:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Krize ozdravná a krize smrtící</title>
+        <link>http://Audit-Jana-Machacka.respekt.cz/Krize-ozdravna-a-krize-smrtici-3480.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3480-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Audit Jana Macháčka - Každodenní glosa o politice a ekonomice&lt;br /&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/kestazeni/img/1276-mobr-machacek.jpg&quot; class=&quot;obr&quot; /&gt;Vláda se dlouho tvářila, že se nás krize netýká. Důležité ale je, že bez ohledu na ideologii budou normálně fungovat fiskální stimuly, především ve formě toho, čemu ekonomové říkají „automatické stabilizátory“: vyšší výplaty sociálních dávek a podpor v nezaměstnanosti.&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 13:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Last Year</title>
+        <link>http://Last-week.respekt.cz/Last-Year-3484.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3484-mobr-tydenmaly.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Last week&lt;br /&gt;The media reported that proton beams had been circulated in the giant particle accelerator in Switzerland for the first time, marking the launch of Europe's Big Bang project. The Czech crown jewels were put on display at Prague Castle. Six clinics in the country began testing a hopeful new cancer drug developed by Czech scientists.&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 11:23:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Krizová rada</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3479</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 11:01:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Kdo je vinen?</title>
+        <link>http://Fokus.respekt.cz/Kdo-je-vinen-3478.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3478-mobr-plyn-rusko-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Střet o ceny plynu mezi Ruskem a Ukrajinou je produktem krachu systému, který po určitou dobu vyhovoval všem. Jde jen o to, jak tyto státy přesvědčit, že ta doba již minula a ony se mají přeorientovat k poněkud tradičnějším a průhlednějším vztahům.&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 10:40:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3477.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3477-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Both Schwarzenberg and Topolánek spoke vaguely of a peace plan for Gaza, but unnamed Israeli officials said
+that the Czechs presented no such plan yesterday. &lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 09:28:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Protikrizový britský New Deal</title>
+        <link>http://Podcast.respekt.cz/Protikrizovy-britsky-New-Deal-3475.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3475-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;Britský premiér našel tu správnou léčbu hospodářství v Americe 30. let a v Japonsku přelomu tisíciletí&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 08:24:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Modrá a bílá navždy</title>
+        <link>http://Glosy.respekt.cz/Modra-a-bila-navzdy-3476.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3476-mobr-izrael.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Snad nikdy nebyla Svatá země tak vzdálená a nedosažitelná, jako se jeví dnes obyčejnému Židovi ze Sitky.&lt;/div&gt;</description>
+        <pubDate>Tue, 06 Jan 2009 07:36:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Taktika Gazpromu: Nedáte 250 dolarů, zaplatíte přes 400</title>
+        <link>http://Fokus.respekt.cz/Taktika-Gazpromu-Nedate-250-dolaru-zaplatite-pres-400-3474.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3474-mobr-gazprom-miller-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Evropa se na začátku roku dočkala svého evergreenu v podobě rusko-ukrajinských sporů o plyn. Dohoda se uzavře zřejmě do konce týdne, ale mnohem důležitější bude postoj Evropy.&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 14:28:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Příští měsíce české politiky</title>
+        <link>http://Audit-Jana-Machacka.respekt.cz/Pristi-mesice-ceske-politiky-3473.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3473-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Audit Jana Macháčka - Každodenní glosa o politice a ekonomice&lt;br /&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/kestazeni/img/1276-mobr-machacek.jpg&quot; class=&quot;obr&quot; /&gt;Premiér Mirek Topolánek nakonec změny ve vládě neoznámil, údajně s ohledem na to, že Jiří Čunek s posuny nesouhlasí, patrně proto, že má být sám odvolán a nahrazen Cyrilem Svobodou.&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 13:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Šéf Gazpromu o plynové krizi</title>
+        <link>http://Video.respekt.cz/Sef-Gazpromu-o-plynove-krizi-3472.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3472-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br /&gt;&lt;embed src=&quot;http://www.respekt.cz/downloads/flash/flvplayer.swf&quot; width=&quot;234&quot; height=&quot;152&quot; bgcolor=&quot;#FFFFFF&quot; allowfullscreen=&quot;true&quot; type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;flashvars=&quot;file=http://www.respekt.cz/downloads/kestazeni/file/2008-file-Gazprom2.flv&amp;image=http://www.respekt.cz/downloads/kestazeni/img/2002-mobr-Gazprom_obr.jpg&quot; /&gt;&lt;br&gt;Alexandr Medveděv, ředitel firmy Gazprom Export, vysvětluje, jak zdolat krizi v dodávkách plynu pro EU. &lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 13:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Internetový server nyx se snaží o kultivaci zdejších diskusních fór.</title>
+        <link>http://www.respekt.cz/diskuse.php?fIDDISKUSE=448</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/diskuse/img/448-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Diskuse - Platforma, která slouží k setkávání různých méně či více závislých komunit.&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 12:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S Marcelem Winterem o Vietnamu i Zelených kartách</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=179</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/179-mobr-Winter.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 12:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zapeklitý plyn</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3471</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 11:03:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Rok hledání. Čas pro českého Haidera?</title>
+        <link>http://Fokus.respekt.cz/Rok-hledani-Cas-pro-ceskeho-Haidera-3468.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3468-mobr-politici-snemovna-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Může případná hospodářská krize rozvrátit současný systém politických stran? Kromě ČSSD budou mít velké problémy všechny ostatní parlamentní strany.&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 09:37:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3470.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3470-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Paroubek said that he expects the Czech presidency of the EU to be successful, even if the first steps of the government with regard to the conflict in Gaza were not very wise.&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 09:28:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Alois Nebel: Lety na lyžích</title>
+        <link>http://Komiks.respekt.cz/Alois-Nebel-Lety-na-lyzich-3467.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3467-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Komiks&lt;br /&gt;&lt;a href=&quot;http://komiks.respekt.cz/Alois-Nebel-Lety-na-lyzich-3467.html&quot;&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/kestazeni/img/2000-mobr-Nebel_Respekt_02_homepage.jpg&quot; class=&quot;obr&quot; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 08:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Čtyřicet vteřin ke smrti</title>
+        <link>http://Glosy.respekt.cz/Ctyricet-vterin-ke-smrti-3466.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3466-mobr-raketoplan.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;NASA po dlouhých šesti letech uvolnila detaily o zkáze raketoplánu Columbia&lt;/div&gt;</description>
+        <pubDate>Mon, 05 Jan 2009 07:11:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Měl podle vás Izrael ke svému zásahu v Gaze nějakou alternativu?</title>
+        <link>http://www.respekt.cz/anketa.php?fIDANKETY=119</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Ankety&lt;/div&gt;</description>
+        <pubDate>Sun, 04 Jan 2009 22:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Jak se vám líbí Respekt č. 2?</title>
+        <link>http://Oznamkujte-Respekt.respekt.cz/Jak-se-vam-libi-Respekt-c-2-3469.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3469-mobr-01obalkamala.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Oznámkujte Respekt&lt;br /&gt;Jak hodnotíte &lt;a href=&quot;http://www.respekt.cz/cislo.php?fIDROCNIKU=2009&amp;fIDCISLA=2&quot;&gt;Respekt č. 2&lt;/a&gt;?&lt;br&gt;Co se povedlo a co ne? &lt;br /&gt;Co byste nám vytkli a co se vám líbilo?&lt;br&gt;&lt;br&gt;Napište nám do diskuse svůj názor.&lt;/div&gt;</description>
+        <pubDate>Sun, 04 Jan 2009 21:24:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Ach, ty jsi úžasný</title>
+        <link>http://Fokus.respekt.cz/Ach-ty-jsi-uzasny-3465.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3465-mobr-hate-foto-cudlin-karel.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Rok v říši zvané Schengen&lt;br /&gt;Krátce před koncem dnes už loňského roku se při obvyklém bilancování vážily i dopady převratné události – vstupu do schengenského prostoru. A české vysvědčení pro život bez viditelných státních hranic dopadlo výborně.&lt;/div&gt;</description>
+        <pubDate>Sun, 04 Jan 2009 14:16:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Neodolatelné bubliny </title>
+        <link>http://Fokus.respekt.cz/Neodolatelne-bubliny-3464.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3464-mobr-dubaj-foto-profimedia.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Realitní bubliny přinášejí nepříjemnosti. Ale také užitek.&lt;br /&gt;Party pořádaná 20. listopadu 2008 k otevření dubajského hotelu Atlantis byla dokonalým finále hlučně uzavírajícím zatím poslední světový věk nadbytku.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 15:11:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Ach, ty jsi úžasný</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=16&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-16-mobr-foto.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Rok v říši zvané Schengen&lt;br /&gt;Krátce před koncem dnes už loňského roku se při obvyklém bilancování vážily i dopady převratné události – vstupu do schengenského prostoru. A české vysvědčení pro život bez viditelných státních hranic dopadlo výborně.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Alois Nebel: Lety na lyžích</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=35&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-35-mobr-NebelR02n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Komiks Alois Nebel&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Anketa: Měl Izrael ke svému zásahu v Gaze nějakou alternativu? </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=54&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-54-mobr-04R02cejkan.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Izrael měl pouze možnost vybrat si způsob a okamžik, jak a kdy se rozhodne zaútočit. Hamás vědomě vsadil na vystupňování konfliktu a izraelskou odpověď si vynutil, aby nakonec získal ústupky, bez ohledu na svůj vojenský úspěch.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Až přečtu tenhle článek...</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=45&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-45-mobr-68R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: „Od Nového roku budu všechno dělat včas. Nic nebudu odkládat.“ Může to být skoro nesplnitelné předsevzetí. Soustavné odkládání a otálení čili prokrastinace není pouhá lenost, ale psychologický problém. V těžké podobě postihuje každého pátého až šestého člověka.&lt;br /&gt;Aforismů, které vystihují podstatu odkládání, shromáždil psycholog Piers Steel z univerzity v Calgary a přední světová kapacita na prokrastinaci celou řadu a jejich pročítáním na serveru Procrastinus.com lze vyplýtvat spoustu času.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Běda ženám ovládaným muži</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=20&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-20-mobr-57R02filmn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Výměna nejspíš nebude dalším úspěšným Eastwoodovým pokusem o získání Oscara&lt;br /&gt;Z každého filmového políčka dramatu Výměna sálají oscarové ambice. Zdánlivě k tomu má všechny předpoklady: Příběh matky strachující se o život svého zmizelého syna je ve hře o emoce diváků sázkou na jistotu.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Bez plynu</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=41&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-41-mobr-09R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Zastavení dodávek ruského plynu na Ukrajinu je zneklidňující pro celou Evropu&lt;br /&gt;Letošní spor o dodávky ruského plynu na Ukrajinu je ukázkou, jak se v posledních měsících proměnila ekonomická a mocenská situace v neprospěch Ruska, předsedy vlády Vladimira Putina a ruské obří firmy Gazprom.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Bublina</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=51&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-51-mobr-pilatovan.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Mimochodem&lt;br /&gt;Když jedu ráno vlakem do práce, v polospánku, přes hlavy a rozespalé oči cestujících vidím tu tvář. Nasprejovanou na zdi červeně. Má kšiltovku, divoký vous a u pusy bublinu. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Dlouhá cesta za pravdou</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=10&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-10-mobr-rukopisy.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Bojovníci za pravost slavných rukopisů se nevzdávají ani 190 let poté&lt;br /&gt;V každé učebnici je napsáno, že Rukopisy královédvorský a zelenohorský jsou padělky. Většina z nás na existenci těchto ikon místních vlastenců, kteří s jejich pomocí dokazovali, že český jazyk má tisícileté kořeny, zapomněla v momentě, kdy se ve škole uzavřela kapitola o národním obrození. Pro mimořádně trpělivé členy České společnosti rukopisné to ovšem tímto okamžikem teprve začalo.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Dobrodružství začíná </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=40&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-40-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Česko zahajuje půlrok v čele Unie krizemi v Gaze a na Ukrajině&lt;br /&gt;Právě když si rok 2009 ukrajoval první minutu, oznámilo evropsky nasvícené kyvadlo na pražské Letné, odkud kdysi na Čechy shlížel žulový Stalin, start českého předsednictví Evropské unii.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Doma v pralese </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=6&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-6-mobr-4041R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Pořád ještě můžeme v Evropě najít místa, kde si příroda vládne sama a bez zásahů člověka. Jenže civilizace si pro sebe ukrajuje stále více prostoru. Jaká budoucnost čeká evropskou divočinu? Vypravili jsme se do končin, které nabízejí odpověď.&lt;br /&gt;Na příběh záchrany posledního evropského pralesa jsou Poláci pořádně pyšní, ale Bělověž není jediným unikátem, který severovýchod Polska nazývaný Podlaské vojvodství skrývá. V chudém, neúrodném a málo osídleném kraji objevíme hned několik evropských „nej“. 
+
+
+&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Dopisy</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=33&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-33-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Bohumil Doležal analyzuje „hrdinství“ Vladimíra Justa, který na Zdeňka Mahlera účelově vytáhl jeho tendenční text z roku 1954.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Editorial</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=57&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-57-mobr-simeckaNOVYnahled.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Bylo by elegantnější, kdyby Česko v okamžiku, kdy začalo předsedat Evropské unii, vstoupilo také do eurozóny podobně jako Slovensko, o ratifikaci Lisabonské smlouvy ani nemluvě.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Euro na východě</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=29&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-29-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Glosa&lt;br /&gt;Než za dva týdny odejde slovenská koruna definitivně z oběhu a ze světa, stihne se možná dotáhnout zpátky na jedna ku jedné k české.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Evropě to osolíme </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=11&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-11-mobr-kultura.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Češi se během svého předsednictví nechtějí zabývat kulturním sektorem, který má na kontinentě větší obrat než automobilový průmysl.&lt;br /&gt;Kulturní politika EU. Toto slovní spojení najdeme v prohlášeních a projevech českých politiků, kteří právě převzali štafetu předsednictví Rady Evropské unie, asi tak často jako zurčící fontánu uprostřed saharských dun. V zemi, kde loňské finance určené pro kulturu dosáhly „závratných“ 0,76 % z celkového státního rozpočtu, to rozhodně nepřekvapí.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Hudba</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=30&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-30-mobr-54hudbaR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Hudební novinky&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Jak vyléčit svět</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=42&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-42-mobr-63AR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Vlivný komentátor Thomas Friedman vyzval ve své nové knize Američany k revoluci, která by skutečně začala řešit energetické a klimatické problémy lidstva. Friedman chce zachovat západní životní styl, bezbolestné recepty ale nenabízí.&lt;br /&gt;Stojíme na konci jedné éry a na počátku nové, energeticko-klimatické. Ta je podle Thomase Friedmana opravdu zcela novou epochou lidstva – tak novou, že v jeho knize ukončila běžné počítání let od narození Krista. Na stránkách knihy Horký, plochý a přelidněný se ocitáme v prvních letech energeticko-klimatického letopočtu.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Je potřeba elitní krizová jednotka</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=9&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-9-mobr-4243R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: S Janem Švejnarem o receptu na recesi, krizi na amerických univerzitách a příští prezidentské volbě&lt;br /&gt;V lednu a v únoru loňského roku žil tehdejší prezidentský kandidát Jan Švejnar dva měsíce ve víru mediální pozornosti. Potom se odmlčel, ale v poslední době se objevuje v Česku na celé řadě seminářů o dopadech finanční krize. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>K dohodě jednou stejně dojde</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=32&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-32-mobr-11AR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: S diplomatem Antonínem Hradilkem o evropské misi na Blízký východ&lt;br /&gt;Dřímající konflikt na Blízkém východě, který se v závěru roku znovu rozhořel v Gaze, postavil zdejší diplomaty do dosud nevídané pozice. Ministr zahraničí Karel Schwarzenberg totiž odjíždí do oblasti nejen jako vyslanec své země, ale i jako vyslanec EU. O plánech a reálných možnostech jsme mluvili s vedoucím politického oddělení české ambasády v Tel Avivu Antonínem Hradilkem.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>K pramenům krásy a důstojnosti?</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=26&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-26-mobr-53AR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Sociální performance Cikánská suita má až příliš velké ambice&lt;br /&gt;Co má společného televizní hlasatel, houslový virtuos a rychlonohá tanečnice? Otázka hodná peprné anekdoty s překvapivým vyústěním. V případě divadelní hry Cikánská suita uváděné v pražském Strašnickém divadle v režii Ivany Hessové však odpověď nepřekvapí.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Kdo že je tu dementní sektář? </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=14&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-14-mobr-nyx.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Kultovní server nyx otevírá brány&lt;br /&gt;Zakladatel serveru Nyx alias student pražské filozofické fakulty Marek Janda si „své“ uživatele vychoval. Navíc si nyx ve svém vývoji přibírá i další nečekané funkce – první pokusy uživatelů o internetovou žurnalistiku na vlastní pěst.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Komu chceme, pomůžeme…</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=23&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-23-mobr-15R02komarekn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: …a ještě se přitom dovoláme Evropského soudu&lt;br /&gt;Co s plagiátorem ve funkci soudce?&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Krátce-přehled o dění v uplynulém týdnu</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=36&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-36-mobr-06fotoR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Stát loni hospodařil lépe, než se čekalo. Schodek státního rozpočtu se na konci roku zastavil na necelých 20 miliardách, původně počítal ministr financí Miroslav Kalousek s deficitem o 50 miliard vyšším.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Kruté divadlo</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=22&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-22-mobr-52makropulosR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: V novém nastudování Janáčkovy opery jde víc o válku mezi pohlavími než o nesmrtelnost&lt;br /&gt;Čapkova moralita Věc Makropulos patří mezi hry, které je už téměř nemožné představit si zahrané „navážno“. I když se o to činohry vždy znovu pokoušejí. Neplatí to ale o nové inscenaci stejnojmenné Janáčkovy opery, kterou na zimní sezonu v koprodukci s English National Opera v Londýně připravilo Národní divadlo v Praze.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Léky z nanosvěta</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=43&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-43-mobr-66R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Nanotechnologie pronikají do medicíny, mohou pomoci například v boji s rakovinou&lt;br /&gt;Nano – dnes všudypřítomná předpona navozující dojem čehosi moderního. Ve skutečnosti se nanomateriály vyskytují všude kolem nás; například saze jsou nanočástice uhlíku vznikající zejména nedokonalým spalováním organických látek.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Martin Půta, předseda Sdružení obcí Libereckého kraje</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=39&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-39-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;On-line rozhovor s Martinem Půtou, předsedou Sdružení obcí Libereckého kraje&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Metodické pondělí</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=50&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-50-mobr-73R022008jeden-denn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Jeden den v životě&lt;br /&gt;Do práce dorážím kolem osmé a v kanceláři nacházím svého kolegu, který se mnou pracuje a je také, jako já, metodik jazykového vzdělávání. S tím rozdílem, že já jsem jeho šéf!&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Miluji vás, rodiny! Někdy</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=48&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-48-mobr-71R02brucknern.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Demokracie nahrazují vazby z minulosti novou spletí vztahů&lt;br /&gt;Kdysi na nás rodina ležela jako těžké břemeno. Dnes připomíná spíš děravý stan, do něhož prší a fouká. Takový je alespoň obecně rozšířený názor na debakl, způsobený individualistickou revolucí a rozvody.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Minulý rok</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=53&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-53-mobr-tydenmaly.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Média přinesla zprávu, že obřím urychlovačem částic ve Švýcarsku poprvé proletěl svazek protonů, čímž začal evropský projekt „Velký třesk“. Na Pražském hradě vystavili korunovační klenoty. Šest tuzemských klinik začalo s testováním nadějného, zdejšími vědci vybádaného léku proti rakovině. Spojené státy zrušily víza pro Čechy. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Monsieur Europe</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=5&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-5-mobr-1-sarkozyn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Jak Nicolas Sarkozy oživil Evropskou unii&lt;br /&gt;Po dobu francouzského předsednictví Rady Evropské unie z Eiffelovy věže zářil kolosální kruh dvanácti žlutých hvězdiček zavěšených na modrém pozadí. Eiffelovka ozářená symbolem Unie letos vytlačila z televizní obrazovky i záběr Elysejského paláce, kterým se tradičně otevírá novoroční projev hlavy státu.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Návod na přežití </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=21&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-21-mobr-17AvariantaR022008n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Velké fanfáry a porce světových problémů k rozlousknutí přivítaly prvního ledna Česko nastupující ke svým šesti měsícům slávy. Sebevědomě uchopená funkce šéfa EU asi nejlépe ilustruje, jak moc se někdejší šedivě přikrčený satelit Sovětského svazu proměnil za posledních dvacet let. A jak se zdá, dobrodružství nekončí: další velké výzvy a neodvratné změny totiž hlasitě klepou na dveře.&lt;br /&gt;Za posledních dvacet let česká veřejnost spustila či přestála změn nepočítaně. Některé byly příjemné a šlo si na ně zvyknout snadno, jako třeba na běžně dostupné pomeranče či toaletní papír nebo na fakt, že se nezavírá za opisování „zakázaných“ básní a že hranice už nejsou obehnané ostnatým drátem. Svoboda přitom samozřejmě proměnila náš vzhled a každodenní život.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Návštěva v zasněženém Louvru </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=17&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-17-mobr-50doba-ledovaR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Komiksová parodie na výtvarnou kritiku &lt;br /&gt;Možná se někomu de Crécyho výtvarný um připomene animací filmů francouzského režiséra Sylvaina Chometa Stará paní a holubi nebo z titulků dalšího Chometova filmu Trio z Belleville. Čeští čtenáři komiksu dosud měli možnost poznat jen jeho kreslený svět Pana Ovocňáka.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nejlepší kniha o knihách</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=28&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-28-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Co o nás řekla anketa &lt;br /&gt;Zásadním titulem pro rok 2008 budiž čtvrtý díl Lexikonu české literatury.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Neodolatelné bubliny</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=8&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-8-mobr-30R02CarlGFisher1909n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Realitní bubliny přinášejí nepříjemnosti. Ale také užitek. &lt;br /&gt;Party pořádaná 20. listopadu 2008 k otevření dubajského hotelu Atlantis byla dokonalým finále hlučně uzavírajícím zatím poslední světový věk nadbytku.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Neodstranitelný balvan</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=58&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-58-mobr-35R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: I když Hamás zmizí, jeho duch mezi Palestinci zůstane&lt;br /&gt;Izrael bombardování zahájil předminulou sobotu s jasným, srozumitelným a oprávněným zdůvodněním – rozbitím teroristických struktur chce zastavit raketové ostřelování izraelského jihu.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nesnesitelná lehkost nudy</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=34&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-34-mobr-54TVR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Televize&lt;br /&gt;V dlouhé historii festivalu v Cannes není tolik případů, že by publikum soutěžní film přímo vybučelo. V roce 1960 se to stalo Michelangelu Antonionimu se snímkem Dobrodružství. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Něžná královna volantu (1994)</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=49&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-49-mobr-72aR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Před 15 lety zemřela nejslavnější česká závodnice Eliška Junková&lt;br /&gt;V celé Evropě způsobila pozdvižení už během závodu do vrchu v Klaussenpassu ve Švýcarsku v roce 1926. Přestože si před závodem zapomněla v hotelu brýle, takže ve více než stokilometrové rychlosti a sněhové vánici ve výšce dvou tisíc metrů nad mořem musela řídit jen jednou rukou (tou druhou si kryla oči), skončila na druhém místě jen pár vteřin za vítězem. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Novinky</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=15&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-15-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Zajímavé knihy&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Obamova vláda géniů </title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=24&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-24-mobr-15R02lukesn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Tým budoucího amerického prezidenta je oslnivý, ale v politice není intelekt zárukou úspěchu&lt;br /&gt;Platon učil, že politika je nejvyšší formou umění – řídit stát by proto měli jen ti nejvzdělanější mezi námi. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Peníze v pohybu</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=7&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-7-mobr-34AvariantaR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Oslabuje libra i česká koruna, ale ekonomikám to už nepomáhá jako kdysi&lt;br /&gt;Pohyblivý směnný kurz je jedním z mechanismů, který pomáhá oslabeným ekonomikám vrátit se k růstu anebo naopak zchladit přehřáté ekonomiky. Oslabení kurzu ale postihuje i země, které mají nízké úrokové sazby.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Právní stát jsem já</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=25&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-25-mobr-1-komn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Zlatá medaile za demokracii ke štěstí nestačí&lt;br /&gt;V záplavě novoročních předsevzetí a vizí se v médiích i letos opakovaně objevuje jedna klíčová otázka. Co by se mělo zlepšit, aby byl váš život kvalitnější?&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Pro nemocné opilce</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=46&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-46-mobr-69R02nakupyn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Po nákupech&lt;br /&gt;O kocovině se píše, jako by to byla vážná nemoc, a ne důsledek racionálního rozhodnutí přiotrávit se alkoholem a jeho metabolity. A jako nemoc se také léčí: pilulkami a jinou medicínou.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Pro vás je to gratis</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=19&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-19-mobr-21R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Radnice v Bohumíně otevřela nádražní útulek pro bezdomovce&lt;br /&gt;Řeč je o nádražní čekárně v severomoravském Bohumíně, kterou si zdejší radnice pronajala od Českých drah s jediným cílem – aby místní bezdomovci, bloudící po nádraží s lahví v ruce, neotravovali ostatní spoluobčany.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Přemnožená prasata</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=44&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-44-mobr-hnikovanahled.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Žádná věda&lt;br /&gt;Najít téma pro dokumentární film je velmi těžké, když víte, že se svým tématem a jeho hrdiny budete trávit několik měsíců svého života. A film navíc bude zachycen navždy. Se sloupkem je to lehčí, doba jeho trvanlivosti je jeden týden, pak pravděpodobně skončí někde ve sběru. I když i s ním se můžete někdy dost natrápit.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Připravujeme</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=52&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-52-mobr-74predsednictvi01R022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Válka v Gaze, zastavení ruského plynu Ukrajině... Hned první dny českého předsednictví začaly zostra. Jak vypadají Češi v akci?&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Příštích 7 dní</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=56&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-56-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Prezident Klaus pozval na pondělí 5. ledna do Lán předsedu vlády Mirka Topolánka k tradičnímu novoročnímu setkání
+s obědem.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Respekt-Despekt</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=55&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-55-mobr-04respektR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Uznalé poplácání po zádech si zaslouží několik Středočechů, kteří trvali na zaplacení regulačních poplatků a skutečně tuzemskému zdravotnickému systému přispěli.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S kůží na trh</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=4&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-4-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Glosa&lt;br /&gt;V den, kdy Hamás pálil další rakety za izraelskou hranici a kdy izraelští stratégové připravovali poslední detaily plánu zničit infrastrukturu Hamásu v Gaze, zemřel americký politolog Samuel Huntington. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Sítě a šipky</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=13&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-13-mobr-48AzmeskalR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Zmeškal a Göbl, dva nadějné debuty v české próze&lt;br /&gt;V posledních měsících se v české prozaické produkci objevila dvě nová jména. Jde o debutanty téměř stejně staré – a o díla překvapivě vyzrálá. Staršímu Tomáši Zmeškalovi (1966), anglistovi, překladateli, nyní středoškolskému učiteli, vydal Torst Milostný dopis klínovým písmem. O rok mladší Pavel Göbl, filmový scenárista a režisér, publikoval v Dauphinu Tichého společníka.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Sladké hrozny mrazu</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=12&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-12-mobr-22vinoR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: V Rakvicích na Břeclavsku začali s výrobou letošního ledového vína&lt;br /&gt;Na rakvických vinicích mrzne až praští. Scvrklé hrozny pokryté jinovatkou už dávno ztratily podzimní plnost a barvu. Přesto si místní vinaři mnou ruce a s napětím čekají, kdy teplota klesne na –7 stupňů Celsia. Právě ta je totiž zákonnou hranicí pro sběr hroznů na výrobu českého ledového vína. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Takový malý posun</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=37&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-37-mobr-55AR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Patricie Fexová maluje reálné věci a dává jim nový rozměr&lt;br /&gt;Válejí se všude kolem, ale Patricie Fexová (1975) z nich dokázala udělat umění. Dnes říká, že si od kompaktních disků už dá pauzu. „O svých plánech do budoucna nerada mluvím. Ale každopádně další kruhové věci v plánu nemám, nechci se soustředit jen na jedno téma,“ vysvětluje výtvarnice, jejíž obrazy a videa jsou do 15. 1. k vidění v pražské Galerii kritiků.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Těžká volba</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=47&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-47-mobr-70R02ashn.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Budoucnost kapitalismu a revize našeho myšlení&lt;br /&gt;Ekonomické problémy všude vydráždí politickou scénu, ale řeči o konci kapitalismu jsou značně přehnané. Nemyslím si, že rok 2009 bude pro kapitalismus totéž co rok 1989 pro komunismus.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Vnímavý poutník ze Žerotína</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=18&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-18-mobr-50karel-starsiR022009n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Zdařilý životopis výjimečného šlechtice&lt;br /&gt;Tomáši Knozovi, autorovi knihy Karel starší ze Žerotína, se povedlo najít k tradičním výkladům alternativu a vydat se neprošlapanou cestou. &lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Výstavy</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=31&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-31-mobr-54futuraR05n.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: &lt;br /&gt;Zajímavé výstavy&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zkouškové období</title>
+        <link>http://www.respekt.cz/clanek.php?fIDCLANKU=27&amp;fIDROCNIKU=2009</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/clanky/img/2009-27-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Články - Respekt 2/2009: Evropská měna je úspěšnější, než skeptici očekávali, ale nejtěžší zkoušku má před sebou teprve nyní&lt;br /&gt;Evropská unie slaví desáté výročí od zavedení společné měny a má právo si výskat.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 13:07:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Euro na východě</title>
+        <link>http://Glosy.respekt.cz/Euro-na-vychode-3463.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3463-mobr-euro.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Slovenská koruna před necelými šestnácti lety začínala vůči české v poměru jedna ku jedné, ale velmi brzy oslabila. Pro Čechy to byl hned o důvod víc pro dodatečné potvrzení správnosti rozdělení Československa. Jen v krátkém období postklausovské recese na přelomu roků 1996 a 1997 byla slovenská koruna silnější než česká, protože ekonomika mečiarovského Slovenska ještě dojížděla na dluh. Tuto epizodu si dodnes mnozí Slováci pamatují, zatímco je jen málo Čechů, kteří by si toho byť jen všimli.&lt;/div&gt;</description>
+        <pubDate>Sat, 03 Jan 2009 07:58:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zlevňovat se chystá jen Student Agency</title>
+        <link>http://Fokus.respekt.cz/Zlevnovat-se-chysta-jen-Student-Agency-3462.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3462-mobr-benzin-pumpa-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Ropa je nejlevnější za posledních pět let a s tím klesají ceny také u českých čerpacích stanic. Většina autobusových dopravců se přesto ke zlevňování nechystá.&lt;/div&gt;</description>
+        <pubDate>Fri, 02 Jan 2009 14:41:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Doktor Klaus a pan Hyde</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3461</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Fri, 02 Jan 2009 11:03:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3459.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3459-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;The CR took over the six-month rotating EU presidency yesterday at one of Europe’s most difficult times of the past 50 years.&lt;/div&gt;</description>
+        <pubDate>Fri, 02 Jan 2009 09:21:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Židobijec komunistou</title>
+        <link>http://Podcast.respekt.cz/Zidobijec-komunistou-3460.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3460-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;Nový mluvčí komunistů Josef Tomáš ví, kdo je v Čechách proti zájmům lidu. Židé.&lt;/div&gt;</description>
+        <pubDate>Fri, 02 Jan 2009 08:27:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Přešlapy rudých mudrců </title>
+        <link>http://Glosy.respekt.cz/Preslapy-rudych-mudrcu-3458.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3458-mobr-kscm.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Čeští komunisté člověku málokdy udělají radost, ale tentokrát se jim to podařilo. Jmenování pravicového extremisty a zapáleného antisemity Josefa Tomáše tiskovým mluvčím KSČM odhaluje stranu, usilující o pověst státotvorné síly, v nedbalkách a připomíná její pravou tvář těm, kdo snadno zapomínají. &lt;/div&gt;</description>
+        <pubDate>Fri, 02 Jan 2009 07:01:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Česko se ujímá předsednictví. Co čekat?</title>
+        <link>http://Fokus.respekt.cz/Cesko-se-ujima-predsednictvi-Co-cekat-3457.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3457-mobr-schwarzenberg-unie-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Očekávaná chvíle je tady.  Od 1. ledna 2009 se Česká republika ujímá vedení Evropské unie. Slavnostní silvestrovský ohňostroj ukončil fázi příprav a odstartoval dosud nejkomplexnější test (nejen) české státní správy a politické reprezentace.&lt;/div&gt;</description>
+        <pubDate>Thu, 01 Jan 2009 23:03:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Taiwan: Kolik stojí nezávislost?</title>
+        <link>http://Fokus.respekt.cz/Taiwan-Kolik-stoji-nezavislost-3456.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3456-mobr-pandy-cina-taiwan-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Odpověď na výše položenou otázku by mohla znít: dvě pandy. Alespoň na Taiwanu a pro zhruba tu polovinu tamější populace, která usiluje o nezávislost ostrova na pevninské Číně. &lt;/div&gt;</description>
+        <pubDate>Thu, 01 Jan 2009 10:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Co nám vzal rok 2008</title>
+        <link>http://Fokus.respekt.cz/Co-nam-vzal-rok-2008-3455.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3455-mobr-wall-street-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Uplynulý rok nebude patřit do výstavní síně světové ekonomiky. Miliony lidí přišly o práci, úspory a hlavně o důvěru ve finanční systém.
+&lt;/div&gt;</description>
+        <pubDate>Wed, 31 Dec 2008 14:56:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Klaus před soudem</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3454</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Wed, 31 Dec 2008 11:02:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3453.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3453-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Schwarzenberg will travel to the Middle East soon to try to help broker a ceasefire in the Gaza conflict.&lt;/div&gt;</description>
+        <pubDate>Wed, 31 Dec 2008 09:21:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>V Polsku proběhlo první kolo boje o reformy</title>
+        <link>http://Fokus.respekt.cz/V-Polsku-probehlo-prvni-kolo-boje-o-reformy-3452.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3452-mobr-tusk-kaczynski-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Rozsáhlé hospodářské reformy Polsko nečekají, protože levice nebude ochotná přistoupit na liberální program premiéra Tuska.&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 19:41:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S Martinem Půtou o regionální politice</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=178</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/178-mobr-martin puta.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 11:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Vášně vyvolané krizí</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3451</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 10:54:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3449.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3449-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Karel Schwarzenberg will cancel a vacation in Austria to attend a special meeting of EU foreign ministers in Paris
+this evening to address the situation in Gaza.&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 09:27:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Srdečné pozdravy z Ruska</title>
+        <link>http://Podcast.respekt.cz/Srdecne-pozdravy-z-Ruska-3450.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3450-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;Josif Stalin je podle Rusů jejich třetí nejvýznamnější historickou osobností.&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 08:37:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Papežovo poselství Čechům</title>
+        <link>http://Glosy.respekt.cz/Papezovo-poselstvi-Cechum-3448.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3448-mobr-papez.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Benedikt XVI., který podle posledních informací navštíví příští rok Česko, nás může lecčíms štvát. Jedna věc se mu ale upřít nedá. Není a ani se nesnaží být diplomatem. Katolické pravdy na rozdíl od svého populárního předchůdce Jana Pavla II. nemaskuje do všeobjímající laskavosti a říká je narovinu.&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 07:11:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Ministerstvo posvětilo hazard na síti</title>
+        <link>http://Fokus.respekt.cz/Ministerstvo-posvetilo-hazard-na-siti-3447.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3447-mobr-sazeni-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Ministerstvo financí povolilo pěti českým firmám provozovat kurzové sázení na internetu. Dostaly licenci na 10 let, i když ještě není jasné, jak bude za rok vypadat loterijní zákon.&lt;/div&gt;</description>
+        <pubDate>Tue, 30 Dec 2008 00:13:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>S Jiřím Grundem o českém exportu</title>
+        <link>http://www.respekt.cz/rozhovory-detail.php?sel_id=177</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/rozhovory/img/177-mobr-jiri grund.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Rozhovory&lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 14:00:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Tugendhat – A gem threatened with collapse</title>
+        <link>http://English.respekt.cz/Tugendhat-A-gem-threatened-with-collapse-3446.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3446-mobr-vila-mobr.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - English&lt;br /&gt;There are some wounds that even time cannot heal. Brno's villa Tugendhat, an admired work by the star of modern architecture Mies van der Rohe, which is visited by thousands of people from all over the world annually, is slowly falling apart. The only &quot;new&quot; Czech house on the UNESCO list has been waiting for reconstruction for years. According to the promises of the Brno mayor, cement mixers were to start spinning this year, but repairs were postponed again. &lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 12:01:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Odolávání Keynesovi</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3445</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 11:03:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Dvanáct měsíců s poplatky</title>
+        <link>http://Fokus.respekt.cz/Dvanact-mesicu-s-poplatky-3442.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3442-mobr-julinek-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Končící rok byl ve znamení regulačních zdravotnických poplatků. Jak to bude v roce následujícím?&lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 09:31:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3443.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3443-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;CNB Gov. Zdeněk Tůma said that 2009 will be a key year, because it will become clear for the first time since the crisis began whether financial institutions have clean balance sheets&lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 09:27:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Madoff a Židé</title>
+        <link>http://Glosy.respekt.cz/Madoff-a-Zide-3441.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3441-mobr-viktor.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Jak se s Madoffovou kauzou vyrovnávají samotní Židé&lt;/div&gt;</description>
+        <pubDate>Mon, 29 Dec 2008 07:15:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Viděno čtyřmi</title>
+        <link>http://Fotogalerie.respekt.cz/Videno-ctyrmi-3440.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3440-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fotogalerie&lt;br&gt;Fotografové Respektu Tomki Němec, Milan Jaroš, Matěj Stránský a Karel Cudlín. &lt;/div&gt;</description>
+        <pubDate>Sun, 28 Dec 2008 14:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Starostové v pasti politiky</title>
+        <link>http://Fokus.respekt.cz/Starostove-v-pasti-politiky-3439.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3439-mobr-jested-foto-jaros-milan.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Hořkost, strach a naděje pod horou Ještěd&lt;br /&gt;Stabilita vlády v Libereckém kraji se bude opírat o stabilitu komunistické strany. I když tato teze zní mnohým jako ohláška temné budoucnosti, nový hejtman Stanislav Eichler ji považuje za logickou.&lt;/div&gt;</description>
+        <pubDate>Sun, 28 Dec 2008 10:46:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Záhadný svět našich dětí</title>
+        <link>http://Fokus.respekt.cz/Zahadny-svet-nasich-deti-3438.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3438-mobr-deti-inetrnet-foto-cudlin-karel.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Stěhují se na internet a my jim příliš nerozumíme. A lámeme si hlavu, jestli jsme je na tu cestu dobře připravili.&lt;br /&gt;České děti milují internet. Podle rozsáhlé studie, kterou si od sociologů a psychologů z Univerzity Karlovy objednalo ministerstvo vnitra, na síti pravidelně visí už 91 procent českých dětí ve věku 12–18 let. Trochu nečekaně tak mladí Češi dostihli své vrstevníky v elektronicky nejvyspělejších zemích světa, jako jsou Kanada a Spojené státy.&lt;/div&gt;</description>
+        <pubDate>Sat, 27 Dec 2008 10:09:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Staying safe at home</title>
+        <link>http://English.respekt.cz/Staying-safe-at-home-3444.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3444-mobr-vojaci.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - English&lt;br /&gt;The coalition failed to push through the Chamber of Deputies the plan to increase the number of troops in Afghanistan and the opposition even blocked further extension of the foreign mission.&lt;/div&gt;</description>
+        <pubDate>Sat, 27 Dec 2008 10:05:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>V kraji pod sopkou</title>
+        <link>http://Fokus.respekt.cz/V-kraji-pod-sopkou-3437.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3437-mobr-patagonie-gaucho-foto-sobota-jiri.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Pětitisícové městečko Chaitén na severu chilské Patagonie zničila letos v květnu stejnojmenná sopka. Dnes se do ulic zavalených popelem a pískem znovu trousí lidé, které se příroda pokusila setřást. Divoká a studená Patagonie je stále neopakovatelným místem, kde příroda není pro člověka křehkým systémem hodným ochrany, ale stejně jako před stovkami a tisíci let nemilosrdným protivníkem, kterého se lidské bytosti pokoušejí ovládnout. &lt;br /&gt;Pětitisícové městečko Chaitén na severu chilské Patagonie zničila letos v květnu stejnojmenná sopka. Dnes se do ulic zavalených popelem a pískem znovu trousí lidé, které se příroda pokusila setřást. &lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 10:27:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009</title>
+        <link>http://Video.respekt.cz/PF-2009-3346.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3346-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte exkluzivní videoart z dílny vizuální umělkyně Evy Jiřičky. &lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 09:44:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009 (scéna pátá)</title>
+        <link>http://Video.respekt.cz/PF-2009-scena-pata-3342.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3342-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte videoart z dílny vizuální umělkyně Evy Jiřičky.&lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 08:50:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009 (scéna čtvrtá)</title>
+        <link>http://Video.respekt.cz/PF-2009-scena-ctvrta-3343.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3343-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte videoart z dílny vizuální umělkyně Evy Jiřičky.&lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 08:49:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009 (scéna třetí)</title>
+        <link>http://Video.respekt.cz/PF-2009-scena-treti-3344.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3344-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte videoart z dílny vizuální umělkyně Evy Jiřičky.&lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 08:47:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009 (scéna druhá)</title>
+        <link>http://Video.respekt.cz/PF-2009-scena-druha-3345.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3345-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte videoart z dílny vizuální umělkyně Evy Jiřičky.&lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 08:45:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>PF 2009 (scéna první)</title>
+        <link>http://Video.respekt.cz/PF-2009-scena-prvni-3338.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3338-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;Zhlédněte videoart z dílny vizuální umělkyně Evy Jiřičky. &lt;/div&gt;</description>
+        <pubDate>Fri, 26 Dec 2008 08:25:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Veřejnoprávní soda</title>
+        <link>http://Fokus.respekt.cz/Verejnopravni-soda-3436.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3436-mobr-ctvrtnicek-foto-archiv.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Proč Česká televize nestojí o vyznavače nespoutaného humoru&lt;br /&gt;„A tohle znáte?“ Herec a komik Petr Čtvrtníček má před sebou laptop a pro opodál sedícího Milana Šteindlera a Davida Vávru v něm na YouTube spouští několikaminutové video původem z holandské televize. Na něm moderátor jakési diskusní relace s postiženými lidmi dostává najednou nekontrolovatelný záchvat smíchu.&lt;/div&gt;</description>
+        <pubDate>Thu, 25 Dec 2008 10:54:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Na půlnoční s Rybou </title>
+        <link>http://Fokus.respekt.cz/Na-pulnocni-s-Rybou-3435.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3435-mobr-hoyer-foto-jaros-milan.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - Muž který zřel krásu, žije už více než 200 let&lt;br /&gt;Od vzniku České mše vánoční sice uběhly už více než dvě století, Rybova skladba s veselou hudbou a texty s koloritem českého venkova okouzluje už celé generace.&lt;/div&gt;</description>
+        <pubDate>Wed, 24 Dec 2008 11:43:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Last week 52/08</title>
+        <link>http://Last-week.respekt.cz/Last-week-52-08-3434.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3434-mobr-tydenmaly.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Last week&lt;br /&gt;The Peace Light of Bethlehem arrived in the Czech Republic. The price of petroleum dropped to the lowest price it has been in the last seven years. During an inspection trip across Afghanistan, a delegation of Czech politicians survived a Taliban missile attack on the Czech army base in Kandahar.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 13:39:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zelené karty a krize</title>
+        <link>http://Fokus.respekt.cz/Zelene-karty-a-krize-3432.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3432-mobr-vietnamci-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;S příchodem nového roku vstupuje v platnost systém zelených karet, který umožňuje ve zvláštním režimu zaměstnávat cizince. Připravuje státní správa modifikaci systému, která bude reagovat na propouštění zejména agenturních pracovníků? &lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 11:29:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Vánoční nálada</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3433</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 11:05:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3431.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3431-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;The state-owned Prague Airport bought 80ha of land around the airport for Kč 5,500 per sqm, for a total cost of Kč 4bn. The state had sold the land five years ago for Kč 11 per sqm.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 09:22:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Avast! anti-virus from Strašnice</title>
+        <link>http://English.respekt.cz/Avast-anti-virus-from-Strasnice-3430.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3430-mobr-uspech-mobr.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - English&lt;br /&gt;The statement that the Czech Republic is a software super power might surprise some. But the claim rings true especially when it comes to anti-virus programs. And the Prague company Alwil is the best example. Its anti-virus program avast! Is one of the most successful and wide-spread products of any Czech company on the global market.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 08:52:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Bohumínské usnesení německých socialistů</title>
+        <link>http://Podcast.respekt.cz/Bohuminske-usneseni-nemeckych-socialistu-3429.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3429-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;Německá sociální demokracie zkouší to, co česká: využívat pohrobky komunistů, ale neušpinit se jimi. Může to vyjít?&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 08:12:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Co si přečtete v Respektu č.52</title>
+        <link>http://Podcast.respekt.cz/Co-si-prectete-v-Respektu-c52-3428.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3428-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Podcast&lt;br&gt;O tom co najdete v Respektu 52/08 hovořil na Rádiu 1 redaktor Jan Brabec.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 07:33:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Vánoce s Paroubkem</title>
+        <link>http://Glosy.respekt.cz/Vanoce-s-Paroubkem-3427.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3427-mobr-paroubek.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Jsou skoro Vánoce a Jiří „buldozer“ Paroubek už zase hrozí pádem vlády, mračí se do kamer a pečlivě aranžovanou suverenitou slibuje pomstu. Už aby vládnul, měl odpovědnost a předvedl, co umí.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 07:08:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nigerijská cesta k demokracii?</title>
+        <link>http://Fokus.respekt.cz/Nigerijska-cesta-k-demokracii-3426.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3426-mobr-nigerie-foto-ctk.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Když v roce 1998 nenadále zemřel nigerijský šílený diktátor Abacha v náručí indické milenky a o rok později se konaly první svobodné volby, optimisté jásali.&lt;/div&gt;</description>
+        <pubDate>Tue, 23 Dec 2008 01:48:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Mírová mise</title>
+        <link>http://www.respekt.cz/final-word.php?fIDFINWORD=3425</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Denní zamyšlení Erika Besta&lt;/div&gt;</description>
+        <pubDate>Mon, 22 Dec 2008 11:02:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Česko-slovenská jaderná elektrárna</title>
+        <link>http://Fokus.respekt.cz/Cesko-slovenska-jaderna-elektrarna-3424.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3424-mobr-fico-jaslovske-bohunice.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Slovenský stát bude vlastnit podíl ve dvou konkurenčních energetických firmách. V jedné jí bude sekundovat český polostátní ČEZ.&lt;/div&gt;</description>
+        <pubDate>Mon, 22 Dec 2008 09:23:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Today´s news</title>
+        <link>http://Fleet-Sheet.respekt.cz/Todays-news-3423.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3423-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fleet Sheet&lt;br /&gt;Topolánek said that he will use Christmas to decide whether it makes sense for the government to continue.&lt;/div&gt;</description>
+        <pubDate>Mon, 22 Dec 2008 09:21:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Alois Nebel: Betlém</title>
+        <link>http://Komiks.respekt.cz/Alois-Nebel-Betlem-3422.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3422-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Komiks&lt;br /&gt;&lt;a href=&quot;http://komiks.respekt.cz/Alois-Nebel-Betlem-3422.html&quot;&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/kestazeni/img/1976-mobr-Nebel_Respekt_52_homepage.jpg&quot; class=&quot;obr&quot; /&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;</description>
+        <pubDate>Mon, 22 Dec 2008 07:44:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Zůstaňme doma, je tu bezpečno</title>
+        <link>http://Glosy.respekt.cz/Zustanme-doma-je-tu-bezpecno-3421.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3421-mobr-mise.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Koalici se nepodařilo prosadit ve sněmovně ani zvýšení počtu vojáků v Afghánistánu a opozice dokonce zablokovala další pokračování mise.&lt;/div&gt;</description>
+        <pubDate>Mon, 22 Dec 2008 07:02:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Jaká letošní událost vás zaujala nejvíce? Byla pro vás nejdůležitější událostí roku světová krize?</title>
+        <link>http://www.respekt.cz/anketa.php?fIDANKETY=118</link>
+        <description>&lt;div&gt;RESPEKT.CZ - Ankety&lt;/div&gt;</description>
+        <pubDate>Sun, 21 Dec 2008 20:01:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Jak se vám líbí Respekt č. 52?</title>
+        <link>http://Oznamkujte-Respekt.respekt.cz/Jak-se-vam-libi-Respekt-c-52-3420.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3420-mobr-01obalkamala.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Oznámkujte Respekt&lt;br /&gt;Jak hodnotíte &lt;a href=&quot;http://www.respekt.cz/cislo.php?fIDROCNIKU=2008&amp;fIDCISLA=52&quot;&gt;Respekt č. 52&lt;/a&gt;?&lt;br&gt;Co se povedlo a co ne? &lt;br /&gt;Co byste nám vytkli a co se vám líbilo?&lt;br&gt;&lt;br&gt;Napište nám do diskuse svůj názor.&lt;/div&gt;</description>
+        <pubDate>Sun, 21 Dec 2008 19:56:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Jak mozek nakupuje</title>
+        <link>http://Fokus.respekt.cz/Jak-mozek-nakupuje-3419.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3419-mobr-nakupovani-foto-bartos-gunter.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus&lt;br /&gt;Maloobchodní prodejci dnes již mnohem lépe chápou psychologii svých zákazníků. Přečtěte si, co o vás vědí.&lt;/div&gt;</description>
+        <pubDate>Sun, 21 Dec 2008 10:13:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Podvod století</title>
+        <link>http://Fokus.respekt.cz/Podvod-stoleti-3418.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3418-mobr-madoff-bernard-foto-isifa.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Fokus - V dramatu Bernarda Madoffa bychom hrdiny hledali marně, hrají v něm jen padouchové a naivkové&lt;br /&gt;Bernard Madoff začínal jako plavčík. Tak si vydělal potřebné peníze, aby mohl ve vlastní firmě spustit obchodování s cennými papíry. Téměř o půlstoletí později se ale ukázalo, že kolosální „Ponziho schéma“ už nelze udržet nad vodou. &lt;/div&gt;</description>
+        <pubDate>Sat, 20 Dec 2008 10:30:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Nechutné spolky</title>
+        <link>http://Glosy.respekt.cz/Nechutne-spolky-3417.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3417-mobr-garda.jpg&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Glosy&lt;br /&gt;Minulý týden soud v Budapešti prohlásil činnost Maďarské gardy za protiústavní.&lt;/div&gt;</description>
+        <pubDate>Sat, 20 Dec 2008 07:46:00 GMT</pubDate>
+      </item>
+      <item>
+        <title>Pokus o duchovní nápravu...</title>
+        <link>http://Video.respekt.cz/Pokus-o-duchovni-napravu-3336.html?rw=yes&amp;mf=1</link>
+        <description>&lt;div&gt;&lt;img src=&quot;http://www.respekt.cz/downloads/externality/img/3336-mobr-&quot; align=&quot;right&quot; width=&quot;80&quot; alt=&quot;&quot; /&gt;RESPEKT.CZ - Video&lt;br&gt;...opraváře televizí Josefa Lávičky v devíti obrazech. (Snímek mladého filmaře získal čestné uznání na MFDF Jihlava 2008.)&lt;/div&gt;</description>
+        <pubDate>Sat, 20 Dec 2008 00:00:00 GMT</pubDate>
+      </item>
+    </channel>
+  </rss>
+

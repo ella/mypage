@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+
+<rss version="2.0">
+	<channel>
+		<image>
+			<link>http://www.lupa.cz/</link>
+			<title>Lupa.cz</title>
+			<url>http://i.iinfo.cz/urs/lupa-ikona-113283520108956.gif</url>
+			<width>88</width>
+			<height>22</height>
+		</image>
+		<title>Lupa.cz - články</title>
+		<link>http://www.lupa.cz/clanky/</link>
+		<description>server o českém Internetu</description>
+		<language>cs</language>
+		<pubDate>Thu, 08 Jan 2009 05:30:00 GMT</pubDate>
+		<item>
+			<title>Zabije internet limit současných peeringových uzlů?</title>
+			<link>http://www.lupa.cz/clanky/zabije-internet-limit-soucasnych-peeringovych-uzlu/</link>
+			<description>Rýsuje se limit současných Internet exchange uzlů. Málo koho například po přečtení zprávy o tom, že datový tok v NIXu přesáhl 70 Gbit/s, napadne otázka, kde je limit současných internetových uzlů a zda takový limit vůbec existuje. Vždyť existují i mnohem větší IXy, zejména AMS-IX s šesti sty gigabity za sekundu nebo DE-CIX, který loni jednou dokonce dosáhl špičky 650 Gbit/s provozu. Mohou IXP růst donekonečna?</description>
+			<author>redakce@lupa.cz (Lupa.cz: Zbyněk Pospíchal)</author>
+			<pubDate>Thu, 08 Jan 2009 05:30:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/zabije-internet-limit-soucasnych-peeringovych-uzlu/</guid>
+		</item>
+		<item>
+			<title>Proč Mafra investuje do společnosti Internet Trading</title>
+			<link>http://www.lupa.cz/clanky/mafra-investuje-do-internet-trading/</link>
+			<description>Odkup třetinového podílu ve významném českém prodejci internetové reklamy se upekl koncem loňského roku. Kdo je Internet Trading, proč do něj Mafra investuje a jak se změní situace na trhu?</description>
+			<author>redakce@lupa.cz (Lupa.cz: Patrick Zandl)</author>
+			<pubDate>Thu, 08 Jan 2009 05:25:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/mafra-investuje-do-internet-trading/</guid>
+		</item>
+		<item>
+			<title>Webové hry díl 2.: z čeho a jak žijí</title>
+			<link>http://www.lupa.cz/clanky/webove-hry-dil-2-z-ceho-a-jak-ziji/</link>
+			<description>Vývoj webových strategických her je svým způsobem relativně nákladná záležitost, minimálně na čas, strávený odlaďováním herního systému. Pokud je hra úspěšná, začnou enormně stoupat nároky na hosting a celkovou údržbu systému. Jak fungují obchodní modely webových her, a jde z pohledu provozovatele spíše o starost nebo o zlatý důl?</description>
+			<author>redakce@lupa.cz (Lupa.cz: Karel Wolf)</author>
+			<pubDate>Wed, 07 Jan 2009 05:30:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/webove-hry-dil-2-z-ceho-a-jak-ziji/</guid>
+		</item>
+		<item>
+			<title>Jak stát vymáhá lokální právo na globálním Internetu</title>
+			<link>http://www.lupa.cz/clanky/jak-stat-vymaha-lokalni-pravo/</link>
+			<description>Řada kauz, které nyní bublají českým blogerským prostorem, má společného jmenovatele: nějaký stát uplatnil lokální právo na globálním Internetu. Copak si ti vládní prďolové vážně myslí, že to někdy půjde? Internet je nad zákony! Jenže oni si to nejenom myslí. Ono to i funguje. Jak?</description>
+			<author>redakce@lupa.cz (Lupa.cz: Patrick Zandl)</author>
+			<pubDate>Wed, 07 Jan 2009 05:25:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/jak-stat-vymaha-lokalni-pravo/</guid>
+		</item>
+		<item>
+			<title>Centrum Holdings: spouštíme nové Centrum</title>
+			<link>http://www.lupa.cz/clanky/centrum-holdings-spoustime-nove-centrum/</link>
+			<description>Centrum Holdings dnes v poledne spustilo novou podobu svého vlajkového portálu. Je to největší změna od založení Centrum Holdings a možná dokonce od vybudování NetCentra, takové i další podobné superlativy lze slyšet z úst zástupců společnosti. Centrum se skutečně očividně mění. Jde o lehce inovovaný facelift, nebo se skutečně nějak změnila koncepce portálu?</description>
+			<author>redakce@lupa.cz (Lupa.cz: Karel Wolf)</author>
+			<pubDate>Tue, 06 Jan 2009 12:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/centrum-holdings-spoustime-nove-centrum/</guid>
+		</item>
+		<item>
+			<title>Končí žaloby na hudební &#8222;piráty&#8220; &#8211; konec copyrightu se možná blíží</title>
+			<link>http://www.lupa.cz/clanky/konci-zaloby-na-hudebni-piraty/</link>
+			<description>Pětiletá podivná válka mezi hudebními vydavatelstvími a jejich zákazníky je u konce; náhradní řešení je bezzubé. Organizace RIAA, zastupující největší světová hudební vydavatelství, dala pod stromeček nečekaný dárek - oznámila, že končí s žalobami proti uživatelům, kteří sdílejí nebo stahují autorsky chráněnou hudbu přes Internet.</description>
+			<author>redakce@lupa.cz (Lupa.cz: Jiří Hlavenka)</author>
+			<pubDate>Tue, 06 Jan 2009 05:30:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/konci-zaloby-na-hudebni-piraty/</guid>
+		</item>
+		<item>
+			<title>Webovinky 5 - Jak si přes Internet vylepšíte životní styl</title>
+			<link>http://www.lupa.cz/clanky/webovinky-5-jak-si-pres-internet-vylepsite-styl/</link>
+			<description>Dnes si předvedeme službu na vytváření zpětných vazeb, mikroplatební systém a pomůcku pro vaši online kancelář. Ve volném čase si pak můžete vymyslet nový styl oblékání nebo zlepšit svou tělesnou kondici - a pochopitelně se s tím pochlubit online.</description>
+			<author>redakce@lupa.cz (Lupa.cz: Lubomír Hauerland)</author>
+			<pubDate>Tue, 06 Jan 2009 05:25:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/webovinky-5-jak-si-pres-internet-vylepsite-styl/</guid>
+		</item>
+		<item>
+			<title>Stalo se: dnes je &#8222;den S&#8220; českého Internetu</title>
+			<link>http://www.lupa.cz/clanky/stalo-se-dnes-je-den-s-ceskeho-internetu/</link>
+			<description>Dnešním dnem začínají tuzemské sázkové kanceláře nabízet kurzové sázky i po Internetu. Podmínkou je ale ověření identity sázejícího uživatele na kamenné pobočce. Britský ministr kultury chce dostat Internet pod kontrolu. Mimo jiné navrhuje hodnotit weby podle jejich vhodnosti pro různé věkové skupiny, po vzoru hodnocení filmů.</description>
+			<author>redakce@lupa.cz (Lupa.cz: Jiří Peterka)</author>
+			<pubDate>Mon, 05 Jan 2009 05:30:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/stalo-se-dnes-je-den-s-ceskeho-internetu/</guid>
+		</item>
+		<item>
+			<title>Jak se telefonovalo na Nový rok</title>
+			<link>http://www.lupa.cz/clanky/jak-se-telefonovalo-na-novy-rok/</link>
+			<description>Intenzita telefonního provozu je v odborné literatuře označována jako provozní zatížení a má svá pravidla i zákonitosti. Okolo Nového roku však mívá telefonní provoz atypický průběh a není zcela jasné, zda telefonní ústředny a sítě jsou tuto špičku provozního zatížení schopné regulérně obsloužit.</description>
+			<author>redakce@lupa.cz (Lupa.cz: Ivo Fišer)</author>
+			<pubDate>Mon, 05 Jan 2009 05:25:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/jak-se-telefonovalo-na-novy-rok/</guid>
+		</item>
+		<item>
+			<title>Google a jeho americká lobby</title>
+			<link>http://www.lupa.cz/clanky/google-a-jeho-americka-lobby/</link>
+			<description>Budoucí americký president Obama se netají svým zájmem o informační technologie. Má hromady virtuálních známých na Facebooku, jeho volební tým využíval Twitter, ale hlavně: je zde blízkost ke Google.</description>
+			<author>redakce@lupa.cz (Lupa.cz: Michal Černý)</author>
+			<pubDate>Mon, 05 Jan 2009 05:20:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.lupa.cz/clanky/google-a-jeho-americka-lobby/</guid>
+		</item>
+	</channel>
+</rss>

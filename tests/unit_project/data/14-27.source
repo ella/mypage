@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>Denik.cz - Zprávy</title>
+    <link>http://www.denik.cz/</link>
+    <language>cs</language>
+    <webMaster>redakce.internet@denik.cz</webMaster>
+    <managingEditor>redakce.internet@denik.cz</managingEditor>
+    <copyright>&#xa9; Copyright VLATA-LABE-PRESS, a.s. 2000 - 2009</copyright>
+    <pubDate>Thu, 08 Jan 2009 12:08:45 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2009 12:08:45 GMT</lastBuildDate>
+    <description>Zprávy - Denik.cz (denik.cz)</description>
+    <image>
+      <title>Denik.cz logo</title>
+      <url>http://mm.denik.cz/grafika/1/2/images/new_logos/denik.gif</url>
+      <link>http://www.denik.cz/</link>
+    </image>
+    <ttl>90</ttl>
+        <item>
+      <title>Vraždil v budapešťské škole, policie ho dopadla</title>
+      <link>http://www.denik.cz/ze_sveta/madarsko20090108.html</link>
+      <description>Budapešť - Maskovaný vrah, který zabil v maďarské škole ředitele, jeho kolegu a postřelil školníka, je už za mřížemi.</description>
+      <pubDate>Thu, 08 Jan 2009 11:41:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/madarsko20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/61/e5/pistole_prepadeni20080219_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační foto</media:description>
+        <media:credit>DENÍK/Libor Plíhal</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Topolánek představil tým, který má pomáhat v krizi</title>
+      <link>http://www.denik.cz/z_domova/protikrizovy_experti20090108.html</link>
+      <description>Praha - Složení protikrizového týmu ve čtvrtek představil premiér Miroslav Topolánek. Jeho členy se stalo deset osobností ekonomického a podnikatelského života.</description>
+      <pubDate>Thu, 08 Jan 2009 11:23:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/protikrizovy_experti20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/66/topolanek_predstaveni_protikrizovy_tym_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Mirek Topolánek představil členy Protikrizového týmu.</media:description>
+        <media:credit>DENÍK/Martin Divíšek</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Zlínskou univerzitou koluje hanobný email</title>
+      <link>http://www.denik.cz/z_domova/zlin_univerzita_email20090108.html</link>
+      <description>Zlín - Po zlínské univerzitě se šíří další hanobný emailový dopis. Je adresován studentům, vedení fakult i&amp;#160;samotné univerzity. </description>
+      <pubDate>Thu, 08 Jan 2009 10:33:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/zlin_univerzita_email20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/17/d1/klavesnice_komp_pocitac_internet_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační obrázek</media:description>
+        <media:credit>Hradecký deník</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>OBRAZEM: Robot nabízí pomocnou ruku</title>
+      <link>http://www.denik.cz/ze_sveta/japonsko_robot20090108.html</link>
+      <description>Japonská záliba ve vytváření nejrůznějších lidem podobných robotů dospěla k mašině se dvěma rukama po čtyřech prstech. Ruce o velikosti těch lidských dokáží uchopit a přenášet křehké a jemné předměty, aniž by je rozbily.</description>
+      <pubDate>Thu, 08 Jan 2009 09:53:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/japonsko_robot20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/60/robot_prsty_japonsko2_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Robot Twendy-One z tokijské univerzity Waseda.</media:description>
+        <media:credit>REUTERS</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Kauza Kuřim jde definitivně k ledu</title>
+      <link>http://www.denik.cz/z_domova/kauza_kurim_definitivni_konec20090108.html</link>
+      <description>Brno - Policisté šetřili kuřimskou kauzu i po skončení soudu. Snažili se odhalit možné napojení na organizovaný zločin. Na nic nepřišli.</description>
+      <pubDate>Thu, 08 Jan 2009 09:36:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/kauza_kurim_definitivni_konec20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/50/4b/kauza_kurim_sko_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Kláru Mauerovou poslal soud na devět let do vězení a její sestru Kateřinu Mauerovou na deset.</media:description>
+        <media:credit>DENÍK/Tomáš Škoda</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Ukrajina musí platit za plyn tržní cenu, řekl Medveděv</title>
+      <link>http://www.denik.cz/ze_sveta/plyn_ukrajina_rusko20090108.html</link>
+      <description>Moskva, Kyjev - Ruský plyn přes Ukrajinu stále neproudí. O možnostech, jak surovinu v potrubí rozpohybovat, se bude jednat v Bruselu.</description>
+      <pubDate>Thu, 08 Jan 2009 08:17:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/plyn_ukrajina_rusko20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/9c/plyn_plynovod_ukrajina_gazprom_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Plynovod na Ukrajině. Ilustrační foto.</media:description>
+        <media:credit>REUTERS</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Chřipka může brzy udeřit. Neotálejte s očkováním</title>
+      <link>http://www.denik.cz/z_domova/chripka_ockovani20090108.html</link>
+      <description>ČR - S mrazivým příchodem nového roku by podle lékařů měly do České republiky dorazit i chřipkové epidemie.</description>
+      <pubDate>Thu, 08 Jan 2009 07:24:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/chripka_ockovani20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/3/59/chripka_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Začíná období horkých čajů a kapesníků</media:description>
+        <media:credit>Redakce</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Izraelci útočili na jihu, ze severu přilétly rakety</title>
+      <link>http://www.denik.cz/ze_sveta/gaza_izrael20090108.html</link>
+      <description>Gaza - Na Izrael přilétly rakety i ze severu, z Libanonu. Na jihu v Gaze ničila izraelská letadla a tanky tunely do Egypta.&amp;#160;</description>
+      <pubDate>Thu, 08 Jan 2009 07:06:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/gaza_izrael20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/d9/izrael_gaza_palestinci_zajatci_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Izraelský voják hlídá spoutané Palestince zajaté během vojenské operace v severní části pásma Gazy.</media:description>
+        <media:credit>REUTERS</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Proces kvůli pomluvě soudců začíná na druhý pokus</title>
+      <link>http://www.denik.cz/z_domova/pomluva_soudci_patera20090108.html</link>
+      <description>Ústí nad Labem,Teplice - Luboš Patera, obžalovaný z útoku na státní orgán a pro pomluvu, stane dnes (čtvrtek 9.1.2009) před teplickým okresním soudem.</description>
+      <pubDate>Thu, 08 Jan 2009 06:33:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/pomluva_soudci_patera20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/61/66/soudce20080425_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační foto</media:description>
+        <media:credit>DENÍK/Klatka Grzegorz</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Španělé se hrnou do armády. Kvůli krizi</title>
+      <link>http://www.denik.cz/ze_sveta/spanelsko_armada20090107.html</link>
+      <description>Madrid - Nemám práci, tak půjdu do armády. Podobná myšlenka se honí hlavou čím dál tím většímu množství Španělů a Španělek. A nejen jim. I v Austrálii mají najednou tolik zájemců o práci v armádě, jaké za poslední léta nepamatují.</description>
+      <pubDate>Thu, 08 Jan 2009 06:01:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/spanelsko_armada20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/45/63/armada_vojak_vojaci_vojsko_kanady_maskace_boty_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační foto</media:description>
+        <media:credit>DENÍK/Jiří Sejkora</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Nový most ve Studénce? Do konce července</title>
+      <link>http://www.denik.cz/z_domova/most_studenka20090107.html</link>
+      <description>Studénka - Zřícený most ve Studénce by měl být zprovozněn nejpozději do konce července. Společnost ODS – Dopravní stavby Ostrava, k tomu zavazuje dodatek smlouvy uzavřený s radou kraje.</description>
+      <pubDate>Thu, 08 Jan 2009 06:01:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/most_studenka20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/65/f4/studenka_mostb110808_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Zřícený most ve Studénce způsobil mnoho lidského utrpení, Studénce navíc přinese další komplikace v dopravě.</media:description>
+        <media:credit>Deník/Ivan Pavelek</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Muž onanoval před vnučkou. Každou druhou neděli</title>
+      <link>http://www.denik.cz/z_domova/muz_onan_vnucka20090107.html</link>
+      <description>Brno - Sedmapadesátiletý Jaroslav Vavrek z Brna má devatenáct záznamů v rejstříku trestů. Tím dvacátým je ohrožování výchovy mládeže.</description>
+      <pubDate>Thu, 08 Jan 2009 04:13:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/muz_onan_vnucka20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/69/0b/vavrek_soud_brno_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Jaroslav Vavrek</media:description>
+        <media:credit>DENÍK/Tomáš Škoda</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Zimní zoo nespí. Venku jsou i zvířata z teplých krajin</title>
+      <link>http://www.denik.cz/z_domova/zoo_20090107.html</link>
+      <description>Zlín /VIDEO/ - Mohlo by se zdát, že v zimě zoo odpočívá a není tam nic k vidění, ale opak je pravdou. Areál zahrady je stále plný života. Spatřit můžete prakticky všechna zvířata, jen teplomilní ptáci opouštějí své letní voliéry a zimu tráví v chovatelském zázemí.</description>
+      <pubDate>Thu, 08 Jan 2009 02:03:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/zoo_20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/55/74/sloni_zoo_lesna_zlin_snih_4_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Sloni ve zlínské ZOO Lešná si užívají sněhové nadílky. </media:description>
+        <media:credit>DENÍK/Marek Gerhard</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Kalifornské pelikány kosí záhadná choroba</title>
+      <link>http://www.denik.cz/ze_sveta/usa_pelikan20090107.html</link>
+      <description>Los Angeles - Před necelým rokem slavili ochránci životního prostředí vyškrtnutí kalifornského pelikána hnědého ze seznamu ohrožených druhů. Nyní hrozí, že se na něm objeví znovu.</description>
+      <pubDate>Wed, 07 Jan 2009 23:52:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/usa_pelikan20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/37/4a/ndleden_zoopelikani_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Krmení malých pelikánů - ilustrační foto.</media:description>
+        <media:credit>Jana Myslivečková</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Místo receptu bude v lékárnách stačit esemeska od lékaře</title>
+      <link>http://www.denik.cz/z_domova/lekarna_smska20090107.html</link>
+      <description>Praha - Výrazné ušetření času čeká od dubna na pacienty, kteří pravidelně užívají stále stejné léky. Pro předepsání nového balení totiž nebudou muset chodit k lékaři. Kód receptu jim může doktor poslat e-mailem nebo textovou zprávou přímo na mobil.</description>
+      <pubDate>Wed, 07 Jan 2009 23:40:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/lekarna_smska20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/48/b3/lekarna_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační foto</media:description>
+        <media:credit>Katëřina Elznicová</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>OBRAZEM: Stalo se ve středu</title>
+      <link>http://www.denik.cz/z_domova/obrazem20090108.html</link>
+      <description>ČR - Připomeňte si nejdůležitější události uplynulých 24 hodin na poli domácím, zahraničním i sportovním.</description>
+      <pubDate>Wed, 07 Jan 2009 23:00:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/obrazem20090108.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/76/ftg_obrazem0701_eu_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>61</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Na pozvání vlády do Prahy přijela kompletní Evropská komise (EK) a pouhé zdvořilostní setkání se proměnilo v lítý boj. Evropa totiž v hlavní městě zformulovala svůj plán na řešení "plynové krize".</media:description>
+        <media:credit>DENÍK/Martin Divíšek</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Na Drymla, Seidla a Všetečku bylo podáno trestní oznámení</title>
+      <link>http://www.denik.cz/z_domova/dryml_holding20090107.html</link>
+      <description>Hradec Králové - Podání proti Vladimíru Drymlovi, Alexandru Seidlovi a Rostislavu Všetečkovi bylo v úterý 6. ledna doručeno Krajskému státnímu zastupitelstvu v Hradci Králové a Policii České republiky.</description>
+      <pubDate>Wed, 07 Jan 2009 21:59:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/dryml_holding20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/23/d4/krkonose_dryml_listopad_082_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Vladimír Dryml</media:description>
+        <media:credit>DENÍK/David Taneček</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Gazprom zcela zastavil dodávky do Evropy</title>
+      <link>http://www.denik.cz/ze_sveta/gazprom_evropa20090107.html</link>
+      <description>Kyjev - Nejvíce postiženi sporem o ceny plynu jsou Bulhaři, Srbové a Bosňáci, omezit zásobování některých podniků muselo Slovensko.</description>
+      <pubDate>Wed, 07 Jan 2009 21:41:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/ze_sveta/">Ze světa</category>
+      <guid>http://www.denik.cz/ze_sveta/gazprom_evropa20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/1/57/plynovod_ukrajina_plyn_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Plynovod na Ukrajině. Ilustrační foto</media:description>
+        <media:credit>REUTERS</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>Osahával školačku a platil jí za to. Je za mřížemi</title>
+      <link>http://www.denik.cz/z_domova/muz_mrize_osahavani20090107.html</link>
+      <description>Nýrsko - Ve vazbě v Plzni na Borech skončil v úterý večer 57letý muž Nýrska, který delší dobu pohlavně zneužíval 13letou školačku.</description>
+      <pubDate>Wed, 07 Jan 2009 20:57:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/muz_mrize_osahavani20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/74/32/mrize_vezeni_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Ilustrační foto.</media:description>
+        <media:credit>Profimedia.cz</media:credit>
+      </media:group>
+    </item>
+    <item>
+      <title>V domě vybuchl plyn, devět lidí bylo evakuováno</title>
+      <link>http://www.denik.cz/z_domova/vybuch_plynu20090107.html</link>
+      <description>Větřní - Náhlá detonace otřásla ve středu 7. 1.večer dvoupodlažním domem ve Větřní. Vzápětí poté v domě o jedenácti bytech vypukl požár. Jedna žena utrpěla zranění, devět lidí bylo evakuováno.</description>
+      <pubDate>Wed, 07 Jan 2009 20:32:00 GMT</pubDate>
+      <category domain="http://www.denik.cz/z_domova/">Z domova</category>
+      <guid>http://www.denik.cz/z_domova/vybuch_plynu20090107.html</guid>
+      <media:group>
+        <media:content>
+          <media:url>http://mm.denik.cz/62/6e/vybuch_plynu_1509_denik-hp_top2.jpg</media:url>
+          <media:medium>image</media:medium>
+          <media:height>75</media:height>
+          <media:width>100</media:width>
+        </media:content>
+        <media:description>Výbuch plynu. Ilustrační foto.</media:description>
+        <media:credit>HZS ZK</media:credit>
+      </media:group>
+    </item>
+  </channel>
+</rss>

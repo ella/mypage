@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns="" xmlns:szn="http://www.seznam.cz">
+	<channel>
+		<title>Super.cz</title>
+		<link>http://www.super.cz</link>
+		<description>Super.cz - on-line deník</description>
+		<language>cs</language>
+
+		<image>
+			<link>http://www.super.cz</link>
+			<title>Super.cz</title>
+			<url>/static/images/logo-super-print.gif</url>
+			<width>208</width>
+			<height>76</height>
+		</image>
+
+		
+			<item>
+				<title>Sexbomba Mašlíková: Pánové, tohle tělo je volné! </title>
+				<description>Silikonová kráska Hanka Mašlíková (26) se po půl roce rozešla s o dva roky mladším majitelem zlínské diskotéky Sašou! Důvod? O svém milenci se dozvěděla šokující informaci, kterou by si ráda nechala pro sebe. </description>
+				<pubDate>Thu, 08 Jan 2009 07:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28873-sexbomba-maslikova-panove-tohle-telo-je-volne.html</guid>
+				<link>http://www.super.cz/clanek/28873-sexbomba-maslikova-panove-tohle-telo-je-volne.html</link>
+				<szn:image>http://media.super.cz/753/67539-60x60-p6dfc.jpg</szn:image>
+				<szn:upDate>20090108T10:29:02+2730</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Milenec Kristelové: Hazard se zdravím!</title>
+				<description>Moderátorka Kateřina Kristelová (29) vyrazila se svým přítelem na hory. Martin Tůma (23) ale hraje hokej za HC Slovan Ústí nad Labem a musí si na sněhu dávat pozor, aby nepřišel k ošklivému úrazu.</description>
+				<pubDate>Wed, 07 Jan 2009 13:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28872-milenec-kristelove-hazard-se-zdravim.html</guid>
+				<link>http://www.super.cz/clanek/28872-milenec-kristelove-hazard-se-zdravim.html</link>
+				<szn:image>http://media.super.cz/969/119693-60x60-vl80s.jpg</szn:image>
+				<szn:upDate>20090107T14:00:02+2715</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Dara Rolins jako módní ikona už navždy!</title>
+				<description>Zpěvačka Dara Rolins byla vždy inspirací pro jiné dívky. V oblékání byla trendy a stylová a to jí zůstalo i po porodu dcery Laury. Holt, kdo umí, ten umí, tvrdí módní redaktorka Markéta H.</description>
+				<pubDate>Wed, 07 Jan 2009 07:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28775-dara-rolins-jako-modni-ikona-uz-navzdy.html</guid>
+				<link>http://www.super.cz/clanek/28775-dara-rolins-jako-modni-ikona-uz-navzdy.html</link>
+				<szn:image>http://media.super.cz/949/119499-60x60-gib02.jpg</szn:image>
+				<szn:upDate>20090107T10:38:01+2830</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Verešová na horách opět zabodovala!</title>
+				<description>Modelka Andrea Verešová během loňské zimní sezony ve Špindlerově Mlýně zabodovala se zlatým vázáním. Letos kvůli těhotenství na lyže nestoupla, ale opět byla za nejlépe oblečenou ženu hor. Komentovala módní redaktorka Markéta H.</description>
+				<pubDate>Tue, 06 Jan 2009 07:00:01 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28769-veresova-na-horach-opet-zabodovala.html</guid>
+				<link>http://www.super.cz/clanek/28769-veresova-na-horach-opet-zabodovala.html</link>
+				<szn:image>http://media.super.cz/949/119490-60x60-47yd6.jpg</szn:image>
+				<szn:upDate>20090106T08:00:01+2430</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Nikol Štíbrová: Prý bulimie?</title>
+				<description>Herečka a občasná zpěvačka Nikol Štíbrová se nedávno přiznala, že kdysi trpěla bulimií. Módní redaktorka Markéta H. si dovoluje tvrdit, že na její postavě tahle hrůzná choroba nezanechala žádné následky.</description>
+				<pubDate>Thu, 08 Jan 2009 07:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28893-nikol-stibrova-pry-bulimie.html</guid>
+				<link>http://www.super.cz/clanek/28893-nikol-stibrova-pry-bulimie.html</link>
+				<szn:image>http://media.super.cz/972/119722-60x60-kjfhz.jpg</szn:image>
+				<szn:upDate>20090108T08:00:02+0815</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Fergie: Svatba už v sobotu </title>
+				<description>Zpěvačka Fergie (33) se rozhodla do nového roku vstoupit stylově. </description>
+				<pubDate>Thu, 08 Jan 2009 10:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28843-fergie-svatba-uz-v-sobotu.html</guid>
+				<link>http://www.super.cz/clanek/28843-fergie-svatba-uz-v-sobotu.html</link>
+				<szn:image>http://media.super.cz/961/119617-60x60-14l9i.jpg</szn:image>
+				<szn:upDate>20090108T11:00:02-0000</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Nejhezčí jméno má dcera Laurinové! </title>
+				<description>Nejzajímavějším jménem minulého roku bylo podle čtenářů Super.cz zvoleno to, které dala své dceři Sabina Laurinová! Naopak nejméně zajímavým se stalo jméno Sofie potomka Lucie Kachtíkové! </description>
+				<pubDate>Thu, 08 Jan 2009 10:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28823-nejhezci-jmeno-ma-dcera-laurinove.html</guid>
+				<link>http://www.super.cz/clanek/28823-nejhezci-jmeno-ma-dcera-laurinove.html</link>
+				<szn:image>http://media.super.cz/362/53629-60x60-sk04c.jpg</szn:image>
+				<szn:upDate>20090108T11:00:02+2830</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Jitka Asterová: Rajcují mě chlapi v balíku! </title>
+				<description>Moderátorka rádia Frekvence 1 a herečka Jitka Asterová (48) se netají tím, že nejvíc sexy jí přijdou prachatí muži a s tím, kdo by vydělával méně než ona, by prý nikdy nedokázala žít. </description>
+				<pubDate>Thu, 08 Jan 2009 10:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28888-jitka-asterova-rajcuji-me-chlapi-v-baliku.html</guid>
+				<link>http://www.super.cz/clanek/28888-jitka-asterova-rajcuji-me-chlapi-v-baliku.html</link>
+				<szn:image>http://media.super.cz/842/48427-60x60-tbgvc.jpg</szn:image>
+				<szn:upDate>20090108T11:00:02-0800</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Potetovaná Maruška z VyVolených: Sekne jí to? </title>
+				<description>Potkali jste někoho slavného? Práskněte to!</description>
+				<pubDate>Thu, 08 Jan 2009 10:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28875-potetovana-maruska-z-vyvolenych-sekne-ji-to.html</guid>
+				<link>http://www.super.cz/clanek/28875-potetovana-maruska-z-vyvolenych-sekne-ji-to.html</link>
+				<szn:image>http://media.super.cz/969/119699-60x60-27oxy.jpg</szn:image>
+				<szn:upDate>20090108T11:00:02+2700</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Fasterová se zase svlékla! A postěžovala si při tom na to, jak neví kudy kam...</title>
+				<description>I když to vypadá, že modelka Veronika Fasterová (20) má na růžích ustláno, opak je pravdou. Vnadná kráska si masérce postěžovala, jak těžký má život. Problémy jí dělá i taková maličkost, jako je oblékání.</description>
+				<pubDate>Wed, 07 Jan 2009 14:37:01 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28885-fasterova-se-zase-svlekla-a-postezovala-si-pri-tom-na-to-jak-nevi-kudy-kam.html</guid>
+				<link>http://www.super.cz/clanek/28885-fasterova-se-zase-svlekla-a-postezovala-si-pri-tom-na-to-jak-nevi-kudy-kam.html</link>
+				<szn:image>http://media.super.cz/970/119706-60x60-3v1wy.jpg</szn:image>
+				<szn:upDate>20090107T16:20:01+2200</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Královna parketu Batulková dováděla s hošíky! </title>
+				<description>Vítězka třetí řady taneční soutěže StarDance Dana Batulková (50) na tanec nezanevřela a při vystoupení skupiny NightWork, kde na kytaru hraje její syn Jakub (25), předvedla několik krokových variací. </description>
+				<pubDate>Wed, 07 Jan 2009 13:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28866-kralovna-parketu-batulkova-dovadela-s-hosiky.html</guid>
+				<link>http://www.super.cz/clanek/28866-kralovna-parketu-batulkova-dovadela-s-hosiky.html</link>
+				<szn:image>http://media.super.cz/963/119636-60x60-p01il.jpg</szn:image>
+				<szn:upDate>20090107T14:00:02+2200</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Česká Miss Hadašová: Lovkyně českých ,,kopaček&quot; a ,,hokejek&quot;! </title>
+				<description>I když se Česká Miss 2007 Lucie Hadašová (22) tváří jako neviňátko, opak je pravdou. Než se kráska zaháčkovala u hokejisty Jaroslava Bednáře (32), udělalo si několik českých fotbalistů hezký zářez na pažbě! </description>
+				<pubDate>Thu, 08 Jan 2009 07:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28896-ceska-miss-hadasova-lovkyne-ceskych-kopacek-a-hokejek.html</guid>
+				<link>http://www.super.cz/clanek/28896-ceska-miss-hadasova-lovkyne-ceskych-kopacek-a-hokejek.html</link>
+				<szn:image>http://media.super.cz/916/119161-60x60-v7inj.jpg</szn:image>
+				<szn:upDate>20090108T08:00:02-2600</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Ariana a Raven: Máme naprosto rozdílné povahy!</title>
+				<description>Dobrý den, Ariano a Ravene, tak jako spousta lidí i já čtu vaši rubriku, sice ne tak často, abych věděla o všech problémech, které se tam za tu dlouhou dobu vyskytly, ale přesto. Můj ,,problém&quot; je v rozdílných povahách.</description>
+				<pubDate>Thu, 08 Jan 2009 07:00:02 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28905-ariana-a-raven-mame-naprosto-rozdilne-povahy.html</guid>
+				<link>http://www.super.cz/clanek/28905-ariana-a-raven-mame-naprosto-rozdilne-povahy.html</link>
+				<szn:image>http://media.super.cz/974/119743-60x60-895ap.jpg</szn:image>
+				<szn:upDate>20090108T08:00:02-0000</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Žárlím na starší (a sebevědomější) přítelkyni</title>
+				<description>Jirka nezvládl hádku a svoji přítelkyni téměř napadl. Před společnými přáteli. Teď je mu to líto. Má mu odpustit?</description>
+				<pubDate>Wed, 07 Jan 2009 19:00:01 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28884-zarlim-na-starsi-a-sebevedomejsi-pritelkyni.html</guid>
+				<link>http://www.super.cz/clanek/28884-zarlim-na-starsi-a-sebevedomejsi-pritelkyni.html</link>
+				<szn:image>http://media.super.cz/473/64736-60x60-nswx1.jpg</szn:image>
+				<szn:upDate>20090107T20:00:01-0000</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Jaká prsa jsou prototypem krásy? Malá? Velká? Zdravá?</title>
+				<description>Není snad na ženském těle tak důležitá a sledovaná partie, jako jsou prsa. Která jsou prototypem krásy? Malá? Velká? Zdravá?</description>
+				<pubDate>Thu, 08 Jan 2009 11:00:01 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28834-jaka-prsa-jsou-prototypem-krasy-mala-velka-zdrava.html</guid>
+				<link>http://www.super.cz/clanek/28834-jaka-prsa-jsou-prototypem-krasy-mala-velka-zdrava.html</link>
+				<szn:image>http://media.super.cz/961/119619-60x60-tza93.jpg</szn:image>
+				<szn:upDate>20090108T12:00:01+0415</szn:upDate>
+			</item>
+		
+			<item>
+				<title>Agent James Bochrond: Bond je proti němu břídil!</title>
+				<description>Nejen Velká Británie a Její Veličenstvo mají svého supertajného a supervýkonného agenta! Jeden takový se najde i v českých luzích a hájích. Na jeho medailonek se můžete podívat právě teď.</description>
+				<pubDate>Wed, 07 Jan 2009 16:00:01 +0000</pubDate>
+				<guid>http://www.super.cz/clanek/28868-agent-james-bochrond-bond-je-proti-nemu-bridil.html</guid>
+				<link>http://www.super.cz/clanek/28868-agent-james-bochrond-bond-je-proti-nemu-bridil.html</link>
+				<szn:image>http://media.super.cz/968/119689-60x60-u9s0n.jpg</szn:image>
+				<szn:upDate>20090107T17:00:01-0000</szn:upDate>
+			</item>
+		
+	</channel>
+</rss>

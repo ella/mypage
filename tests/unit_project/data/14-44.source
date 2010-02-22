@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel rdf:about="http://www.sport.cz">
+		<title>Sport.cz</title>
+		<link>http://www.sport.cz</link>
+		<description>Sport.cz - sportovní zpravodajský server</description>
+		<language>cs</language>
+		<image rdf:resource="http://www.sport.cz/img/logo.gif"/>
+		<items>
+			<rdf:Seq>
+	
+				<rdf:li resource="http://fotbal.sport.cz/clanek/142839-po-messim-vybral-cecha-za-nejlepsiho-golmana-i-aguero.html"/>
+	
+				<rdf:li resource="http://fotbal.sport.cz/clanek/142824-ferguson-byl-nakonec-spokojeny-manchester-prohral-o-gol-mohl-o-ctyri.html"/>
+	
+				<rdf:li resource="http://moto.sport.cz/clanek/142835-tomecek-uspel-i-pres-bloudeni-v-dunach-lopraise-stve-zkraceni-etapy.html"/>
+	
+				<rdf:li resource="http://fotbal.sport.cz/clanek/142840-vrba-se-v-plzni-pokusi-vzkrisit-karieru-brankare-danka.html"/>
+	
+				<rdf:li resource="http://fotbal.sport.cz/clanek/142837-manchester-united-zakoncil-rok-v-cele-fotbaloveho-zebricku.html"/>
+	
+				<rdf:li resource="http://hokej.sport.cz/clanek/142825-jagr-je-pripraven-na-snizeni-platu-i-kdyz-prijde-o-desitky-milionu.html"/>
+	
+				<rdf:li resource="http://hokej.sport.cz/clanek/142823-montreal-oloupil-rangers-veteran-lang-se-blyskl-hattrickem.html"/>
+	
+				<rdf:li resource="http://hokej.sport.cz/clanek/142817-v-utkani-hvezd-nhl-se-predstavi-i-milan-hejduk.html"/>
+	
+				<rdf:li resource="http://hokej.sport.cz/clanek/142832-kapitan-hokejistu-colorada-sakic-podstoupil-operaci-zad.html"/>
+	
+				<rdf:li resource="http://moto.sport.cz/clanek/142815-tomecek-dojel-v-pate-etape-dakaru-ctvrty-machacek-s-ctyrkolkou-druhy.html"/>
+	
+				<rdf:li resource="http://moto.sport.cz/clanek/142778-ferrari-je-pripraveno-poskytnout-tymu-honda-motory.html"/>
+	
+				<rdf:li resource="http://moto.sport.cz/clanek/142770-na-dakaru-skoncili-prvni-cesi-odstoupil-i-macik-s-liazem.html"/>
+	
+				<rdf:li resource="http://www.sport.cz/clanek/142833-bauer-vi-ze-nemoc-hrozi-stale-utok-astmatu-jej-ale-vydesil.html"/>
+	
+				<rdf:li resource="http://www.sport.cz/clanek/142831-krize-bostonu-trva-pred-slagrem-nba-s-clevelandem-prohral-i-doma.html"/>
+	
+				<rdf:li resource="http://www.sport.cz/clanek/142827-safarova-dohrala-v-brisbane-minar-v-cennai.html"/>
+	
+				<rdf:li resource="http://www.sport.cz/clanek/142828-skikrosar-kraus-souperi-si-uzivali-ze-skoncili-prede-mnou.html"/>
+	
+			</rdf:Seq>
+		</items>
+	</channel>
+	
+	<image rdf:about="http://1.im.cz/n/img/logo.gif">
+			<title>Sport.cz</title>
+			<url>http://1.im.cz/n/img/logo.gif</url>
+			<link>http://www.sport.cz</link>
+	</image>
+	
+	
+		<item rdf:about="http://fotbal.sport.cz/clanek/142839-po-messim-vybral-cecha-za-nejlepsiho-golmana-i-aguero.html">
+			<link>http://fotbal.sport.cz/clanek/142839-po-messim-vybral-cecha-za-nejlepsiho-golmana-i-aguero.html</link>
+			<title>Po Messim vybral Čecha za nejlepšího gólmana i Agüero</title>
+			<description>Argentinský talent a útočník Atlétika Madrid Sergio Agüero stejně jako jeho krajan Lionel Messi vybral českého reprezentačního brankáře Petra Čecha v anketě oficiálních stránek evropské fotbalové unie UEFA do ideální jedenáctky za nedávno uplynulý rok. Gólman Chelsea tak na svou osobu po delší době slyší slova chvály.</description>
+		</item>
+	
+		<item rdf:about="http://fotbal.sport.cz/clanek/142824-ferguson-byl-nakonec-spokojeny-manchester-prohral-o-gol-mohl-o-ctyri.html">
+			<link>http://fotbal.sport.cz/clanek/142824-ferguson-byl-nakonec-spokojeny-manchester-prohral-o-gol-mohl-o-ctyri.html</link>
+			<title>Ferguson byl nakonec spokojený. Manchester prohrál o gól, mohl o čtyři</title>
+			<description>Kouč Manchesteru United Sir Alex Ferguson nestačil zírat, co jeho svěřenci předvádějí ve středečním utkání anglického Ligového poháru, když nestačili na podprůměrný druholigový celek Derby County a prohráli 0:1. Trenér Rudých ďáblů nakonec musel přiznat, že jeho tým na soupeře vůbec neměl. „Jedinou pozitivní věcí je, že jsme prohráli jen 0:1,“ nebál se po utkání Sir Ferguson ostře zkritizovat své hráče.</description>
+		</item>
+	
+		<item rdf:about="http://moto.sport.cz/clanek/142835-tomecek-uspel-i-pres-bloudeni-v-dunach-lopraise-stve-zkraceni-etapy.html">
+			<link>http://moto.sport.cz/clanek/142835-tomecek-uspel-i-pres-bloudeni-v-dunach-lopraise-stve-zkraceni-etapy.html</link>
+			<title>Tomeček uspěl i přes bloudění v dunách, Lopraise štve zkrácení etapy</title>
+			<description>Dosud nejlepší umístění českých kamiónistů na Rallye Dakar zaznamenal ve středeční páté etapě se svou posádkou Tomáš Tomeček. Osmatřicetiletý závodník projel se svou tatrou cílem měřeného úseku na čtvrtém místě a v průběžném pořadí odsunul ze šestého místa Marka Spáčila, který bojuje v Jižní Americe s vozem Liaz. I přes další potíže se na průběžné 14. místo posunul Aleš Loprais s další tatrou.</description>
+		</item>
+	
+		<item rdf:about="http://fotbal.sport.cz/clanek/142840-vrba-se-v-plzni-pokusi-vzkrisit-karieru-brankare-danka.html">
+			<link>http://fotbal.sport.cz/clanek/142840-vrba-se-v-plzni-pokusi-vzkrisit-karieru-brankare-danka.html</link>
+			<title>Vrba se v Plzni pokusí vzkřísit kariéru brankáře Daňka</title>
+			<description>Zimní galeje už mučí také fotbalisty Viktorie Plzeň. Nepopulární dávky polykají na soustředění v Písku, kde na kondičním soustředění začíná jejich cesta za vylepšením sedmé příčky v Gambrinus lize po podzimu. Trenér Pavel Vrba má k dispozici čtyři brankáře a mezi nimi i navrátilce Michala Daňka, který neuspěl na štacích v Anglii a v Teplicích.</description>
+		</item>
+	
+		<item rdf:about="http://fotbal.sport.cz/clanek/142837-manchester-united-zakoncil-rok-v-cele-fotbaloveho-zebricku.html">
+			<link>http://fotbal.sport.cz/clanek/142837-manchester-united-zakoncil-rok-v-cele-fotbaloveho-zebricku.html</link>
+			<title>Manchester United zakončil rok v čele fotbalového žebříčku</title>
+			<description>Vítěz Ligy mistrů a anglický šampión Manchester United byl nejlepším fotbalovým klubem loňského roku. V žebříčku Mezinárodní federace fotbalových historiků a statistiků (IFFHS) za období od 1. ledna do 31. prosince 2008 mu patří první místo před Bayernem Mnichov. K posunu ze druhého místa do čela Manchesteru pomohl prosincový triumf na mistrovství světa klubů.</description>
+		</item>
+	
+		<item rdf:about="http://hokej.sport.cz/clanek/142825-jagr-je-pripraven-na-snizeni-platu-i-kdyz-prijde-o-desitky-milionu.html">
+			<link>http://hokej.sport.cz/clanek/142825-jagr-je-pripraven-na-snizeni-platu-i-kdyz-prijde-o-desitky-milionu.html</link>
+			<title>Jágr je připraven na snížení platu. I když přijde o desítky miliónů</title>
+			<description>Nejlépe placený hokejista KHL Jaromír Jágr je připraven i na krizový scénář, že se v Rusku v důsledku ekonomické krize až o třetinu sníží platy. „Musíme být prostě připraveni, že sponzoři budou v roce 2009 daleko víc přemýšlet, jestli jim stojí za to dávat peníze do sportovních klubů,&quot; prohlásil pro ruský tisk Jágr, jež by si měl podle původní smlouvy v Omsku přijít v přepočtu až na 140 miliónů korun.</description>
+		</item>
+	
+		<item rdf:about="http://hokej.sport.cz/clanek/142823-montreal-oloupil-rangers-veteran-lang-se-blyskl-hattrickem.html">
+			<link>http://hokej.sport.cz/clanek/142823-montreal-oloupil-rangers-veteran-lang-se-blyskl-hattrickem.html</link>
+			<title>Montreal oloupil Rangers, veterán Lang se blýskl hattrickem</title>
+			<description>Hokejisté New Yorku Rangers po vyrovnaném úvodu nezvládli ve středečním utkání s Montrealem třetí třetinu a prohráli 3:6. Na vítězství hostujících Canadiens měl hlavní podíl osmatřicetiletý útočník Robert Lang, který v poslední části zkompletoval svůj teprve druhý hattrick v zámořské soutěži. Vítězný návrat do NHL prožil Mats Sundin v dresu Vancouveru, Canucks vyhráli v Edmontonu 4:2.</description>
+		</item>
+	
+		<item rdf:about="http://hokej.sport.cz/clanek/142817-v-utkani-hvezd-nhl-se-predstavi-i-milan-hejduk.html">
+			<link>http://hokej.sport.cz/clanek/142817-v-utkani-hvezd-nhl-se-predstavi-i-milan-hejduk.html</link>
+			<title>V Utkání hvězd NHL se představí i Milan Hejduk</title>
+			<description>Český hokejový útočník Milan Hejduk si potřetí v kariéře zahraje Utkání hvězd NHL, které se letos uskuteční v neděli 25. ledna v Montrealu. Opora Colorada byla ve středu doplněna společně s dalšími čtrnácti hráči do výběru Západní konference. Zahajovací formace obou konferencí byly zveřejněny v sobotu, Východ doplní svou sestavu ve čtvrtek.
+</description>
+		</item>
+	
+		<item rdf:about="http://hokej.sport.cz/clanek/142832-kapitan-hokejistu-colorada-sakic-podstoupil-operaci-zad.html">
+			<link>http://hokej.sport.cz/clanek/142832-kapitan-hokejistu-colorada-sakic-podstoupil-operaci-zad.html</link>
+			<title>Kapitán hokejistů Colorada Sakic podstoupil operaci zad</title>
+			<description>Kapitán hokejistů Colorada Joe Sakic ve středu podstoupil operaci zad, která by měla vyřešit jeho problémy s vyhřezlou ploténkou. Pokud půjde rekonvalescence podle plánu, mohl by devětatřicetiletý útočník stihnout poslední měsíc této sezóny. Jeho další zdravotní problémy však znovu vyvolaly otázku, zda dál půjde za svým snem o startu na olympiádě ve Vancouveru 2010.</description>
+		</item>
+	
+		<item rdf:about="http://moto.sport.cz/clanek/142815-tomecek-dojel-v-pate-etape-dakaru-ctvrty-machacek-s-ctyrkolkou-druhy.html">
+			<link>http://moto.sport.cz/clanek/142815-tomecek-dojel-v-pate-etape-dakaru-ctvrty-machacek-s-ctyrkolkou-druhy.html</link>
+			<title>Tomeček dojel v páté etapě Dakaru čtvrtý, Macháček s čtyřkolkou druhý</title>
+			<description>Tomáš Tomeček s tatrou obsadil v páté etapě Rallye Dakar čtvrté místo mezi kamióny a celkově je šestý, nejlepší z českých posádek. Na více než pětisetkilometrovém měřeném úseku mezi městy Neuquén a San Rafael byl nejrychlejší Rus Firdaus Kabirov, který snížil náskok vedoucího Gerarda de Rooye z Nizozemska na pouhých 13 sekund. Spáčil s liazem dojel devátý, Loprais s tatrovkou desátý.</description>
+		</item>
+	
+		<item rdf:about="http://moto.sport.cz/clanek/142778-ferrari-je-pripraveno-poskytnout-tymu-honda-motory.html">
+			<link>http://moto.sport.cz/clanek/142778-ferrari-je-pripraveno-poskytnout-tymu-honda-motory.html</link>
+			<title>Ferrari je připraveno poskytnout týmu Honda motory</title>
+			<description>Automobilka Ferrari by mohla pomoci týmu Honda v jeho snaze zachovat si účast v mistrovství světa formule 1. Pokud to bude potřeba, je připravena dodávat konkurenční stáji motory. Žádná konkrétní dohoda ale nebyla uzavřena.</description>
+		</item>
+	
+		<item rdf:about="http://moto.sport.cz/clanek/142770-na-dakaru-skoncili-prvni-cesi-odstoupil-i-macik-s-liazem.html">
+			<link>http://moto.sport.cz/clanek/142770-na-dakaru-skoncili-prvni-cesi-odstoupil-i-macik-s-liazem.html</link>
+			<title>Na Dakaru skončili první Češi, odstoupil i Macík s liazem</title>
+			<description>Startovní pole Rallye Dakar přišlo v úterý o první české účastníky. Premiéru prestižní soutěže v Jižní Americe nedokončí motocyklisté Ivo Kaštan a Dušan Randýsek, který havaroval a je v nemocnici. Soutěž skončila i pro Martina Macíka a jeho posádku kamionu Liaz, který byl s poruchou převodovky dotažen do cíle čtvrté etapy svým asistenčním vozem a do soutěže už nenastoupil.</description>
+		</item>
+	
+		<item rdf:about="http://www.sport.cz/clanek/142833-bauer-vi-ze-nemoc-hrozi-stale-utok-astmatu-jej-ale-vydesil.html">
+			<link>http://www.sport.cz/clanek/142833-bauer-vi-ze-nemoc-hrozi-stale-utok-astmatu-jej-ale-vydesil.html</link>
+			<title>Bauer ví, že nemoc hrozí stále, útok astmatu jej ale vyděsil</title>
+			<description>Přízrak zvaný nemoc či její náznak se Lukáši Bauerovi znovu připomněl. Průdušky. K tomu útok astmatu. Přiznává, že ten ho v tažení k únorovému lyžařskému mistrovství světa v Liberci vyděsil.
+Trable zahání doma v klidu již dříve plánovaném po zápřahu během Tour de Ski. Přitom zdravotní problémy, jež mu nezřídka v minulosti totálně bortily plány, se dlouho neozvaly.</description>
+		</item>
+	
+		<item rdf:about="http://www.sport.cz/clanek/142831-krize-bostonu-trva-pred-slagrem-nba-s-clevelandem-prohral-i-doma.html">
+			<link>http://www.sport.cz/clanek/142831-krize-bostonu-trva-pred-slagrem-nba-s-clevelandem-prohral-i-doma.html</link>
+			<title>Krize Bostonu trvá, před šlágrem NBA s Clevelandem prohrál i doma</title>
+			<description>Basketbalistům Bostonu nepomohla ukončit současnou krizi ani výhoda domácího prostředí. Ve středu Celtics prohráli před vlastními fanoušky s Houstonem 85:89 a po fantastickém vstupu do sezóny teď zažívají složité období, během něhož z osmi zápasů šest prohráli. Doma vyšli naprázdno teprve podruhé v sezóně. Když se jim to 14. listopadu přihodilo proti Denveru poprvé, následovala rekordní šňůra 19 vítězství.</description>
+		</item>
+	
+		<item rdf:about="http://www.sport.cz/clanek/142827-safarova-dohrala-v-brisbane-minar-v-cennai.html">
+			<link>http://www.sport.cz/clanek/142827-safarova-dohrala-v-brisbane-minar-v-cennai.html</link>
+			<title>Šafářová dohrála v Brisbane, Minář v Čennaí</title>
+			<description>Česká tenistka Lucie Šafářová vypadla na turnaji v australském Brisbane ve čtvrtfinále. Na cestě mezi poslední čtyři hráčky podniku, který je přípravou na grandslamové Australian Open, ji ve čtvrtek zastavila nasazená dvojka Victoria Azarenková z Běloruska.</description>
+		</item>
+	
+		<item rdf:about="http://www.sport.cz/clanek/142828-skikrosar-kraus-souperi-si-uzivali-ze-skoncili-prede-mnou.html">
+			<link>http://www.sport.cz/clanek/142828-skikrosar-kraus-souperi-si-uzivali-ze-skoncili-prede-mnou.html</link>
+			<title>Skikrosař Kraus: Soupeři si užívali, že skončili přede mnou </title>
+			<description>Vloni svým soupeřům skikrosař Tomáš Kraus sebral myšlenky na úspěch ve Světovém poháru hned v jeho úvodu, kdy vyhrál první tři závody. Letos jim dal naději, při startu SP v rakouském St. Johannu dojel po chybě v semifinále pátý. „Říkal jsem si, že to pro ně musí být bezva, já už to zažil tolikrát,“ řekl s úsměvem na tváři Kraus.</description>
+		</item>
+	
+
+</rdf:RDF>

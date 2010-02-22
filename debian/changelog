@@ -1,0 +1,804 @@
+centrum-python-mypage-auto (0.5.0.0) unstable; urgency=low
+
+  * dummy changelog
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 10 Jun 2009 13:23:32 +0200
+
+centrum-python-mypage (0.4.74) unstable; urgency=low
+
+  * build from revision [974834e9e2]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 17 Jun 2009 18:33:45 +0200
+
+centrum-python-mypage (0.4.73) unstable; urgency=low
+
+  * build from revision [b306045cf1]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 17 Jun 2009 17:56:03 +0200
+
+centrum-python-mypage (0.4.72) unstable; urgency=low
+
+  * build from revision [6c8c346111]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 17 Jun 2009 17:27:41 +0200
+
+centrum-python-mypage (0.4.71) unstable; urgency=low
+
+  * build from revision [9de0d351a7]
+
+ -- Ondrej Kohout <iky@cnt-ella-dev.dev.chservices.cz>  Wed, 17 Jun 2009 16:46:31 +0200
+
+centrum-python-mypage (0.4.70) unstable; urgency=low
+
+  * build from revision [7905c8d7ee]
+
+ -- Ondrej Kohout <iky@cnt-ella-dev.dev.chservices.cz>  Mon, 15 Jun 2009 17:18:00 +0200
+
+centrum-python-mypage (0.4.69) unstable; urgency=low
+
+  * build from revision [17b1f6249c]
+
+ -- Ondrej Kohout <iky@cnt-ella-dev.dev.chservices.cz>  Thu, 11 Jun 2009 10:03:17 +0200
+
+centrum-python-mypage (0.4.68) unstable; urgency=low
+
+  * build from revision [649c37dd6c]
+
+ -- Ondrej Kohout <iky@cnt-ella-dev.dev.chservices.cz>  Wed, 10 Jun 2009 15:11:17 +0200
+
+centrum-python-mypage (0.4.67) unstable; urgency=low
+
+  * build from revision [0a388c1447]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Mon,  8 Jun 2009 16:36:14 +0200
+
+centrum-python-mypage (0.4.66) unstable; urgency=low
+
+  * build from revision [02b11e7f45]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Sun,  7 Jun 2009 21:35:05 +0200
+
+centrum-python-mypage (0.4.65) unstable; urgency=low
+
+  * build from revision [4c58150dd1]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Fri,  5 Jun 2009 15:12:08 +0200
+
+centrum-python-mypage (0.4.64) unstable; urgency=low
+
+  * build from revision [12dd6a3eac]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Fri,  5 Jun 2009 13:05:25 +0200
+
+centrum-python-mypage (0.4.63) unstable; urgency=low
+
+  * build from revision [e84d59a9df]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Mon,  1 Jun 2009 14:41:00 +0200
+
+centrum-python-mypage (0.4.62) unstable; urgency=low
+
+  * build from revision [f20128f894]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu, 28 May 2009 13:45:44 +0200
+
+centrum-python-mypage (0.4.61) unstable; urgency=low
+
+  * build from revision [469872aa3e]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Tue, 26 May 2009 11:39:55 +0200
+
+centrum-python-mypage (0.4.60) unstable; urgency=low
+
+  * build from revision [ca53c52e05]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Fri, 22 May 2009 13:45:37 +0200
+
+centrum-python-mypage (0.4.59) unstable; urgency=low
+
+  * build from revision [68fd99d8c5]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Wed, 20 May 2009 16:58:55 +0200
+
+centrum-python-mypage (0.4.58) unstable; urgency=low
+
+  * build from revision [b6694efb8f]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Wed, 20 May 2009 16:07:11 +0200
+
+centrum-python-mypage (0.4.57) unstable; urgency=low
+
+  * build from revision [417f112449]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Tue, 19 May 2009 11:59:10 +0200
+
+centrum-python-mypage (0.4.56) unstable; urgency=low
+
+  * build from revision [3a8ad47776]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Mon, 18 May 2009 17:53:50 +0200
+
+centrum-python-mypage (0.4.55) unstable; urgency=low
+
+  * build from revision [a9ec0bccc6]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Mon, 18 May 2009 16:27:09 +0200
+
+centrum-python-mypage (0.4.54) unstable; urgency=low
+
+  * build from revision [420dc0425f]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Mon, 18 May 2009 12:05:39 +0200
+
+centrum-python-mypage (0.4.53) unstable; urgency=low
+
+  * build from revision [2b44e5544e]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Sun, 17 May 2009 20:52:03 +0200
+
+centrum-python-mypage (0.4.52) unstable; urgency=low
+
+  * build from revision [8c62162d0f]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu, 14 May 2009 12:53:33 +0200
+
+centrum-python-mypage (0.4.51) unstable; urgency=low
+
+  * build from revision [80c6a245a0]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu, 14 May 2009 11:18:34 +0200
+
+centrum-python-mypage (0.4.50) unstable; urgency=low
+
+  * build from revision [9169ce9ff7]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Tue, 12 May 2009 16:53:00 +0200
+
+centrum-python-mypage (0.4.49) unstable; urgency=low
+
+  * build from revision [432c43bddb]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Tue, 12 May 2009 14:02:02 +0200
+
+centrum-python-mypage (0.4.48) unstable; urgency=low
+
+  * build from revision [c362e8a542]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu,  7 May 2009 12:07:59 +0200
+
+centrum-python-mypage (0.4.47) unstable; urgency=low
+
+  * build from revision [3b64be4a48]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Wed,  6 May 2009 17:36:23 +0200
+
+centrum-python-mypage (0.4.46) unstable; urgency=low
+
+  * build from revision [0fa83c1b2a]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Wed,  6 May 2009 14:02:49 +0200
+
+centrum-python-mypage (0.4.45) unstable; urgency=low
+
+  * build from revision [918e4fbbc5]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Tue,  5 May 2009 11:48:10 +0200
+
+centrum-python-mypage (0.4.44) unstable; urgency=low
+
+  * build from revision [9afd3c7e02]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu, 30 Apr 2009 16:36:10 +0200
+
+centrum-python-mypage (0.4.43) unstable; urgency=low
+
+  * build from revision [42218e23b2]
+
+ -- Ondrej Kohout <jakub@borka.cz>  Thu, 30 Apr 2009 14:22:43 +0200
+
+centrum-python-mypage (0.4.42) unstable; urgency=low
+
+  * build from revision [c23bcad954]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 24 Apr 2009 13:17:13 +0200
+
+centrum-python-mypage (0.4.41) unstable; urgency=low
+
+  * build from revision [9e60651779]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 24 Apr 2009 12:44:05 +0200
+
+centrum-python-mypage (0.4.40) unstable; urgency=low
+
+  * build from revision [995fbc6650]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Thu, 16 Apr 2009 17:29:20 +0200
+
+centrum-python-mypage (0.4.39) unstable; urgency=low
+
+  * build from revision [aa0ae898de]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 14 Apr 2009 13:28:03 +0200
+
+centrum-python-mypage (0.4.38) unstable; urgency=low
+
+  * build from revision [cd82cc95d4]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 25 Mar 2009 12:19:43 +0100
+
+centrum-python-mypage (0.4.37) unstable; urgency=low
+
+  * build from revision [20fbd5f1c7]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 24 Mar 2009 14:23:39 +0100
+
+centrum-python-mypage (0.4.36) unstable; urgency=low
+
+  * build from revision [8323ecb0fb]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 24 Mar 2009 11:45:49 +0100
+
+centrum-python-mypage (0.4.35) unstable; urgency=low
+
+  * build from revision [81f3c2e3c2]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 24 Mar 2009 10:44:24 +0100
+
+centrum-python-mypage (0.4.34) unstable; urgency=low
+
+  * build from revision [bc929a6288]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Mar 2009 15:46:46 +0100
+
+centrum-python-mypage (0.4.33) unstable; urgency=low
+
+  * build from revision [5419209fc3]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Mar 2009 14:51:08 +0100
+
+centrum-python-mypage (0.4.32) unstable; urgency=low
+
+  * build from revision [bc6d11f963]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Mar 2009 14:30:45 +0100
+
+centrum-python-mypage (0.4.31) unstable; urgency=low
+
+  * build from revision [ad542734ad]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 20 Mar 2009 19:17:16 +0100
+
+centrum-python-mypage (0.4.30) unstable; urgency=low
+
+  * build from revision [f4883a9f75]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Fri, 20 Mar 2009 19:37:01 +0100
+
+centrum-python-mypage (0.4.29) unstable; urgency=low
+
+  * build from revision [437789d4db]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Fri, 20 Mar 2009 18:21:36 +0100
+
+centrum-python-mypage (0.4.28) unstable; urgency=low
+
+  * build from revision [d93f68f16f]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Fri, 20 Mar 2009 16:29:01 +0100
+
+centrum-python-mypage (0.4.27) unstable; urgency=low
+
+  * build from revision [5c32f37d8d]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Thu, 19 Mar 2009 19:30:59 +0100
+
+centrum-python-mypage (0.4.26) unstable; urgency=low
+
+  * build from revision [2bdd41dc0a]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Thu, 19 Mar 2009 18:06:58 +0100
+
+centrum-python-mypage (0.4.25) unstable; urgency=low
+
+  * build from revision [2643ce3faf]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 18 Mar 2009 14:31:57 +0100
+
+centrum-python-mypage (0.4.24) unstable; urgency=low
+
+  * build from revision [ca3dce3ee2]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 17 Mar 2009 21:46:56 +0100
+
+centrum-python-mypage (0.4.23) unstable; urgency=low
+
+  * build from revision [7857946564]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 16 Mar 2009 19:50:05 +0100
+
+centrum-python-mypage (0.4.22) unstable; urgency=low
+
+  * build from revision [1ab7ca7eba]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 16 Mar 2009 17:25:13 +0100
+
+centrum-python-mypage (0.4.21) unstable; urgency=low
+
+  * build from revision [ccd1bb7803]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 16 Mar 2009 14:54:23 +0100
+
+centrum-python-mypage (0.4.19) unstable; urgency=low
+
+  * build from revision [57e3dc61b3]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 16 Mar 2009 13:40:45 +0100
+
+centrum-python-mypage (0.4.18) unstable; urgency=low
+
+  * build from revision [da744b3ebd]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 13 Mar 2009 16:37:07 +0100
+
+centrum-python-mypage (0.4.17) unstable; urgency=low
+
+  * build from revision [75fe6a816b]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Mar 2009 18:11:11 +0100
+
+centrum-python-mypage (0.4.16) unstable; urgency=low
+
+  * build from revision [a61f44f9a8]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Mar 2009 15:57:15 +0100
+
+centrum-python-mypage (0.4.15) unstable; urgency=low
+
+  * build from revision [783d6c722b]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Mar 2009 15:52:01 +0100
+
+centrum-python-mypage (0.4.14) unstable; urgency=low
+
+  * build from revision [014c2f8a5c]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Mar 2009 13:40:07 +0100
+
+centrum-python-mypage (0.4.13) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed,  4 Mar 2009 16:27:17 +0100
+
+centrum-python-mypage (0.4.12) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed,  4 Mar 2009 11:17:59 +0100
+
+centrum-python-mypage (0.4.11) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue,  3 Mar 2009 16:58:04 +0100
+
+centrum-python-mypage (0.4.10) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Fri, 27 Feb 2009 17:29:25 +0100
+
+centrum-python-mypage (0.4.9) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Thu, 26 Feb 2009 16:57:23 +0100
+
+centrum-python-mypage (0.4.8) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 25 Feb 2009 14:26:58 +0100
+
+centrum-python-mypage (0.4.7) unstable; urgency=low
+
+  * build from revision [d02d4a163d]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 25 Feb 2009 14:10:18 +0100
+
+centrum-python-mypage (0.4.6) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 24 Feb 2009 13:41:40 +0100
+
+centrum-python-mypage (0.4.5) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Feb 2009 19:44:18 +0100
+
+centrum-python-mypage (0.4.4) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Feb 2009 19:31:51 +0100
+
+centrum-python-mypage (0.4.3) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Mon, 23 Feb 2009 18:59:25 +0100
+
+centrum-python-mypage (0.4.2) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 18 Feb 2009 12:59:01 +0100
+
+centrum-python-mypage (0.4.1) unstable; urgency=low
+
+  * build from revision []
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 18 Feb 2009 12:03:37 +0100
+
+centrum-python-mypage (0.4.0) unstable; urgency=low
+
+  * obsahuje na 200 zombii!
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Tue, 17 Feb 2009 22:50:54 +0100
+
+centrum-python-mypage (0.3.5) unstable; urgency=low
+
+  * build from revision [2c06e34b3f]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 20 Feb 2009 13:01:03 +0100
+
+centrum-python-mypage (0.3.4) unstable; urgency=low
+
+  * build from revision [35e49fbca1]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 20 Feb 2009 12:43:50 +0100
+
+centrum-python-mypage (0.3.3) unstable; urgency=low
+
+  * build from revision [r1193]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun, 15 Feb 2009 20:50:37 +0100
+
+centrum-python-mypage (0.3.2) unstable; urgency=low
+
+  * build from revision [r1160]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Feb 2009 22:08:10 +0100
+
+centrum-python-mypage (0.3.1) unstable; urgency=low
+
+  * build from revision [r1158]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Feb 2009 19:27:10 +0100
+
+centrum-python-mypage (0.3.0) unstable; urgency=low
+
+  * build from revision [r1156]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Feb 2009 18:43:36 +0100
+
+centrum-python-mypage (0.2.2) unstable; urgency=low
+
+  * build from revision [r1146]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed, 11 Feb 2009 16:02:14 +0100
+
+centrum-python-mypage (0.2.1) unstable; urgency=low
+
+  * build from revision [r1122]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun,  8 Feb 2009 23:57:42 +0100
+
+centrum-python-mypage (0.2.0) unstable; urgency=low
+
+  * build from revision [r1118]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun,  8 Feb 2009 20:09:29 +0100
+
+centrum-python-mypage (0.0.51) unstable; urgency=low
+
+  * build from revision [r1066]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Thu, 29 Jan 2009 16:56:54 +0100
+
+centrum-python-mypage (0.0.50) unstable; urgency=low
+
+  * build from revision [r1054]
+
+ -- Ondrej Kohout <iky@dev11.netcentrum.cz>  Wed, 28 Jan 2009 13:54:32 +0100
+
+centrum-python-mypage (0.0.49) unstable; urgency=low
+
+  * build from revision [r1043]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 27 Jan 2009 12:48:02 +0100
+
+centrum-python-mypage (0.0.48) unstable; urgency=low
+
+  * build from revision [r1041]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 27 Jan 2009 12:32:41 +0100
+
+centrum-python-mypage (0.0.47) unstable; urgency=low
+
+  * build from revision [r1035]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 26 Jan 2009 16:41:46 +0100
+
+centrum-python-mypage (0.0.46) unstable; urgency=low
+
+  * build from revision [r1032]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 26 Jan 2009 15:53:29 +0100
+
+centrum-python-mypage (0.0.45) unstable; urgency=low
+
+  * build from revision [r1030]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 26 Jan 2009 15:43:44 +0100
+
+centrum-python-mypage (0.0.44) unstable; urgency=low
+
+  * build from revision [r1015]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 23 Jan 2009 16:32:05 +0100
+
+centrum-python-mypage (0.0.43) unstable; urgency=low
+
+  * build from revision [r1014]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri, 23 Jan 2009 16:23:31 +0100
+
+centrum-python-mypage (0.0.42) unstable; urgency=low
+
+  * build from revision [r996]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Thu, 22 Jan 2009 17:07:20 +0100
+
+centrum-python-mypage (0.0.41) unstable; urgency=low
+
+  * build from revision [r954]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 20 Jan 2009 18:28:39 +0100
+
+centrum-python-mypage (0.0.40) unstable; urgency=low
+
+  * build from revision [r940]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 20 Jan 2009 13:12:30 +0100
+
+centrum-python-mypage (0.0.39) unstable; urgency=low
+
+  * build from revision [r934]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 20 Jan 2009 10:47:28 +0100
+
+centrum-python-mypage (0.0.38) unstable; urgency=low
+
+  * build from revision [r933]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 20 Jan 2009 10:31:19 +0100
+
+centrum-python-mypage (0.0.37) unstable; urgency=low
+
+  * build from revision [r928]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 19 Jan 2009 20:46:50 +0100
+
+centrum-python-mypage (0.0.36) unstable; urgency=low
+
+  * build from revision [r916]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 19 Jan 2009 16:31:52 +0100
+
+centrum-python-mypage (0.0.35) unstable; urgency=low
+
+  * build from revision [r896]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Thu, 15 Jan 2009 17:59:16 +0100
+
+centrum-python-mypage (0.0.34) unstable; urgency=low
+
+  * build from revision [r865]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 13 Jan 2009 14:04:31 +0100
+
+centrum-python-mypage (0.0.33) unstable; urgency=low
+
+  * build from revision [r862]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 13 Jan 2009 12:23:09 +0100
+
+centrum-python-mypage (0.0.32) unstable; urgency=low
+
+  * build from revision [r859]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 13 Jan 2009 11:14:50 +0100
+
+centrum-python-mypage (0.0.31) unstable; urgency=low
+
+  * build from revision [r837]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 12 Jan 2009 10:32:40 +0100
+
+centrum-python-mypage (0.0.30) unstable; urgency=low
+
+  * build from revision [r834]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri,  9 Jan 2009 18:46:57 +0100
+
+centrum-python-mypage (0.0.29) unstable; urgency=low
+
+  * build from revision [828]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Thu,  8 Jan 2009 16:41:19 +0100
+
+centrum-python-mypage (0.0.28) unstable; urgency=low
+
+  * build from revision [816]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Wed,  7 Jan 2009 18:00:26 +0100
+
+centrum-python-mypage (0.0.27) unstable; urgency=low
+
+  * build from revision [797]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 18:49:59 +0100
+
+centrum-python-mypage (0.0.26) unstable; urgency=low
+
+  * build from revision [788]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 16:48:33 +0100
+
+centrum-python-mypage (0.0.25) unstable; urgency=low
+
+  * build from revision [777]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 14:47:21 +0100
+
+centrum-python-mypage (0.0.24) unstable; urgency=low
+
+  * build from revision [yyy]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 13:37:09 +0100
+
+centrum-python-mypage (0.0.23) unstable; urgency=low
+
+  * build from revision [767]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 13:21:42 +0100
+
+centrum-python-mypage (0.0.22) unstable; urgency=low
+
+  * build from revision [xxx]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 13:05:21 +0100
+
+centrum-python-mypage (0.0.21) unstable; urgency=low
+
+  * build from revision [759]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue,  6 Jan 2009 11:58:38 +0100
+
+centrum-python-mypage (0.0.20) unstable; urgency=low
+
+  * build from revision [752]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon,  5 Jan 2009 19:51:54 +0100
+
+centrum-python-mypage (0.0.19) unstable; urgency=low
+
+  * build from revision [740]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon,  5 Jan 2009 14:30:35 +0100
+
+centrum-python-mypage (0.0.18) unstable; urgency=low
+
+  * build from revision [725]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun,  4 Jan 2009 22:20:50 +0100
+
+centrum-python-mypage (0.0.17) unstable; urgency=low
+
+  * build from revision [703]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun,  4 Jan 2009 15:21:17 +0100
+
+centrum-python-mypage (0.0.16) unstable; urgency=low
+
+  * build from revision [699]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri,  2 Jan 2009 21:17:46 +0100
+
+centrum-python-mypage (0.0.15) unstable; urgency=low
+
+  * build from revision [696]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri,  2 Jan 2009 19:29:06 +0100
+
+centrum-python-mypage (0.0.13) unstable; urgency=low
+
+  * build from revision [689]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri,  2 Jan 2009 15:53:30 +0100
+
+centrum-python-mypage (0.0.12) unstable; urgency=low
+
+  * build from revision [681]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Fri,  2 Jan 2009 14:49:33 +0100
+
+centrum-python-mypage (0.0.11) unstable; urgency=low
+
+  * build from revision [666]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 30 Dec 2008 16:45:39 +0100
+
+centrum-python-mypage (0.0.10) unstable; urgency=low
+
+  * build from revision [659]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 30 Dec 2008 08:21:22 +0100
+
+centrum-python-mypage (0.0.9) unstable; urgency=low
+
+  * build from revision [624]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Tue, 23 Dec 2008 09:25:00 +0100
+
+centrum-python-mypage (0.0.8) unstable; urgency=low
+
+  * build from revision [606]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Mon, 22 Dec 2008 14:37:16 +0100
+
+centrum-python-mypage (0.0.7) unstable; urgency=low
+
+  * build from revision [590]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun, 21 Dec 2008 20:44:26 +0100
+
+centrum-python-mypage (0.0.6) unstable; urgency=low
+
+  * build from revision [553]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Sun, 21 Dec 2008 14:31:31 +0100
+
+centrum-python-mypage (0.0.5) unstable; urgency=low
+
+  * build from revision [479]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Thu, 18 Dec 2008 11:23:38 +0100
+
+centrum-python-mypage (0.0.4) unstable; urgency=low
+
+  * build from revision [463]
+
+ -- Jakub Vysoky <kvbik@lab5.lab.netc>  Tue, 16 Dec 2008 14:25:01 +0100
+
+centrum-python-mypage (0.0.3) unstable; urgency=low
+
+  * build from revision [453]
+
+ -- Jakub Vysoky <kvbik@lab5.lab.netc>  Tue, 16 Dec 2008 10:34:57 +0100
+
+centrum-python-mypage (0.0.2) unstable; urgency=low
+
+  * build from revision [434]
+
+ -- Jakub Vysoky <kvbik@lab5.lab.netc>  Mon, 15 Dec 2008 13:47:56 +0100
+
+centrum-python-mypage (0.0.1) unstable; urgency=low
+
+  * build from revision [433]
+
+ -- Jakub Vysoky <jakub@borka.cz>  Thu, 24 Nov 2008 12:00:00 +0200
+

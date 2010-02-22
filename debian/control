@@ -1,0 +1,16 @@
+Source: centrum-python-mypage-auto
+Section: python
+Priority: optional
+Maintainer: Jan Kral <jan.kral@centrumholdings.com>
+Uploaders: Ondrej Kohout <ondrej.kohout@centrumholdings.com>, Roman Sova <roman.sova@centrumholdings.com>, Jakub Vysoky <jakub.vysoky@centrumholdings.com>
+Build-Depends: cdbs (>= 0.4.41), debhelper (>= 5.0.37.2), python-dev, python-support (>= 0.3), python-setuptools
+Standards-Version: 3.7.2
+
+Package: centrum-python-mypage-auto
+Provides: centrum-python-mypage
+Conflicts: centrum-python-mypage
+Replaces: centrum-python-mypage
+Architecture: all
+Depends: ${python:Depends}, ${misc:Depends}, python-django, python-docutils, python-pysqlite2, python-lxml, python-xml, centrum-python-browsecap, python-anyjson, python-simplejson, centrum-python-tvguide
+Description: django mypage project
+

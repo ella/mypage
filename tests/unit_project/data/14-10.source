@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+
+<rss version="2.0">
+	<channel>
+		<image>
+			<link>http://www.root.cz/</link>
+			<title>Root.cz</title>
+			<url>http://i.iinfo.cz/r/root-88x31.png</url>
+			<width>88</width>
+			<height>31</height>
+		</image>
+		<title>Root.cz - články</title>
+		<link>http://www.root.cz/clanky/</link>
+		<description>informace nejen ze světa Linuxu</description>
+		<language>cs</language>
+		<pubDate>Wed, 07 Jan 2009 23:00:05 GMT</pubDate>
+		<item>
+			<title>Čeká nás v roce 2009 krize? Co plánují vývojáři?</title>
+			<link>http://www.root.cz/clanky/ceka-nas-v-roce-2009-krize-co-planuji-vyvojari/</link>
+			<description>Na přelomu roku se vždy hodnotí a bilancuje, ale je na čase se také podívat do následujících dvanácti měsíců. Nový Debian, HTC Dream v Evropě, nové KDE i GNOME, Ubuntu pro ARM, Intel Ion a rychlé SSD disky, to jsou jen některé důležité události ze světa, na které se můžeme těšit v roce 2009.</description>
+			<author>redakce@root.cz (Root.cz: Petr Krčmář)</author>
+			<pubDate>Wed, 07 Jan 2009 23:00:05 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/ceka-nas-v-roce-2009-krize-co-planuji-vyvojari/</guid>
+		</item>
+		<item>
+			<title>Komunikace po sériové sběrnici I&lt;sup&gt;2&lt;/sup&gt;C</title>
+			<link>http://www.root.cz/clanky/komunikace-po-seriove-sbernici-isup2supc/</link>
+			<description>V dnešní části seriálu o architekturách počítačů si popíšeme, jakým způsobem spolu mohou komunikovat zařízení připojená na sériovou sběrnici I&#178;C (Inter-Integrated Circuit). S touto sběrnicí se můžeme setkat i v běžných osobních počítačích; jednou ze známých implementací je kanál DDC.</description>
+			<author>redakce@root.cz (Root.cz: Pavel Tišnovský)</author>
+			<pubDate>Wed, 07 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/komunikace-po-seriove-sbernici-isup2supc/</guid>
+		</item>
+		<item>
+			<title>SpiderMonkey: zpracování JavaScriptu ve Firefoxu</title>
+			<link>http://zdrojak.root.cz/clanky/spidermonkey-zpracovani-javascriptu-ve-firefoxu/</link>
+			<description>Tímto dílem seriálu o interpretech JavaScriptu zahajujeme část věnovanou interpretu SpiderMonkey. Dnes si ho představíme a popíšeme si, jak v něm probíhá zpracování javascriptového kódu. Pozastavíme se také nad jeho reprezentací hodnot a optimalizacemi, které umožňují efektivní práci s řetězci a poli.</description>
+			<author>redakce@zdrojak.cz (Zdroják: David Majda)</author>
+			<pubDate>Wed, 07 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://zdrojak.root.cz/clanky/spidermonkey-zpracovani-javascriptu-ve-firefoxu/</guid>
+		</item>
+		<item>
+			<title>Sendmail: konfigurace poštovního serveru</title>
+			<link>http://www.root.cz/clanky/sendmail-konfigurace-postovniho-serveru/</link>
+			<description>Pokračování seriálu o velmi mocném pošťákovi Sendmail. Dnes se podíváme na konfigurační soubory access, virtusertable a genericstable. Pomocí nich si nastavíme přístupy pro jednotlivé domény, vytvoříme nějaké virtuální účty, trochu se zmíním o .mc souboru a na závěr si ukážeme maškarádu adres.</description>
+			<author>redakce@root.cz (Root.cz: Petr Macek)</author>
+			<pubDate>Tue, 06 Jan 2009 23:00:05 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/sendmail-konfigurace-postovniho-serveru/</guid>
+		</item>
+		<item>
+			<title>Softwarová sklizeň (7. 1. 2009)</title>
+			<link>http://www.root.cz/clanky/softwarova-sklizen-7-1-2009/</link>
+			<description>První letošní středeční sonda do světa (převážně) otevřeného softwaru. Dnes se podíváme na jednu linuxovou mini distribuci, představíme si lehce netradiční přehrávač hudby, zjednodušíme si vytváření tunelů, ukážeme si nového BitTorrent klienta a nakonec nebude chybět ani tolik oblíbená blbinka.</description>
+			<author>redakce@root.cz (Root.cz: David Kovalský)</author>
+			<pubDate>Tue, 06 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/softwarova-sklizen-7-1-2009/</guid>
+		</item>
+		<item>
+			<title>Události z prosince 2008, které by vám neměly ujít</title>
+			<link>http://zdrojak.root.cz/clanky/udalosti-z-prosince-2008-ktere-by-vam-nemely-ujit/</link>
+			<description>Seznam podporuje OpenID. Google spustil kontroverzní Native client. IE8 bude obsahovat seznam nekompatibilních webů. Bude patentována část HTML5? Opera 10 má problém s číslem své verze. Byl spuštěn mobileOK checker. Podívejte se na souhrn hlavních událostí prosince 2008. Stručně, jasně, přehledně.</description>
+			<author>redakce@zdrojak.cz (Zdroják: Martin Hassman)</author>
+			<pubDate>Tue, 06 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://zdrojak.root.cz/clanky/udalosti-z-prosince-2008-ktere-by-vam-nemely-ujit/</guid>
+		</item>
+		<item>
+			<title>NX: vzdálená plocha pro šneky</title>
+			<link>http://www.root.cz/clanky/nx-vzdalena-plocha-pro-sneky/</link>
+			<description>Vzdálená plocha v podobě VNC není nejrychlejším řešením, ztrácí dech i na rychlých sítích a na pomalých nemůže být o používání řeč. Zde přichází do cesty firma NoMachine, která v této oblasti staví Linux do srovnatelné pozice s konkurencí. Výhody jejich produktu bohatě vyrovnají i trochu nezvyklou instalaci.</description>
+			<author>redakce@root.cz (Root.cz: Adam Štrauch)</author>
+			<pubDate>Mon, 05 Jan 2009 23:00:05 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/nx-vzdalena-plocha-pro-sneky/</guid>
+		</item>
+		<item>
+			<title>Nastavení kamery v POV-Rayi</title>
+			<link>http://www.root.cz/clanky/nastaveni-kamery-v-pov-rayi/</link>
+			<description>Ve čtyřicáté druhé části seriálu o raytraceru POV-Ray si ukážeme, jakým způsobem je možné specifikovat základní vlastnosti kamery. Změnou parametrů kamery lze levotočivý souřadnicový systém zaměnit za systém pravotočivý, ovlivnit způsob promítání (perspektivní, ortografické, rybí oko), natáčet celou scénou atd.</description>
+			<author>redakce@root.cz (Root.cz: Pavel Tišnovský)</author>
+			<pubDate>Mon, 05 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/nastaveni-kamery-v-pov-rayi/</guid>
+		</item>
+		<item>
+			<title>Implementace přihlašování pomocí OpenID</title>
+			<link>http://zdrojak.root.cz/clanky/implementace-prihlasovani-pomoci-openid/</link>
+			<description>Je implementace OpenID těžká? Na praktickém příkladu si ukážeme, že přihlašování pomocí OpenID lze implementovat snadno. Nebudeme zabíhat do podrobností ani probírat implementační detaily; pouze ukážeme, že v té nejjednodušší podobě je mezi webem a webem s podporou OpenID rozdíl pouhých několika desítek minut.</description>
+			<author>redakce@zdrojak.cz (Zdroják: Martin Malý)</author>
+			<pubDate>Mon, 05 Jan 2009 23:00:00 GMT</pubDate>
+			<guid isPermaLink="true">http://zdrojak.root.cz/clanky/implementace-prihlasovani-pomoci-openid/</guid>
+		</item>
+		<item>
+			<title>Jonathan Zittrain: Budoucnost internetu a jak to zastavit</title>
+			<link>http://www.root.cz/clanky/jonathan-zittrain-budoucnost-internetu/</link>
+			<description>Budoucnost globálního internetu tak, jak ho teď známe, je velmi nejistá, píše Jonathan Zittrain. Kam se bude síť sítí ubírat, proč se mít na pozoru před uzavřenými přístroji a co je sociální tagování? O tom se dočtete v jeho nové, pozoruhodné knize nazvané The future of the internet and how to stop it.</description>
+			<author>redakce@root.cz (Root.cz: Adam Hazdra)</author>
+			<pubDate>Sun, 04 Jan 2009 23:00:05 GMT</pubDate>
+			<guid isPermaLink="true">http://www.root.cz/clanky/jonathan-zittrain-budoucnost-internetu/</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+ <channel>
+  <image>
+   <link>http://aktualne.centrum.cz/</link>
+   <title>Aktuálně.cz</title>
+   <url>http://img.aktualne.centrum.cz/design/logo.png</url>
+  </image>
+  <title>Aktuálně.cz - technika</title>
+  <link>http://aktualne.centrum.cz/</link>
+  <description></description>
+  <language>cs</language>
+  <item>
+   <title><![CDATA[Motorm4x - české GTA]]></title>
+   <link>http://hratelne.centrum.cz/recenze/clanek.phtml?id=626529</link>
+   <description><![CDATA[Otevřený svět a offroadové poježdění. Jak to dopadlo?]]></description>
+  </item>  <item>
+   <title><![CDATA[Heroes over Europe - letecká řežba]]></title>
+   <link>http://hratelne.centrum.cz/preview/clanek.phtml?id=626441</link>
+   <description><![CDATA[Chcete si splnit klukovský sen? A nemyslíme ten o kariéře kosmonauta nebo popeláře.]]></description>
+  </item>  <item>
+   <title><![CDATA[Video: 50 Cent 2 vypadá skvěle]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626546</link>
+   <description><![CDATA[Že by to ve videohrách rapperovi konečně vyšlo?]]></description>
+  </item>  <item>
+   <title><![CDATA[Chystá se oficiální hra Chirurgové]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626545</link>
+   <description><![CDATA[Meredith prý zase jede po Derekovi.]]></description>
+  </item>  <item>
+   <title><![CDATA[Uwe Boll získal čtyři nominace na Zlatou malinu]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626543</link>
+   <description><![CDATA[Čím si vysloužil pozornost anti-Oskarů?]]></description>
+  </item>  <item>
+   <title><![CDATA[Patapon jako tetování]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626451</link>
+   <description><![CDATA[Opravdový fanoušek.]]></description>
+  </item>  <item>
+   <title><![CDATA[Mladík kvůli hře zapálil skladiště]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626448</link>
+   <description><![CDATA[Prý mu ten večer nepřálo štěstí.]]></description>
+  </item>  <item>
+   <title><![CDATA[Grand Theft Auto učí řídit šestileté děti]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626450</link>
+   <description><![CDATA[GTA má zase další vroubek]]></description>
+  </item>  <item>
+   <title><![CDATA[Patch pro rozšířenou verzi Zaklínače]]></title>
+   <link>http://hratelne.centrum.cz/download/clanek.phtml?id=626449</link>
+   <description><![CDATA[Stahujte zde]]></description>
+  </item>  <item>
+   <title><![CDATA[Co s neprodanými kopiemi Tabula Rasa?]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626447</link>
+   <description><![CDATA[Lesk a bída MMORPG.]]></description>
+  </item>  <item>
+   <title><![CDATA[Ochránci zvířat dali cenu Fable 2]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626446</link>
+   <description><![CDATA[PETA určila, kdo se chová ke zvířátkům pěkně.]]></description>
+  </item>  <item>
+   <title><![CDATA[Podorbnější info o I Am Alive]]></title>
+   <link>http://hratelne.centrum.cz/zpravy/clanek.phtml?id=626444</link>
+   <description><![CDATA[Jak přežít živelnou pohromu?]]></description>
+  </item> </channel>
+</rss>

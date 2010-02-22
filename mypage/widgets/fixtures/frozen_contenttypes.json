@@ -1,0 +1,317 @@
+[
+    {
+        "pk": 22,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "aukrowidget",
+            "name": "Aukro Widget",
+            "app_label": "aukrowidgets"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "currencywidget",
+            "name": "Currency Widget",
+            "app_label": "currencywidgets"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "fotoalbawidget",
+            "name": "Fotoalba Widget",
+            "app_label": "fotoalbawidgets"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "horoscopewidget",
+            "name": "Horoscope Widget",
+            "app_label": "horoscopewidgets"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "jobpilotwidget",
+            "name": "Jobpilot Widget",
+            "app_label": "jobpilotwidgets"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "magazineswidget",
+            "name": "Magazines Widget",
+            "app_label": "magazineswidgets"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "mailwidget",
+            "name": "Mail Widget",
+            "app_label": "mailwidgets"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "page",
+            "name": "Page",
+            "app_label": "pages"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "rsswidget",
+            "name": "RSS Widget",
+            "app_label": "rsswidgets"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "serviceswidget",
+            "name": "Services Widget",
+            "app_label": "serviceswidgets"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "sessionpage",
+            "name": "Session page",
+            "app_label": "pages"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "prepnitvprogramwidget",
+            "name": "TV Program Widget",
+            "app_label": "tvprogramwidgets"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "userpage",
+            "name": "User page",
+            "app_label": "pages"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "weatherwidget",
+            "name": "Weather Widget",
+            "app_label": "weatherwidgets"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "widget",
+            "name": "Widget",
+            "app_label": "widgets"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "contenttype",
+            "name": "content type",
+            "app_label": "contenttypes"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "group",
+            "name": "group",
+            "app_label": "auth"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "logentry",
+            "name": "log entry",
+            "app_label": "admin"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "message",
+            "name": "message",
+            "app_label": "auth"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "permission",
+            "name": "permission",
+            "app_label": "auth"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "session",
+            "name": "session",
+            "app_label": "sessions"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "site",
+            "name": "site",
+            "app_label": "sites"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "user",
+            "name": "user",
+            "app_label": "auth"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "widgetinpage",
+            "name": "widget in page",
+            "app_label": "pages"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "youtubewidget",
+            "name": "You Tube Widget",
+            "app_label": "youtubewidgets"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "searchbarwidget",
+            "name": "Search Bar Widget",
+            "app_label": "searchbarwidgets"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "magazinesdomain",
+            "name": "magazines domain",
+            "app_label": "magazineswidgets"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "icqwidget",
+            "name": "ICQ Widget",
+            "app_label": "instantmessagingwidgets"
+        }
+    },
+    {
+        "pk": 31,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "radiowidget",
+            "name": "Radio Widget",
+            "app_label": "radiowidgets"
+        }
+    },
+    {
+        "pk": 32,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "icq2gowidget",
+            "name": "Icq2Go Widget",
+            "app_label": "icqwidgets"
+        }
+    },
+    {
+        "pk": 33,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "dictionarywidget",
+            "name": "Dictionary Widget",
+            "app_label": "dictionarywidgets"
+        }
+    },
+    {
+        "pk": 34,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "bookmarkwidget",
+            "name": "Bookmark Widget",
+            "app_label": "bookmarkwidgets"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "sunnydayswidget",
+            "name": "Sunnydays Widget",
+            "app_label": "sunnydayswidgets"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "musicwidget",
+            "name": "Music Widget",
+            "app_label": "musicwidgets"
+        }
+    },
+    {
+        "pk": 48,
+        "model": "contenttypes.contenttype",
+        "fields": {
+            "model": "tvguidewidget",
+            "name": "TVGuide Widget",
+            "app_label": "tvguidewidgets"
+        }
+    }
+]

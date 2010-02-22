@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel rdf:about="http://www.novinky.cz">
+		<title>Novinky.cz</title>
+		<link>http://www.novinky.cz</link>
+		<description>Novinky.cz - zpravodajský server</description>
+		<image rdf:resource="http://www.novinky.cz/static/images/logo.gif"/>
+		<items>
+			<rdf:Seq>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158289-letadlo-jez-se-v-70-letech-zritilo-na-decinsku-pry-sestrelila-cs-armada.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158277-obama-volal-topolankovi-a-chvalil-ho-za-misi-na-blizkem-vychode.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158281-topolanek-predstavil-svych-deset-statecnych-budou-potirat-krizi.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158252-senat-schvalil-navrh-noveho-trestniho-zakoniku.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158251-poplatky-za-recepty-rusi-i-nektere-soukrome-lekarny.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158248-cunek-chci-zabranit-integraci-ods-s-kdu-csl.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158263-mrazy-v-cesku-mirne-polevily-teploty-sahaly-k-15-stupnum.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158285-triclenna-rodina-se-priotravila-jedovatym-plynem-z-kotle.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158279-za-ubiti-pritelkyne-cinkou-narkoman-dostal-13-let.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158295-bytar-si-prisel-na-dva-miliony-korun-policie-uz-ho-ma.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158257-norsko-muze-cesku-dodavat-o-milion-metru-krychlovych-plynu-vice.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158259-ceska-auta-nejdou-na-odbyt-obchod-zazil-nejvetsi-propad-od-roku-1994.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158273-prodej-novych-aut-v-cr-loni-stoupl-o-8-4-procenta.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158262-bavorsti-skolaci-budou-povinne-navstevovat-koncentracni-tabor.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158256-kanada-vyhosti-americkou-dezerterku-nechtela-do-iraku.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158278-v-kanade-zatkli-dva-sektare-meli-dohromady-24-zen.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158286-video-pracovnik-tv-hamasu-vysilal-namisto-zaberu-z-gazy-eroticke-video.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158292-paris-hiltonova-spala-jsem-jen-se-dvema-muzi.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158296-larry-flint-chce-po-kongresu-pet-miliard-na-oziveni-pornoprumyslu.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158144-zahadna-unava-z-nevhodneho-jidla.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158150-podle-vedcu-pripravky-na-detoxikaci-organismu-nefunguji.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158202-mnozstvi-a-kvalita-spermii-se-u-muzu-snizuje-s-rostouci-vahou.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158267-praha-uvede-operu-waterse-z-pink-floydu.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158269-poslechnete-si-singly-z-novinky-bruce-springsteena.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158270-rumunsky-snimek-4-mesice-3-tydny-a-2-dny-zvitezil-u-americkych-kritiku.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/157545-v-berline-vymiraji-tradicni-hospudky-na-ruzku-jedna-se-stale-drzi.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158175-letecke-zajezdy-v-cesku-vyrazne-zlevnuji.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/157989-zadov-je-idealni-lyzarske-stredisko-predevsim-pro-rodiny-s-detmi.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158215-jak-nainstalovat-do-dveri-vetraci-mrizku-a-porazit-vlhkost-v-byte.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/157985-stavebni-sporeni-se-bez-notare-neobejde.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158180-kuze-prinasi-do-minimalistickeho-interieru-nadech-luxusu.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158164-kanadske-vysokoskolske-odbory-chteji-bojkotovat-ucitele-z-izraele.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158048-zamestnancum-vs-se-za-pet-let-zvedl-plat-o-46-procent.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158271-dopravni-odbory-chystaji-stavku.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158230-nakupem-knih-na-internetu-mohou-studenti-usetrit-tisice.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158214-univerzity-tretiho-veku-testuji-virtualni-vyuku.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158120-skotsti-ucitele-varuji-pred-hlasitymi-skolnimi-zvonky.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158059-hrajeme-zdarma-gravity-bone-spionazni-akce.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158238-video-lenovo-uvedlo-extremne-vykonny-notebook-se-dvema-displeji.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158280-chytry-mobil-lze-jednoduse-zablokovat-pomoci-specialni-sms.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158083-autosalony-vyprodavaji-sklady-auta-v-novem-roce-dale-zlevnuji.html"/>
+				
+					<rdf:li resource="http://www.novinky.cz/clanek/158268-nejvykonnejsi-verze-gt-r-od-nissanu-je-hubenejsi-a-rychlejsi.html"/>
+				
+			</rdf:Seq>
+		</items>
+	</channel>
+
+	<image rdf:about="http://1.im.cz/n/img/logo.gif">
+		<title>Novinky.cz</title>
+		<url>http://1.im.cz/n/img/logo.gif</url>
+		<link>http://www.novinky.cz</link>
+	</image>
+
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158289-letadlo-jez-se-v-70-letech-zritilo-na-decinsku-pry-sestrelila-cs-armada.html">
+			<link>http://www.novinky.cz/clanek/158289-letadlo-jez-se-v-70-letech-zritilo-na-decinsku-pry-sestrelila-cs-armada.html</link>
+			<title>Letadlo, jež se v 70. letech zřítilo na Děčínsku, prý sestřelila čs. armáda</title>
+			<description>Německá stanice ARD oznámila, že na základě rešerše dostupných informací dospěla k závěru, že jugoslávské letadlo, které se v roce 1972 zřítilo poblíž Srbské Kamenice na Děčínsku, sestřelila prý omylem tehdejší československá armáda. Neštěstí přežila letuška, zemřelo 27 lidí. Tehdejší vyšetřovací verze byla, že na palubě letadla byla bomba.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158277-obama-volal-topolankovi-a-chvalil-ho-za-misi-na-blizkem-vychode.html">
+			<link>http://www.novinky.cz/clanek/158277-obama-volal-topolankovi-a-chvalil-ho-za-misi-na-blizkem-vychode.html</link>
+			<title>Obama volal Topolánkovi a chválil ho za misi na Blízkém východě</title>
+			<description>Premiér Mirek Topolánek v noci na čtvrtek mluvil s nastupujícím americkým prezidentem Barackem Obamou. Ten mu volal jako předsedovi Rady Evropské unie a mimo jiné v rozhovoru s českým premiérem ocenil roli, kterou ČR sehrála v misi na Blízkém východě.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158281-topolanek-predstavil-svych-deset-statecnych-budou-potirat-krizi.html">
+			<link>http://www.novinky.cz/clanek/158281-topolanek-predstavil-svych-deset-statecnych-budou-potirat-krizi.html</link>
+			<title>Topolánek představil svých „deset statečných“, budou potírat krizi</title>
+			<description>Zlepšit vyhlídky tuzemské ekonomiky či zlepšit zaměstnanost bude úkolem Ekonomické rady vlády. Premiér Mirek Topolánek totiž ve čtvrtek představil desítku odborníků, kteří se budou muset poprat s dopady současné globální krize na české hospodářství.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158252-senat-schvalil-navrh-noveho-trestniho-zakoniku.html">
+			<link>http://www.novinky.cz/clanek/158252-senat-schvalil-navrh-noveho-trestniho-zakoniku.html</link>
+			<title>Senát schválil návrh nového trestního zákoníku</title>
+			<description>Senátoři ve čtvrtek podle očekávání schválili návrh nového Trestního zákoníku. Pokud zákon podepíše prezident, posunula by se od příštího roku hranice trestní odpovědnosti z 15 na 14 let. Pro normu hlasovalo 74 ze 76 přítomných senátorů, proti byla jen komunistka Marta Bayerová a senátor ODS Jiří Pospíšil se hlasování zdržel. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158251-poplatky-za-recepty-rusi-i-nektere-soukrome-lekarny.html">
+			<link>http://www.novinky.cz/clanek/158251-poplatky-za-recepty-rusi-i-nektere-soukrome-lekarny.html</link>
+			<title>Poplatky za recepty ruší i některé soukromé lékarny</title>
+			<description>Bez zaplacení třicetikorunového poplatku na předepsaný lék vydávají pacientům medicínu ve středních Čechách už nejen nemocniční lékárny, patřící kraji, ale i první soukromé apotéky. Na postup kraje, který rozhodnutím rady ČSSD proplácí lidem regulační poplatky jako dar, zareagovala síť lékáren Dr. Max. Ve středních Čechách poplatky zákazníkům odpouští jako bonus za věrnost jejich lékárně.
+</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158248-cunek-chci-zabranit-integraci-ods-s-kdu-csl.html">
+			<link>http://www.novinky.cz/clanek/158248-cunek-chci-zabranit-integraci-ods-s-kdu-csl.html</link>
+			<title>Čunek: Chci zabránit integraci ODS s KDU-ČSL</title>
+			<description>Předseda KDU-ČSL a ministr pro místní rozvoj Jiří Čunek v posledních dnech bojuje o místo ve vládě. Chce, aby premiér Mirek Topolánek odvolal ministra financí Miroslava Kalouska. Topolánek ale dal najevo, že raději odvolal právě Čunka.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158263-mrazy-v-cesku-mirne-polevily-teploty-sahaly-k-15-stupnum.html">
+			<link>http://www.novinky.cz/clanek/158263-mrazy-v-cesku-mirne-polevily-teploty-sahaly-k-15-stupnum.html</link>
+			<title>Mrazy v Česku mírně polevily, teploty sahaly k -15 stupňům</title>
+			<description>Česká republika zažila ve čtvrtek další z mrazivých rán. Teploty sice neklesaly k tak nízkým hodnotám, jako tomu bylo v minulých dnech, přesto se mrazy na některých místech republiky atakovaly hranici minus 20 stupňů Celsia.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158285-triclenna-rodina-se-priotravila-jedovatym-plynem-z-kotle.html">
+			<link>http://www.novinky.cz/clanek/158285-triclenna-rodina-se-priotravila-jedovatym-plynem-z-kotle.html</link>
+			<title>Tříčlenná rodina se přiotrávila jedovatým plynem z kotle</title>
+			<description>Tříčlenná rodina se v noci přiotrávila oxidem uhelnatým unikajícím z plynového kotle v jejich bytě. Všechny tři převezli záchranáři z rychlé záchranné služby do nemocnice a podle lékařů je jejich stav stabilizovaný. K nešťastné události došlo v Boháčově ulici v Pardubicích.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158279-za-ubiti-pritelkyne-cinkou-narkoman-dostal-13-let.html">
+			<link>http://www.novinky.cz/clanek/158279-za-ubiti-pritelkyne-cinkou-narkoman-dostal-13-let.html</link>
+			<title>Za ubití přítelkyně činkou narkoman dostal 13 let</title>
+			<description>Ostravský krajský soud vynesl ve čtvrtek rozsudek nad 23letým Markem Pliskou. Za ubití své známé Žanety Šulekové několika ranami činkou do hlavy v rodinném domku v Petrovicích u Karviné stráví ve vězení 13 let. Hrozil mu trest v rozmezí od deseti do patnácti let.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158295-bytar-si-prisel-na-dva-miliony-korun-policie-uz-ho-ma.html">
+			<link>http://www.novinky.cz/clanek/158295-bytar-si-prisel-na-dva-miliony-korun-policie-uz-ho-ma.html</link>
+			<title>Bytař si přišel na dva milióny korun, policie už ho má</title>
+			<description>Policisté dopadli v uplynulých dnech muže, který v létě v Brně-Komárově vykradl byt, a způsobil tak rekordní škodu zhruba dva milióny korun. Bylo to vloupání s nejvyšší vzniklou hmotnou škodou ve městě. Zloděje se podařilo vypátrat a dopadnout po několika měsících díky pachovým stopám, které na místě činu zanechal.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158257-norsko-muze-cesku-dodavat-o-milion-metru-krychlovych-plynu-vice.html">
+			<link>http://www.novinky.cz/clanek/158257-norsko-muze-cesku-dodavat-o-milion-metru-krychlovych-plynu-vice.html</link>
+			<title>Norsko může Česku dodávat o milión metrů krychlových plynu více</title>
+			<description>Česko bude od Norska dostávat denně navíc milión metrů krychlových plynu. V České televizi to řekl ředitel České plynárenské Eduard Pálka. Česko mělo původně větší dodávky dostávat od 15. ledna, Česká plynárenská ale v Londýně ve středu dohodla, že by dodávky mohly začít už dříve.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158259-ceska-auta-nejdou-na-odbyt-obchod-zazil-nejvetsi-propad-od-roku-1994.html">
+			<link>http://www.novinky.cz/clanek/158259-ceska-auta-nejdou-na-odbyt-obchod-zazil-nejvetsi-propad-od-roku-1994.html</link>
+			<title>Česká auta nejdou na odbyt, obchod zažil největší propad od roku 1994</title>
+			<description>Zahraničnímu obchodu se podle předpokladů stále nedaří, listopadová bilance skončila schodkem 0,5 miliardy korun, což je meziroční zhoršení o 13 miliard korun. Podle Českého statistického úřadu je za špatným výsledkem zejména krize v autoprůmyslu.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158273-prodej-novych-aut-v-cr-loni-stoupl-o-8-4-procenta.html">
+			<link>http://www.novinky.cz/clanek/158273-prodej-novych-aut-v-cr-loni-stoupl-o-8-4-procenta.html</link>
+			<title>Prodej nových aut v ČR loni stoupl o 8,4 procenta</title>
+			<description>Prodej nových osobních aut v Česku loni přes oslabení poptávky v závěru roku meziročně vzrostl o 8,4 procenta na 143 661 vozů. Zájem o užitkové vozy se ale snížil o 3,3 procenta na 59 986 nově registrovaných automobilů. Uvedli to zástupci Svazu dovozců automobilů na čtvrteční tiskové konferenci.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158262-bavorsti-skolaci-budou-povinne-navstevovat-koncentracni-tabor.html">
+			<link>http://www.novinky.cz/clanek/158262-bavorsti-skolaci-budou-povinne-navstevovat-koncentracni-tabor.html</link>
+			<title>Bavorští školáci budou povinně navštěvovat koncentrační tábor</title>
+			<description>Školáci na jihu Německa budou mít povinnou exkurzi do některého z bývalých nacistických táborů. Opatření bavorských úřadů je reakcí na prosincové pobodání policejního šéfa v Pasově neonacistou.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158256-kanada-vyhosti-americkou-dezerterku-nechtela-do-iraku.html">
+			<link>http://www.novinky.cz/clanek/158256-kanada-vyhosti-americkou-dezerterku-nechtela-do-iraku.html</link>
+			<title>Kanada vyhostí americkou dezertérku, nechtěla do Iráku</title>
+			<description>Kanadské úřady nařídily deportaci první americké vojákyně, která na jejím území žádala o azyl, aby se vyhnula nasazení v Iráku. Matce tří dětí hrozí po návratu do Spojených států pět let za mřížemi.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158278-v-kanade-zatkli-dva-sektare-meli-dohromady-24-zen.html">
+			<link>http://www.novinky.cz/clanek/158278-v-kanade-zatkli-dva-sektare-meli-dohromady-24-zen.html</link>
+			<title>V Kanadě zatkli dva sektáře, měli dohromady 24 žen</title>
+			<description>V kanadské provincii Britská Kolumbie ve středu zatkli a obvinili z polygamie dvojici sektářských vůdců. Vůdcové Fundamentalistické církve Ježíše Krista Svatých posledních dnů pojali dohromady 24 manželek. Spousta z nich byly patnáctileté a šestnáctileté dívky ze Spojených států.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158286-video-pracovnik-tv-hamasu-vysilal-namisto-zaberu-z-gazy-eroticke-video.html">
+			<link>http://www.novinky.cz/clanek/158286-video-pracovnik-tv-hamasu-vysilal-namisto-zaberu-z-gazy-eroticke-video.html</link>
+			<title>VIDEO: Pracovník TV Hamásu vysílal namísto záběrů z Gazy erotické video</title>
+			<description>Pracovník televizní stanice al-Aksá palestinského radikálního hnutí Hamás nebude na noční službu ze středy na čtvrtek vzpomínat zrovna nejraději. Během služby se zřejmě nudil a rozhodl se podívat, co dávají na jiných satelitních kanálech. Skončil u polské erotické TV Patio. Neuvědomil si ale, že záběry vysílá ven.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158292-paris-hiltonova-spala-jsem-jen-se-dvema-muzi.html">
+			<link>http://www.novinky.cz/clanek/158292-paris-hiltonova-spala-jsem-jen-se-dvema-muzi.html</link>
+			<title>Paris Hiltonová: Spala jsem jen se dvěma muži</title>
+			<description>Skandalistka Paris začala nový rok opět okrašlováním své pověsti. Milionářka s reputací pornoherečky teď tvrdí, že její pohlavní život by mohl být příkladem pro řadu cudně žijících lidí. Ve svých necelých osmadvaceti prý spala jen se dvěma lidmi. A většinu ostatních příhod si vymyslela média, protože ona se s bezpočtem svých bývalých „jen líbala“.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158296-larry-flint-chce-po-kongresu-pet-miliard-na-oziveni-pornoprumyslu.html">
+			<link>http://www.novinky.cz/clanek/158296-larry-flint-chce-po-kongresu-pet-miliard-na-oziveni-pornoprumyslu.html</link>
+			<title>Larry Flint chce po Kongresu pět miliard na oživení pornoprůmyslu</title>
+			<description>Finanční krize se odráží i v pornoprůmyslu. Jeho nekorunovaný král Larry Flint se proto obrátil na americké zákonodárce, aby v těžkých dobách finančně nepomáhali jen automobilkám a finančním ústavům, ale aby mysleli také na oživení „zotavení sexuálního apetitu Ameriky“.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158144-zahadna-unava-z-nevhodneho-jidla.html">
+			<link>http://www.novinky.cz/clanek/158144-zahadna-unava-z-nevhodneho-jidla.html</link>
+			<title>Záhadná únava z nevhodného jídla</title>
+			<description>Cítíte se unavení a nevíte proč? Než začnete polykat vitamíny s ženšenem nebo běhat po lékařích, zkuste se zamyslet nad svým jídelníčkem. Příčinou potíží může být právě on. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158150-podle-vedcu-pripravky-na-detoxikaci-organismu-nefunguji.html">
+			<link>http://www.novinky.cz/clanek/158150-podle-vedcu-pripravky-na-detoxikaci-organismu-nefunguji.html</link>
+			<title>Podle vědců přípravky na detoxikaci organismu nefungují</title>
+			<description>Neexistují žádné důkazy, že produkty, které podle reklam mají pomoci tělu očistit se od škodlivých látek, doopravdy fungují, varují britští vědci na serveru BBC News. Charitativní nadace Sense About Science posuzovala 15 produktů od balené vody až po peeling obličeje a zjistila, že mnohá tvrzení o detoxikačních účincích nemají smysl.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158202-mnozstvi-a-kvalita-spermii-se-u-muzu-snizuje-s-rostouci-vahou.html">
+			<link>http://www.novinky.cz/clanek/158202-mnozstvi-a-kvalita-spermii-se-u-muzu-snizuje-s-rostouci-vahou.html</link>
+			<title>Množství a kvalita spermií se u mužů snižuje s rostoucí váhou</title>
+			<description>Obézní muži mají ve srovnání se štíhlými více než trojnásobnou pravděpodobnost, že budou mít málo spermií. Vyplývá to z nově zveřejněné studie lékařů z University v Utahu.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158267-praha-uvede-operu-waterse-z-pink-floydu.html">
+			<link>http://www.novinky.cz/clanek/158267-praha-uvede-operu-waterse-z-pink-floydu.html</link>
+			<title>Praha uvede operu Waterse z Pink Floydů</title>
+			<description>Česká premiéra opery bývalého člena skupiny Pink Floyd Rogera Waterse se připravuje na 1. května. Pod názvem Ca Ira (Půjde to) pojednává sice hlavně o Velké francouzské revoluci, ale obsahuje i scény z dalších revolucí včetně roku 1989.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158269-poslechnete-si-singly-z-novinky-bruce-springsteena.html">
+			<link>http://www.novinky.cz/clanek/158269-poslechnete-si-singly-z-novinky-bruce-springsteena.html</link>
+			<title>Poslechněte si singly z novinky Bruce Springsteena </title>
+			<description>Americký rockový veterán Bruce Sprigsteen přichystal na konec ledna nové album Working on a Dream. Ještě předtím vypustil na internet singly My Lucky Day a Working On a Dream, z nichž je cítit, že loňský návrat ke klasickému pop-rockovému zvuku po exkurzech do folku a spirituálů bude dlouhodobější.
+</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158270-rumunsky-snimek-4-mesice-3-tydny-a-2-dny-zvitezil-u-americkych-kritiku.html">
+			<link>http://www.novinky.cz/clanek/158270-rumunsky-snimek-4-mesice-3-tydny-a-2-dny-zvitezil-u-americkych-kritiku.html</link>
+			<title>Rumunský snímek 4 měsíce, 3 týdny a 2 dny zvítězil u amerických kritiků</title>
+			<description>Server Metacritic zveřejnil žebříček snímků, které měly loni za oceánem premiéru. Je jakousi kompilací hodnocení filmových recenzentů z více než čtyř desítek periodik celé Severní Ameriky. Výsledek je překvapivý. Tolik vychvalovaný batmanovský Temný rytíř se totiž nedostal ani do první desítky. Zvítězil rumunský snímek 4 měsíce, 3 týdny a 2 dny.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/157545-v-berline-vymiraji-tradicni-hospudky-na-ruzku-jedna-se-stale-drzi.html">
+			<link>http://www.novinky.cz/clanek/157545-v-berline-vymiraji-tradicni-hospudky-na-ruzku-jedna-se-stale-drzi.html</link>
+			<title>V Berlíně vymírají tradiční hospůdky na růžku, jedna se stále drží</title>
+			<description>Protikuřácký zákon i skladba obyvatel k nepoznání proměnily hospodský život v původně proletářských čtvrtích Berlína. Ke koloritu některých částí německé metropole patřily hospůdky na růžku, v nichž chlapi po práci diskutovali u levného piva. &quot;Eckkneipen&quot; jsou v tradičních hospodských čtvrtích stejně vzácné jako trabanty na zdejších silnicích. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158175-letecke-zajezdy-v-cesku-vyrazne-zlevnuji.html">
+			<link>http://www.novinky.cz/clanek/158175-letecke-zajezdy-v-cesku-vyrazne-zlevnuji.html</link>
+			<title>Letecké zájezdy v Česku výrazně zlevňují</title>
+			<description>Velké české cestovní kanceláře snížily od úterý o stovky korun palivové příplatky k ceně svých leteckých zájezdů. Snaží se tak nalákat klienty v době, kdy v důsledku světové finanční krize začali i v Česku mnozí lidé šetřit a zvažují, zda si letos zahraniční dovolenou neodpustí.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/157989-zadov-je-idealni-lyzarske-stredisko-predevsim-pro-rodiny-s-detmi.html">
+			<link>http://www.novinky.cz/clanek/157989-zadov-je-idealni-lyzarske-stredisko-predevsim-pro-rodiny-s-detmi.html</link>
+			<title>Zadov je ideální lyžařské středisko především pro rodiny s dětmi</title>
+			<description>Na oblíbený jihočeský lyžařský areál Zadov vyráží stále častěji ti, kdo nechtějí cestovat daleko a utrácet moc peněz. Středisko celkem nabízí přes čtyři kilometry sjezdových tratí i potřebné zázemí především pro rodiny s dětmi. Narozdíl od řady dalších středisek v letošním roce nezdražili na Zadově skipasy. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158215-jak-nainstalovat-do-dveri-vetraci-mrizku-a-porazit-vlhkost-v-byte.html">
+			<link>http://www.novinky.cz/clanek/158215-jak-nainstalovat-do-dveri-vetraci-mrizku-a-porazit-vlhkost-v-byte.html</link>
+			<title>Jak nainstalovat do dveří větrací mřížku, a porazit vlhkost v bytě</title>
+			<description>Průvlaky a průchodky obdélníkové, čtvercové i kulaté najdeme jak na pracovních nebo kuchyňských stolech, tak ve dveřích do koupelen, spíží i malých technických místností s pračkou nebo kotlem. Větrací mřížky slouží především k vytvoření zdravého, čerstvého pokojového klimatu a zabraňují vzniku vlhkým skvrnám a plísním. 
+</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/157985-stavebni-sporeni-se-bez-notare-neobejde.html">
+			<link>http://www.novinky.cz/clanek/157985-stavebni-sporeni-se-bez-notare-neobejde.html</link>
+			<title>Stavební spoření se bez notáře neobejde </title>
+			<description>Do kategorie finančních produktů, které za určitých okolností nemusí projít dědickým řízením, a tedy i projednáním u notáře, nespadá stavební spoření. Lidé v tom často chybují. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158180-kuze-prinasi-do-minimalistickeho-interieru-nadech-luxusu.html">
+			<link>http://www.novinky.cz/clanek/158180-kuze-prinasi-do-minimalistickeho-interieru-nadech-luxusu.html</link>
+			<title>Kůže přináší do minimalistického interiéru nádech luxusu </title>
+			<description>Pokud jste vyznavači kvalitních a odolných materiálů, tak si jistě zamilujete lehce udržovatelné interiérové kousky z kůže. Ať už si budete pořizovat pravou kůži nebo jako správní ochránci zvířat zůstanete jen u její imitace, tak vězte, že trendem je kombinovat kožené doplňky s minimalisticky zařízeným interiérem. 
+</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158164-kanadske-vysokoskolske-odbory-chteji-bojkotovat-ucitele-z-izraele.html">
+			<link>http://www.novinky.cz/clanek/158164-kanadske-vysokoskolske-odbory-chteji-bojkotovat-ucitele-z-izraele.html</link>
+			<title>Kanadské vysokoškolské odbory chtějí bojkotovat učitele z Izraele </title>
+			<description>Vysokoškolské odbory v kanadské provincii Ontario vyzvaly tamní univerzity, aby bojkotovaly izraelské přednášející. Odboráři tak chtějí protestovat proti izraelské ofenzivě v pásmu Gazy a zejména proti bombardování islámské univerzity 29. prosince.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158048-zamestnancum-vs-se-za-pet-let-zvedl-plat-o-46-procent.html">
+			<link>http://www.novinky.cz/clanek/158048-zamestnancum-vs-se-za-pet-let-zvedl-plat-o-46-procent.html</link>
+			<title>Zaměstnancům VŠ se za pět let zvedl plat o 46 procent </title>
+			<description>Od roku 2003 si zaměstnanci vysokých škol na výplatách polepšili o 46 procent. Nepedagogickým pracovníkům v mateřských, základních a středních školách se přitom zvýšila mzda &quot;jen&quot; o 19 procent. Vyplývá to z údajů Ústavu pro informace ve vzdělávání (ÚIV). Podle nich vzrostl průměrný plat ve školství od roku 2003 do roku 2007 o 29 procent. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158271-dopravni-odbory-chystaji-stavku.html">
+			<link>http://www.novinky.cz/clanek/158271-dopravni-odbory-chystaji-stavku.html</link>
+			<title> Dopravní odbory chystají stávku</title>
+			<description>Osm odborových organizací z odvětví dopravy pokračuje v přípravě stávky, která by zasáhla především železnici a pražskou MHD. Vyplývá to z jejich společného prohlášení. O zahájení stávky odboráři rozhodnou po 12. lednu. Ministr financí Miroslav Kalousek hodlá s odbory jednat o jejich požadavcích na schůzce 13. ledna. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158230-nakupem-knih-na-internetu-mohou-studenti-usetrit-tisice.html">
+			<link>http://www.novinky.cz/clanek/158230-nakupem-knih-na-internetu-mohou-studenti-usetrit-tisice.html</link>
+			<title>Nákupem knih na internetu mohou studenti ušetřit tisíce</title>
+			<description>Studujete na univerzitě a chcete ušetřit? Nakupujte knihy a skripta na internetu. Tak zní rada školního inspektora ze státu New York studentům amerických vysokých škol, uvedl americký deník The Buffalo News. Chytrým nakupováním prý mohou posluchači univerzit v přepočtu na naši měnu ušetřit až několik tisíc korun za semestr.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158214-univerzity-tretiho-veku-testuji-virtualni-vyuku.html">
+			<link>http://www.novinky.cz/clanek/158214-univerzity-tretiho-veku-testuji-virtualni-vyuku.html</link>
+			<title>Univerzity třetího věku testují virtuální výuku</title>
+			<description>V pátek 19. prosince 2008 se v budově Matematicko-fyzikální fakulty Karlovy univerzity konalo slavnostní shromáždění účastníků a organizátorů seniorského vzdělávání, známého jako Univerzita třetího věku (U3V). Hlavním tématem byla nová forma takzvané virtuální výuky.
+</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158120-skotsti-ucitele-varuji-pred-hlasitymi-skolnimi-zvonky.html">
+			<link>http://www.novinky.cz/clanek/158120-skotsti-ucitele-varuji-pred-hlasitymi-skolnimi-zvonky.html</link>
+			<title>Skotští učitelé varují před hlasitými školními zvonky</title>
+			<description>Skotští učitelé se dožadují méně hlasitých zvonků, které ve školách oznamují začátek a konec vyučovací hodiny. Hlasité zvonky podle pedagogů nerespektují zdravotní a hygienické normy a ohrožují sluch učitelů i žáků.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158059-hrajeme-zdarma-gravity-bone-spionazni-akce.html">
+			<link>http://www.novinky.cz/clanek/158059-hrajeme-zdarma-gravity-bone-spionazni-akce.html</link>
+			<title>Hrajeme zdarma: Gravity Bone – špionážní akce</title>
+			<description>Co se stane, když zkřížíte engine z akční hry s prvky adventury? Vznikne zajímavý titul, který se už dočkal mnoha ocenění a skytá v sobě velký potenciál. Přesvědčete se sami. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158238-video-lenovo-uvedlo-extremne-vykonny-notebook-se-dvema-displeji.html">
+			<link>http://www.novinky.cz/clanek/158238-video-lenovo-uvedlo-extremne-vykonny-notebook-se-dvema-displeji.html</link>
+			<title>VIDEO: Lenovo uvedlo extrémně výkonný notebook se dvěma displeji</title>
+			<description>Společnost Lenovo uvedla na český trh jeden z nejvýkonnějších notebooků současnosti. Hlavní předností nového zařízení je speciální druhý displej, který se v případě potřeby velice jednoduše vyklopí, a rozšíří tak stávající pracovní plochu i na cestách. Přednosti laptopu Lenovo W700ds tím ale zdaleka nekončí.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158280-chytry-mobil-lze-jednoduse-zablokovat-pomoci-specialni-sms.html">
+			<link>http://www.novinky.cz/clanek/158280-chytry-mobil-lze-jednoduse-zablokovat-pomoci-specialni-sms.html</link>
+			<title>Chytrý mobil lze jednoduše zablokovat pomocí speciální SMS</title>
+			<description>Německý hacker Tobias Engel objevil způsob, jak zablokovat příjem SMS a MMS zpráv na mobilních telefonech s operačním systémem Symbian Series 60 od Nokie. Stačí k tomu na mobilní telefon zaslat speciálně vytvořenou SMS zprávu. Celý postup, jak mobilní telefon zablokovat navíc Engel zveřejnil na svých internetových stránkách. Informoval o tom IT server Engadget.</description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158083-autosalony-vyprodavaji-sklady-auta-v-novem-roce-dale-zlevnuji.html">
+			<link>http://www.novinky.cz/clanek/158083-autosalony-vyprodavaji-sklady-auta-v-novem-roce-dale-zlevnuji.html</link>
+			<title>Autosalony vyprodávají sklady, auta v novém roce dále zlevňují</title>
+			<description>Prodejci nových aut se začali zbavovat skladových vozů a v novém roce přišli s další vlnou slev. Vybrané modely zlevnil až o pětinu například Peugeot, Citroën nebo Chevrolet. </description>
+		</item>
+	
+		<item rdf:about="http://www.novinky.cz/clanek/158268-nejvykonnejsi-verze-gt-r-od-nissanu-je-hubenejsi-a-rychlejsi.html">
+			<link>http://www.novinky.cz/clanek/158268-nejvykonnejsi-verze-gt-r-od-nissanu-je-hubenejsi-a-rychlejsi.html</link>
+			<title>Nejvýkonnější verze GT-R od Nissanu je hubenější a rychlejší</title>
+			<description>Nissan GT-R, japonský konkurent Porsche 911 Turbo se dočkal ještě výkonnější verze. Ta má ve svém názvu označení SpecV a kromě vyššího výkonu, jiné výfukové soustavy přišla i o zadní sedačky. Díky využití uhlíkových kompozitů došlo k snížení hmotnosti.</description>
+		</item>
+	
+</rdf:RDF>
