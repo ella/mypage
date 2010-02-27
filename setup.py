@@ -16,9 +16,9 @@ setup(
         'user customizing pages',
     )),
     author = 'centrum holdings s.r.o',
-    author_email='devel@centrumholdings.com',
-    license = 'commercial',
-    url='http://git.netcentrum.cz/projects/content/GIT/mypage.git/',
+    author_email='pg-content-dev@chconf.com',
+    license = 'BSD',
+    url='http://github.com/ella/mypage',
 
     packages = find_packages(
         where = '.',
